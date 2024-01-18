@@ -1,11 +1,13 @@
-ToIP Template Specification
+ToIP Main Glossary 
 ==================
 
-**Specification Status**: v1.0 Draft
+**Specification Status**: v0.0 Draft
 
 **Latest Draft:**
 
-[https://github.com/trustoverip/specification-template](https://github.com/trustoverip/specification-template)
+* [Github Repository](https://github.com/trustoverip/ctwg-main-glossary)
+* [Submit/View Issues](https://github.com/trustoverip/ctwg-main-glossary/issues)
+* other...
 
 **Editors:**
 
@@ -13,10 +15,12 @@ ToIP Template Specification
 
 **Contributors:**
 
+- [Darrell O'Donnell](https://github.com/darrellodonnell), [Continuum Loop Inc.](https://www.continuumloop.com/)
+
 **Participate:**
 
-~ [GitHub repo](https://github.com/trustoverip/specification-template)
-~ [Commit history](https://github.com/trustoverip/specification-template/commits/main)
+~ [GitHub repo](https://github.com/trustoverip/ctwg-main-glossary)
+~ [Commit history](https://github.com/trustoverip/ctwg-main-glossary/commits/main)
 
 ------------------------------------
 

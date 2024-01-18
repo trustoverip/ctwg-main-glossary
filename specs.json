@@ -2,7 +2,7 @@
 {
   "specs": [
     {
-      "title": "ToIP Template Specification",
+      "title": "ToIP Main Glossary v0.0",
       "spec_directory": "./spec",
       "output_path": "./docs",
       "markdown_paths": [

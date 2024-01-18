@@ -7,4 +7,6 @@
 
 ## Scope
 
-Describe the scope
+::: todo: Really Important
+  CTWG to create Scope content. 
+:::
