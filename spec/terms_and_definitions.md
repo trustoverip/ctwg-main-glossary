@@ -48,9 +48,9 @@ See also: legal identity.
 ## Sources for Terms & Definitions
 
 ::: todo: Really Important
-  Add table of sources
+  Add list (table?) of sources
 :::
 
-[def: NIST-CSRC]
-~ NIST Computer Security Resource Center Glossary
-* https://csrc.nist.gov/glossary/
+
+[[def: NIST-CSRC]] 
+~ [NIST Computer Security Resource Center Glossary](https://csrc.nist.gov/glossary/)
