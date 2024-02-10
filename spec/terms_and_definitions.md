@@ -209,41 +209,41 @@ See also: [permission](#permission).
 
 authorized organizational representative
 
-A [person](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.yx4qb6dcjdvj) who has the authority to make [claims](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.akieli6njkk5), sign documents or otherwise commit resources on behalf of an [organization](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.z27mp1358pi9).
+A [person](#natural-person) who has the authority to make [claims](#claim), sign documents or otherwise commit resources on behalf of an [organization](#organization).
 
 Source: [Law Insider](https://www.lawinsider.com/dictionary/authorized-organizational-representative#:~:text=Authorized%20Organizational%20Representative%20means%20the,the%20resources%20of%20the%20organization.)
 
 # authorization graph<a id="authorization-graph"></a>
 
-A graph of the [authorization](#authorization) relationships between different entities in a [trust community](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a9l3odcb1s29). In a [digital trust ecosystem](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.h47f86smlz4y), the [governing body](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.1wptecwzvuvz) is typically the [trust root](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.vfnyletkzjv5) of an authorization graph. In some cases, an authorization graph can be traversed by making queries to one or more [trust registries](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.5kzln6m5e8j5).
+A graph of the [authorization](#authorization) relationships between different entities in a [trust-community](#trust-community). In a [digital trust ecosystem](#digital-trust-ecosystem), the [governing body](#governing-body) is typically the [trust root](#trust-root) of an authorization graph. In some cases, an authorization graph can be traversed by making queries to one or more [trust registries](#trust-registries).
 
-See also: [governance graph](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.u9xnz96ecf5x), [reputation graph](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit?pli=1#heading=h.4wwkekt1wrs7), [trust graph](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit?pli=1#heading=h.eqx98nkqjzsv).
+See also: [governance graph](#governance-graph), [reputation graph](#reputation-graph), [trust graph](#trust-graph).
 
 # authoritative source<a id="authoritative-source"></a>
 
-A source of information that a [relying party](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.61sr3qnr1eci) considers to be [authoritative](#authority) for that information. In ToIP architecture, the [trust registry](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.5kzln6m5e8j5) authorized by the [governance framework](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.2x05z0r097mn) for a [trust community](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a9l3odcb1s29) is typically considered an authoritative source by the members of that [trust community](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a9l3odcb1s29). A [system of record](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ceh3cl4l0xnp) is an authoritative source for the data records it holds. A [trust root](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.vfnyletkzjv5) is an authoritative source for the beginning of a [trust chain](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.xsqvwmepvctc).
+A source of information that a [relying party](#relying-party) considers to be [authoritative](#authority) for that information. In ToIP architecture, the [trust registry](#trust-registry) authorized by the [governance framework (#governance-framework) for a [trust community](#trust-community) is typically considered an authoritative source by the members of that [trust community](#trust-community). A [system of record](#system-of-record) is an authoritative source for the data records it holds. A [trust root](#trust-root) is an authoritative source for the beginning of a [trust chain](#trust-chain).
 
 # authority<a id="authority"></a>
 
-A [party](https://essif-lab.github.io/framework/docs/terms/party) of which certain decisions, ideas, [rules](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.v7s575ulon74) etc. are followed by other [parties](https://essif-lab.github.io/framework/docs/terms/party).
+A [party](#party) of which certain decisions, ideas, [rules](#rule) etc. are followed by other [parties](https://essif-lab.github.io/framework/docs/terms/party).
 
 Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/terms/authority).
 
 # autonomic identifier<a id="autonomic-identifier"></a>
 
-The specific type of [self-certifying identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hub48c59i8wj) specified by the [KERI](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.7pp65h7qs9lu) specifications.
+The specific type of [self-certifying identifier](self-certifying-identifier) specified by the [KERI](#KERI) specifications.
 
-Also known as: [AID](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.15sa9rrid2f).
+Also known as: [AID](#AID).
 
 # biometric<a id="biometric"></a>
 
-A measurable physical characteristic or personal behavioral trait used to recognize the [identity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.z1gairv0pej5), or verify the [claimed](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.akieli6njkk5) [identity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.z1gairv0pej5), of an applicant. Facial images, fingerprints, and iris scan samples are all examples of biometrics.
+A measurable physical characteristic or personal behavioral trait used to recognize the [AID](#AID), or verify the [claimed](#claim) [identity](#identity), of an applicant. Facial images, fingerprints, and iris scan samples are all examples of biometrics.
 
 Source: [NIST](https://csrc.nist.gov/glossary/term/biometric)
 
 # blockchain<a id="blockchain"></a>
 
-A [distributed digital ledger](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.eoh04mpatko3) of cryptographically-signed transactions that are grouped into blocks. Each block is cryptographically linked to the previous one (making it tamper evident) after [validation](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.rbp41an0omv6) and undergoing a consensus decision. As new blocks are added, older blocks become more difficult to modify (creating [tamper resistance](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hpl12if94wa6)). New blocks are replicated across copies of the ledger within the network, and any conflicts are resolved automatically using established rules.
+A [distributed digital ledger](#distributed-ledger) of cryptographically-signed transactions that are grouped into blocks. Each block is cryptographically linked to the previous one (making it tamper evident) after [validation](#validation) and undergoing a consensus decision. As new blocks are added, older blocks become more difficult to modify (creating [tamper resistance](#tamper-resistant)). New blocks are replicated across copies of the ledger within the network, and any conflicts are resolved automatically using established rules.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/blockchain)
 
@@ -253,11 +253,11 @@ Supporting definitions:
 
 # broadcast<a id="broadcast"></a>
 
-In computer networking, telecommunication and information theory, broadcasting is a method of transferring a [message](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bge7ubygwk2q) to all recipients simultaneously. Broadcast delivers a message to all [nodes](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.w1aty8c036fp) in the network using a one-to-all association; a single [datagram](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.mxq90rincwo) (or [packet](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9hc1adgu2nrx)) from one sender is routed to all of the possibly multiple endpoints associated with the [broadcast address](#broadcast-address). The network automatically replicates [datagrams](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.mxq90rincwo) as needed to reach all the recipients within the scope of the broadcast, which is generally an entire network subnet.
+In computer networking, telecommunication and information theory, broadcasting is a method of transferring a [message](#message) to all recipients simultaneously. Broadcast delivers a message to all [nodes](#node) in the network using a one-to-all association; a single [datagram](#datagram) (or [packet](#data-packet)) from one sender is routed to all of the possibly multiple endpoints associated with the [broadcast address](#broadcast-address). The network automatically replicates [datagrams](#datagram) as needed to reach all the recipients within the scope of the broadcast, which is generally an entire network subnet.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Broadcasting_\(networking\)).
 
-See also: [anycast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.adr8osyk2zcx), [multicast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.nopxfdr8qtr6), [unicast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bqegn99wxkdi).
+See also: [anycast](#anycast), [multicast](#multicast), [unicast](#unicast).
 
 Supporting definitions:
 
@@ -265,7 +265,7 @@ Supporting definitions:
 
 # broadcast address<a id="broadcast-address"></a>
 
-A broadcast address is a [network address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.v9gosdu5b7z5) used to transmit to all devices connected to a multiple-access [communications](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.w02a6srdng3j) network. A [message](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bge7ubygwk2q) sent to a broadcast address may be received by all network-attached [hosts](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.3f5tvermqc9k). In contrast, a [multicast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.obmynoe7gkec) is used to address a specific group of devices, and a [unicast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.2p49ftuui3ug) is used to address a single device. For network layer communications, a broadcast address may be a specific [IP address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a8c3q7adyz7c).
+A broadcast address is a [network address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.v9gosdu5b7z5) used to transmit to all devices connected to a multiple-access [communications](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.w02a6srdng3j) network. A [message](#message) sent to a broadcast address may be received by all network-attached [hosts](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.3f5tvermqc9k). In contrast, a [multicast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.obmynoe7gkec) is used to address a specific group of devices, and a [unicast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.2p49ftuui3ug) is used to address a single device. For network layer communications, a broadcast address may be a specific [IP address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a8c3q7adyz7c).
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Network_address).
 
@@ -330,7 +330,7 @@ Note: [ACDCs](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVzno
 
 # chaining<a id="chaining"></a>
 
-See: [trust chain](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.xsqvwmepvctc).
+See: [trust chain](#trust-chain).
 
 
 # channel<a id="channel"></a>
@@ -1087,7 +1087,6 @@ Supporting definitions:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Federated_identity): A **federated identity** in [information technology](https://en.wikipedia.org/wiki/Information_technology) is the means of linking a person's [electronic identity](https://en.wikipedia.org/wiki/Digital_identity) and attributes, stored across multiple distinct [identity management](https://en.wikipedia.org/wiki/Identity_management) systems.
 
-
 # federation<a id="federation"></a>
 
 A group of [organizations](#organization) that collaborate to establish a common [trust framework](#trust-framework) or [governance framework](#governance-framework) for the exchange of [identity data](#identity-data) in a [federated identity](#federated-identity) system.
@@ -1196,7 +1195,6 @@ A document with at least one [identifier](#identifier) that specifies [governanc
 
 Note: A governance document is a component of a [governance framework](#governance-framework).
 
-
 # governance framework<a id="governance-framework"></a>
 
 A collection of one or more [governance documents](#governance-document) published by the [governing body](#governing-body) of a [trust community](#trust-community). 
@@ -1205,20 +1203,17 @@ Also known as: [trust framework](#trust-framework).
 
 Note: In the [digital identity](#digital-identity) industry specifically, a governance framework is better known as a [trust framework](#trust-framework). ToIP-conformant governance frameworks conform to the [ToIP Governance Architecture Specification](#toip-governance-architecture-specification) and follow the [ToIP Governance Metamodel](#toip-governance-metamodel).
 
-
 # governance graph<a id="governance-graph"></a>
 
 A graph of the [governance](#governance) relationships between [entities](#entity) with a [trust community](#trust-community). A governance graph shows which [nodes](#node) are the [governing bodies](#governing-body) and which are the [governed parties](#governed-party). In some cases, a governance graph can be traversed by making queries to one or more [trust registries](#trust-registry).Note: a [party](#party) can play both [roles](#role) and also be a participant in multiple [governance frameworks](#governance-framework).
 
 See also: [authorization graph](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.5tvkchqqqka8), [reputation graph](#reputation-graph), [trust graph](#trust-graph).
 
-
 # governance requirement<a id="governance-requirement"></a>
 
 A [requirement](#requirement) such as a [policy](#policy), [rule](#rule), or [technical specification](#technical-specification) specified in a [governance document](#governance-document).
 
 See also: [technical requirement](#technical-requirement).
-
 
 # governed use case<a id="governed-use-case"></a>
 
@@ -2499,7 +2494,6 @@ Supporting definitions:
 
 See: [self-certifying identifier](#self-certifying-identifier).
 
-
 # second party<a id="second-party"></a>
 
 The [party](#party) with whom a [first party](#first-party) engages to form a [trust relationship](#trust-relationship), establish a [connection](#connection), or execute a [transaction](#transaction).
@@ -3061,11 +3055,9 @@ The [properties](#property) of a [verifiable identifier](#verifiable-identifier)
 
 See also: [appraisability](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.wtzlm8ocwx7a). 
 
-
 # trust boundary<a id="trust-boundary"></a>
 
 The border of a [trust domain](#trust-domain).
-
 
 # trust chain<a id="trust-chain"></a>
 
@@ -3074,7 +3066,6 @@ A set of [cryptographically verifiable](#cryptographically-verifiable) links bet
 See also: [chained credentials](#chained-credentials), [trust graph](#trust-graph).
 
 For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
-
 
 # trust community<a id="trust-community"></a>
 
@@ -3127,7 +3118,7 @@ A term (most frequently used in the [digital identity](#digital-identity) indust
 
 # trust graph<a id="trust-graph"></a>
 
-A [data](#data) structure describing the [trust relationship](#trust-relationship) between two or more [entities](#entity). A simple trust graph may be expressed as a [trust list](#trust-list). More complex trust graphs can be recorded or registered in and queried from a [trust registry](#trust-registry). Trust graphs can also be expressed via [trust chains](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.xsqvwmepvctc) and [chained credentials](#chained-credentials). Trust graphs can enable [verifiers](#verifier-of-a-claim-or-credential) to make [transitive trust decisions](#transitive-trust-decision).
+A [data](#data) structure describing the [trust relationship](#trust-relationship) between two or more [entities](#entity). A simple trust graph may be expressed as a [trust list](#trust-list). More complex trust graphs can be recorded or registered in and queried from a [trust registry](#trust-registry). Trust graphs can also be expressed via [trust chains](#trust-chain) and [chained credentials](#chained-credentials). Trust graphs can enable [verifiers](#verifier-of-a-claim-or-credential) to make [transitive trust decisions](#transitive-trust-decision).
 
 See also: [authorization graph](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit?pli=1#heading=h.5tvkchqqqka8), [governance graph](#governance-graph), [reputation graph](#reputation-graph).
 
@@ -3188,7 +3179,7 @@ For more information, see: [Design Principles for the ToIP Stack](https://trusto
 
 # trust root<a id="trust-root"></a>
 
-The [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) that serves as the origin of a [trust chain](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.xsqvwmepvctc).
+The [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) that serves as the origin of a [trust chain](#trust-chain).
 
 For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
 
