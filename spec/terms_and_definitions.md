@@ -138,31 +138,31 @@ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/audit).
 
 # audit log<a id="audit-log"></a>
 
-An audit log is a security-relevant chronological [record](#record), set of [records](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.y4ybzkfe6yzv), and/or destination and source of [records](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.y4ybzkfe6yzv) that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, event, or device.
+An audit log is a security-relevant chronological [record](#record), set of [records](#record), and/or destination and source of [records](#record) that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, event, or device.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Audit_trail).
 
 Also known as: audit trail.
 
-See also: [key event log](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.6jhhyjh47h).
+See also: [key event log](#key-event-log).
 
 # auditor (of an entity)<a id="auditor-of-an-entity"></a>
 
-The [party](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.cn6bno48fomj) responsible for performing an [audit](#audit-of-system-controls). Typically an auditor must be [accredited](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.so5aazavq41d).
+The [party](#party) responsible for performing an [audit](#audit-of-system-controls). Typically an auditor must be [accredited](#accreditation-of-an-entity).
 
-See also: [human auditable](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.22bo41j3q290).
+See also: [human auditable](#human-auditable).
 
 # assurance level<a id="assurance-level"></a>
 
-A level of confidence in a [claim](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.akieli6njkk5) that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [authenticator assurance level](#authenticator-assurance-level), [federation assurance level](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.8fhj7rpnpjy3), and [identity assurance level](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.udr0qmo2ubln).
+A level of confidence in a [claim](#claim) that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [authenticator assurance level](#authenticator-assurance-level), [federation assurance level](federation-assurance-level), and [identity assurance level](identity-assurance-level).
 
 # authentication (of a user, process, or device)<a id="authentication-of-a-user-process-or-device"></a>
 
-Verifying the [identity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.z1gairv0pej5) of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
+Verifying the [identity](#identity) of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authentication).
 
-See also: [authenticator](#authenticator-of-an-entity), [verifiable message](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.7zrsx7mki2fr).
+See also: [authenticator](#authenticator-of-an-entity), [verifiable message](#verifiable-message).
 
 Supporting definitions:
 
@@ -170,7 +170,7 @@ Supporting definitions:
 
 # authenticator (of an entity)<a id="authenticator-of-an-entity"></a>
 
-Something the claimant possesses and controls (typically a cryptographic module or password) that is used to [authenticate](#authentication-of-a-user-process-or-device) the claimant’s [identity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.z1gairv0pej5).
+Something the claimant possesses and controls (typically a cryptographic module or password) that is used to [authenticate](#authentication-of-a-user-process-or-device) the claimant’s [identity](#identity).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticator).
 
@@ -180,32 +180,32 @@ A measure of the strength of an [authentication](#authentication-of-a-user-proce
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticator_assurance_level).
 
-See also: [federation assurance level](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.8fhj7rpnpjy3), [identity assurance level](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.udr0qmo2ubln), [identity binding](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.kwudvu8h2zex).
+See also: [federation assurance level](federation-assurance-level), [identity assurance level](identity-assurance-level), [identity binding](identity-binding).
 
 Note: In [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/sp800-63-3.html), AAL is defined in terms of three levels: AAL1 (Some confidence), AAL2 (High confidence), AAL3 (Very high confidence).
 
 # Authentic Chained Data Container<a id="authentic-chained-data-container"></a>
 
-A digital [data](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.o783ayrrkc6g) structure designed for both cryptographic [verification](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.2bnb6g8na7cu) and [chaining](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.kgtwd73pdfae) of data containers. ACDC may be used for [digital credentials](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ddna9lucn4k6).
+A digital [data](#data) structure designed for both cryptographic [verification](#verification) and [chaining](#chaining) of data containers. ACDC may be used for [digital credentials](#digital-credential).
 
 For more information, see: [ToIP ACDC Task Force](https://wiki.trustoverip.org/display/HOME/ACDC+%28Authentic+Chained+Data+Container%29+Task+Force).
 
 # authenticity<a id="authenticity"></a>
 
-The [property](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.c8vs1xa4uwn) of being genuine and being able to be [verified](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.k2qmzn3tjzsl) and trusted; confidence in the [validity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.rbp41an0omv6) of a transmission, a [message](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bge7ubygwk2q), or message originator.
+The [property](#property) of being genuine and being able to be [verified](#verifiable) and trusted; confidence in the [validity](#validation) of a transmission, a [message](#message), or message originator.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticity).
 
-See also: [confidentiality](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.445sv27j3c2m), [correlation privacy](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.7a6p0irhnbh5), [cryptographic verifiability](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.lbqfpvfmcmoq).
+See also: [confidentiality](#confidentiality), [correlation privacy](#correlation-privacy), [cryptographic verifiability](#cryptographic-verifiability).
 
 
 # authorization<a id="authorization"></a>
 
-The process of [verifying](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.xfewd7t01hu0) that a requested [action](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) or service is approved for a specific [entity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.5imtbzl1f4xo).
+The process of [verifying](#verifier-of-a-claim-or-credential) that a requested [action](#action) or service is approved for a specific [entity](#entity).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authorization).
 
-See also: [permission](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.mnqlrmrkqb9).
+See also: [permission](#permission).
 
 authorized organizational representative
 
