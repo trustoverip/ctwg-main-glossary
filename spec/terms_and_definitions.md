@@ -74,55 +74,55 @@ See [autonomic identifier](#autonomic-identifier).
 
 # anonymous<a id="anonymous"></a>
 
-An adjective describing when the [identity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.z1gairv0pej5) of a [natural person](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.yx4qb6dcjdvj) or other [actor](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip) is unknown.
+An adjective describing when the [identity](#identity) of a [natural person](#natural person) or other [actor](#actor) is unknown.
 
-See also: [pseudonym](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.tgbgt5tqzl4m).
+See also: [pseudonym](#pseudonym).
 
 # anycast<a id="anycast"></a>
 
-Anycast is a network [addressing](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.tv1389o42vzp) and [routing](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.tbxetxt0mdlp) methodology in which a single [IP address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a8c3q7adyz7c) is shared by devices (generally servers) in multiple locations. [Routers](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.oqbqyf914pln) direct packets addressed to this destination to the location nearest the sender, using their normal decision-making algorithms, typically the lowest number of BGP network hops. Anycast [routing](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.tbxetxt0mdlp) is widely used by [content deliv](https://en.wikipedia.org/wiki/Content_delivery_network)e[ry networks](https://en.wikipedia.org/wiki/Content_delivery_network) such as web and name servers, to bring their content closer to end users.
+Anycast is a network [addressing](#address) and [routing](#routing) methodology in which a single [IP-address](#IP-address) is shared by devices (generally servers) in multiple locations. [Routers](#router) direct packets addressed to this destination to the location nearest the sender, using their normal decision-making algorithms, typically the lowest number of BGP network hops. Anycast [routing](#routing) is widely used by [content deliv](https://en.wikipedia.org/wiki/Content_delivery_network)e[ry networks](https://en.wikipedia.org/wiki/Content_delivery_network) such as web and name servers, to bring their content closer to end users.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Anycast).
 
-See also: [broadcast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.s1uti8f9ufsv), [multicast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.nopxfdr8qtr6), [unicast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bqegn99wxkdi).
+See also: [broadcast](#broadcast), [multicast](#multicast), [unicast](#unicast).
 
 # anycast address<a id="anycast-address"></a>
 
-A [network address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.v9gosdu5b7z5) (especially an [IP address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a8c3q7adyz7c)) used for [anycast](#anycast) routing of network transmissions.
+A [network address](network-address) (especially an [IP address](IP-address)) used for [anycast](#anycast) routing of network transmissions.
 
 # appraisability (of a communications endpoint)<a id="appraisability-of-a-communications-endpoint"></a>
 
-The ability for a [communication endpoint](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.qstkv072p5tx) identified with a [verifiable identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.wyda231qefe) to be appraised for the set of its [properties](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.c8vs1xa4uwn) that enable a [relying party](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.61sr3qnr1eci) or a [verifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.xfewd7t01hu0) to make a [trust decision](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.m8c86ccqis9r) about communicating with that [endpoint](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.yodlnk353mx).
+The ability for a [communication endpoint](#communication-endpoint) identified with a [verifiable identifier](verifiable-identifier) to be appraised for the set of its [properties](#property) that enable a [relying party](#relying-party) or a [verifier](#verifier-of-a-claim-or-credential) to make a [trust decision](#trust-decision) about communicating with that [endpoint](#endpoint).
 
-See also: [trust basis](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hwb3cttekok1), [verifiability](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.v9dou4wg2h9d).
+See also: [trust basis](#trust-basis), [verifiability](#verifiability-of-a-digital-object-claim-or-assertion).
 
 # appropriate friction<a id="appropriate-friction"></a>
 
-A user-experience design principle for information systems (such as digital wallets) specifying that the level of attention required of the [holder](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.64mptmm24w7u) for a particular transaction should provide a reasonable opportunity for an informed choice by the [holder](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.64mptmm24w7u).
+A user-experience design principle for information systems (such as digital wallets) specifying that the level of attention required of the [holder](#holder) for a particular transaction should provide a reasonable opportunity for an informed choice by the [holder](#holder).
 
 Source: [PEMC IGR](https://kantarainitiative.org/download/pemc-implementors-guidance-report/).
 
 # attestation<a id="attestation"></a>
 
-The issue of a statement, based on a decision, that fulfillment of specified [requirements](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ajxlw8r3dvcc) has been demonstrated. In the context of decentralized digital trust infrastructure, an attestation usually has a [digital signature](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.s93np0i5rcne) so that it is [cryptographically verifiable](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.422iwwfur12).
+The issue of a statement, based on a decision, that fulfillment of specified [requirements](#requirement) has been demonstrated. In the context of decentralized digital trust infrastructure, an attestation usually has a [digital signature](#digital-signature) so that it is [cryptographically verifiable](#cryptographically-verifiable).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/attestation).
 
 # attribute<a id="attribute"></a>
 
-An identifiable set of data that describes an [entity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.5imtbzl1f4xo), which is the [subject](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.voca6uuv1a4) of the attribute. 
+An identifiable set of data that describes an [entity](#entity), which is the [subject](#subject) of the attribute. 
 
-See also: [property](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.c8vs1xa4uwn).
+See also: [property](#property).
 
 Supporting definitions:
 
 [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#attribute): [Data](https://essif-lab.github.io/framework/docs/terms/data) that represents a characteristic that a [party](https://essif-lab.github.io/framework/docs/terms/party) (the [owner](https://essif-lab.github.io/framework/docs/terms/owner) of the [attribute](https://essif-lab.github.io/framework/docs/terms/attribute)) has attributed to an [entity](https://essif-lab.github.io/framework/docs/terms/entity) (which is the [subject](https://essif-lab.github.io/framework/docs/terms/subject) of that attribute).
 
-Note: An [identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.u3bfehmj4ed3) is an attribute that uniquely identifies an [entity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.5imtbzl1f4xo) within some context.
+Note: An [identifier](#identifier) is an attribute that uniquely identifies an [entity](#entity) within some context.
 
 # attribute-based access control<a id="attribute-based-access-control"></a>
 
-An [access control](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.lmk4gqobt99b) approach in which access is mediated based on [attributes](#attribute) associated with [subjects](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.voca6uuv1a4) (requesters) and the objects to be accessed. Each object and [subject](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.voca6uuv1a4) has a set of associated [attributes](#attribute), such as location, time of creation, access rights, etc. Access to an object is [authorized](#authorization) or denied depending upon whether the required (e.g., policy-defined) correlation can be made between the [attributes](#attribute) of that object and of the requesting [subject](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.voca6uuv1a4).
+An [access control](#access-control) approach in which access is mediated based on [attributes](#attribute) associated with [subjects](#subject) (requesters) and the objects to be accessed. Each object and [subject](#subject) has a set of associated [attributes](#attribute), such as location, time of creation, access rights, etc. Access to an object is [authorized](#authorization) or denied depending upon whether the required (e.g., policy-defined) correlation can be made between the [attributes](#attribute) of that object and of the requesting [subject](#subject).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/attribute_based_access_control).
 
@@ -130,16 +130,15 @@ Supporting definitions:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Attribute-based_access_control): Attribute-based access control (ABAC), also known as policy-based access control for [IAM](https://en.wikipedia.org/wiki/Identity_management), defines an access control paradigm whereby a subject's authorization to perform a set of operations is determined by evaluating attributes associated with the subject, object, requested operations, and, in some cases, environment attributes.
 
-
 # audit (of system controls)<a id="audit-of-system-controls"></a>
 
-Independent review and examination of records and activities to assess the adequacy of system controls, to ensure compliance with established [policies](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.udts41hso4w4) and operational procedures.
+Independent review and examination of records and activities to assess the adequacy of system controls, to ensure compliance with established [policies](#policy) and operational procedures.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/audit).
 
 # audit log<a id="audit-log"></a>
 
-An audit log is a security-relevant chronological [record](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.y4ybzkfe6yzv), set of [records](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.y4ybzkfe6yzv), and/or destination and source of [records](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.y4ybzkfe6yzv) that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, event, or device.
+An audit log is a security-relevant chronological [record](#record), set of [records](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.y4ybzkfe6yzv), and/or destination and source of [records](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.y4ybzkfe6yzv) that provide documentary evidence of the sequence of activities that have affected at any time a specific operation, procedure, event, or device.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Audit_trail).
 
