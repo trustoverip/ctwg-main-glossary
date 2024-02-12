@@ -810,7 +810,7 @@ See also: [controller](#controller-of-a-key-vault-wallet-agent-or-device).
 
 # DID document<a id="did-document"></a>
 
-A set of data describing the [DID subject](#did-subject), including mechanisms, such as cryptographic public keys, that the [DID subject](#did-subject) or a DID delegate can use to [authenticate](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gp553sxzbmv1) itself and prove its association with the [DID](#did). A DID document might have one or more different representations as defined in section 6 of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification.
+A set of data describing the [DID subject](#did-subject), including mechanisms, such as cryptographic public keys, that the [DID subject](#did-subject) or a DID delegate can use to [authenticate](#authentication-of-a-user-process-or-device) itself and prove its association with the [DID](#did). A DID document might have one or more different representations as defined in section 6 of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification.
 
 Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology).
 
@@ -842,9 +842,9 @@ Source: [W3C DID](https://www.w3.org/TR/did-core/#dfn-did-urls).
 
 # digital agent<a id="digital-agent"></a>
 
-In the context of ​​decentralized digital trust infrastructure, an [agent](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.6xkhfkjpo6xg) (specifically a type of [software agent](#software-agent)) that operates in conjunction with a [digital wallet](#digital-wallet).
+In the context of ​​decentralized digital trust infrastructure, an [agent](#agent) (specifically a type of [software agent](#software-agent)) that operates in conjunction with a [digital wallet](#digital-wallet).
 
-Note: In a ToIP context, a digital agent is frequently assumed to have privileged access to the [digital wallet](#digital-wallet)(s) of its principal. In market parlance, a mobile app that performs the [actions](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) of a digital agent is often simply called a [wallet](#wallet) or a [digital wallet](#digital-wallet).
+Note: In a ToIP context, a digital agent is frequently assumed to have privileged access to the [digital wallet](#digital-wallet)(s) of its principal. In market parlance, a mobile app that performs the [actions](#action) of a digital agent is often simply called a [wallet](#wallet) or a [digital wallet](#digital-wallet).
 
 
 # digital asset<a id="digital-asset"></a>
@@ -896,7 +896,7 @@ Supporting definitions:
 
 # digital rights management<a id="digital-rights-management"></a>
 
-Digital rights management (DRM) is the management of legal access to digital content. Various tools or technological protection measures (TPM) like [access control](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.lmk4gqobt99b) technologies, can restrict the use of proprietary hardware and copyrighted works. DRM technologies govern the use, modification and distribution of copyrighted works (e.g. software, multimedia content) and of systems that enforce these policies within devices.
+Digital rights management (DRM) is the management of legal access to digital content. Various tools or technological protection measures (TPM) like [access control](#access-control) technologies, can restrict the use of proprietary hardware and copyrighted works. DRM technologies govern the use, modification and distribution of copyrighted works (e.g. software, multimedia content) and of systems that enforce these policies within devices.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Digital_rights_management).
 
@@ -905,12 +905,12 @@ Also known as: [DRM](#drm).
 
 # digital trust ecosystem<a id="digital-trust-ecosystem"></a>
 
-A [digital ecosystem](#digital-ecosystem) in which the participants are one or more interoperating [trust communities](#trust-community). Governance of the various [roles](#role) of [governed parties](#governed-party) within a digital trust ecosystem (e.g., [issuers](#issuer-of-a-claim-or-credential), [holders](#holder-of-a-claim-or-credential), [verifiers](#verifier-of-a-claim-or-credential), [certification bodies](#certification-body), [auditors](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.g2w6uyjqzrr)) is typically managed by a [governing body](#governing-body) using a [governance framework](#governance-framework) as recommended in the [ToIP Governance Stack](#toip-governance-stack). Many digital trust ecosystems will also maintain one or more [trust lists](#trust-list) and/or [trust registries](#trust-registry).
+A [digital ecosystem](#digital-ecosystem) in which the participants are one or more interoperating [trust communities](#trust-community). Governance of the various [roles](#role) of [governed parties](#governed-party) within a digital trust ecosystem (e.g., [issuers](#issuer-of-a-claim-or-credential), [holders](#holder-of-a-claim-or-credential), [verifiers](#verifier-of-a-claim-or-credential), [certification bodies](#certification-body), [auditors](#auditor-of-an-entity)) is typically managed by a [governing body](#governing-body) using a [governance framework](#governance-framework) as recommended in the [ToIP Governance Stack](#toip-governance-stack). Many digital trust ecosystems will also maintain one or more [trust lists](#trust-list) and/or [trust registries](#trust-registry).
 
 
 # digital trust utility<a id="digital-trust-utility"></a>
 
-An information system, network, distributed database, or [blockchain](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bxz57auzxstx) designed to provide one or more supporting services to higher level components of decentralized digital trust infrastructure. In the [ToIP stack](#toip-stack), digital trust utilities are at [Layer 1](#layer-1). A [verifiable data registry](#verifiable-data-registry) is one type of digital trust utility.
+An information system, network, distributed database, or [blockchain](#blockchain) designed to provide one or more supporting services to higher level components of decentralized digital trust infrastructure. In the [ToIP stack](#toip-stack), digital trust utilities are at [Layer 1](#layer-1). A [verifiable data registry](#verifiable-data-registry) is one type of digital trust utility.
 
 
 # digital signature<a id="digital-signature"></a>
@@ -947,12 +947,12 @@ Supporting definitions:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Digital_wallet): A digital wallet, also known as an e-wallet, is an [electronic device](https://en.wikipedia.org/wiki/Consumer_electronics), [online service](https://en.wikipedia.org/wiki/Online_service_provider), or [software program](https://en.wikipedia.org/wiki/Computer_program) that allows one party to make [electronic transactions](https://en.wikipedia.org/wiki/Electronic_transaction) with another party bartering [digital currency](https://en.wikipedia.org/wiki/Digital_currency) units for [goods and services](https://en.wikipedia.org/wiki/Goods_and_services). This can include purchasing items either [online](https://en.wikipedia.org/wiki/Online_and_offline) or at the [point of sale](https://en.wikipedia.org/wiki/Point_of_sale) in a [brick and mortar](https://en.wikipedia.org/wiki/Brick_and_mortar) store, using either [mobile payment](https://en.wikipedia.org/wiki/Mobile_payment) (on a [smartphone](https://en.wikipedia.org/wiki/Smartphone) or other [mobile device](https://en.wikipedia.org/wiki/Mobile_device)) or (for online buying only) using a [laptop](https://en.wikipedia.org/wiki/Laptop) or other [personal computer](https://en.wikipedia.org/wiki/Personal_computer). Money can be deposited in the digital wallet prior to any transactions or, in other cases, an individual's bank account can be linked to the digital wallet. Users might also have their [driver's license](https://en.wikipedia.org/wiki/Driver%27s_license), [health card](https://en.wikipedia.org/wiki/Health_Care_Card), loyalty card(s) and other ID documents stored within the wallet. The credentials can be passed to a merchant's terminal wirelessly via [near field communication](https://en.wikipedia.org/wiki/Near_field_communication) (NFC).
 
-Note: In market parlance, a mobile app that performs the [actions](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) of a [digital agent](#digital-agent) and has access to a set of [cryptographic keys](#cryptographic-key) is often simply called a [wallet](#wallet) or a digital wallet.
+Note: In market parlance, a mobile app that performs the [actions](#action) of a [digital agent](#digital-agent) and has access to a set of [cryptographic keys](#cryptographic-key) is often simply called a [wallet](#wallet) or a digital wallet.
 
 
 # distributed ledger<a id="distributed-ledger"></a>
 
-A distributed ledger (also called a shared ledger or distributed ledger technology or DLT) is the consensus of replicated, shared, and synchronized digital [data](#data) that is geographically spread (distributed) across many sites, countries, or institutions. In contrast to a centralized database, a distributed ledger does not require a central administrator, and consequently does not have a single (central) point-of-failure. In general, a distributed ledger requires a [peer-to-peer](#peer-to-peer) (P2P) computer network and consensus algorithms so that the ledger is reliably replicated across distributed computer [nodes](#node) (servers, clients, etc.). The most common form of distributed ledger technology is the [blockchain](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bxz57auzxstx), which can either be on a public or private network.
+A distributed ledger (also called a shared ledger or distributed ledger technology or DLT) is the consensus of replicated, shared, and synchronized digital [data](#data) that is geographically spread (distributed) across many sites, countries, or institutions. In contrast to a centralized database, a distributed ledger does not require a central administrator, and consequently does not have a single (central) point-of-failure. In general, a distributed ledger requires a [peer-to-peer](#peer-to-peer) (P2P) computer network and consensus algorithms so that the ledger is reliably replicated across distributed computer [nodes](#node) (servers, clients, etc.). The most common form of distributed ledger technology is the [blockchain](#blockchain), which can either be on a public or private network.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Distributed_ledger).
 
@@ -1098,11 +1098,11 @@ Supporting definitions:
 
 # federation assurance level<a id="federation-assurance-level"></a>
 
-A category that describes the [federation](#federation) protocol used to communicate an assertion containing [authentication](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ej596duqqmnb) and [attribute](#attribute) information (if applicable) to a [relying party](#relying-party), as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/) in terms of three levels: FAL 1 (Some confidence), FAL 2 (High confidence), FAL 3 (Very high confidence).
+A category that describes the [federation](#federation) protocol used to communicate an assertion containing [authentication](#authenticator-of-an-entity)) and [attribute](#attribute) information (if applicable) to a [relying party](#relying-party), as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/) in terms of three levels: FAL 1 (Some confidence), FAL 2 (High confidence), FAL 3 (Very high confidence).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/federation_assurance_level).
 
-See also: [authenticator assurance level](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a7560ebfrt4m), [identity assurance level](#identity-assurance-level).
+See also: [authenticator assurance level](#authenticator-assurance-level), [identity assurance level](#identity-assurance-level).
 
 
 # fiduciary<a id="fiduciary"></a>
@@ -1261,7 +1261,7 @@ Supporting definitions:
 
 For more information, see: [On Guardianship in Self-Sovereign Identity V2.0](https://sovrin.org/wp-content/uploads/Guardianship-Whitepaper-V2.0.pdf) (April, 2023).
 
-Note: A guardian is a very different role than a [custodian](#custodian), who does not take any [actions](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) on behalf of a [principal](#principal) unless explicitly [authorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh).
+Note: A guardian is a very different role than a [custodian](#custodian), who does not take any [actions](#action) on behalf of a [principal](#principal) unless explicitly [authorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh).
 
 
 # guardianship arrangement<a id="guardianship-arrangement"></a>
@@ -1400,7 +1400,7 @@ See: [identity assurance level](#identity-assurance-level).
 
 # identification<a id="identification"></a>
 
-The [action](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) of a [party](#party) obtaining the set of [identity data](#identity-data) necessary to serve as that [party’s](#party) [identity](#identity) for a specific [entity](#entity).
+The [action](#action) of a [party](#party) obtaining the set of [identity data](#identity-data) necessary to serve as that [party’s](#party) [identity](#identity) for a specific [entity](#entity).
 
 Note: The act of identification of a specific [entity](#entity) is relational to each [party](#party) that needs to perform that action. Therefore each party may end up with their own set of [identity data](#identity-data) that meets their specific [requirements](#requirement) for their specific [scope](#scope).
 
@@ -1464,7 +1464,7 @@ Supporting definitions:
 
 # identity provider<a id="identity-provider"></a>
 
-An identity provider (abbreviated IdP or IDP) is a system [entity](#entity) that creates, maintains, and manages [identity](#identity) information for [principals](#principal) and also provides [authentication](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gp553sxzbmv1) services to relying applications within a [federation](#federation) or distributed network.
+An identity provider (abbreviated IdP or IDP) is a system [entity](#entity) that creates, maintains, and manages [identity](#identity) information for [principals](#principal) and also provides [authentication](#authenticator-of-an-entity) services to relying applications within a [federation](#federation) or distributed network.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Identity_provider).
 
@@ -1537,7 +1537,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/IP_address).
 
 # issuance<a id="issuance"></a>
 
-The [action](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) of an [issuer](#issuer-of-a-claim-or-credential) producing and transmitting a [digital credential](#digital-credential) to a [holder](#holder-of-a-claim-or-credential). A [holder](#holder-of-a-claim-or-credential) may request issuance by submitting an [issuance request](#issuance-request).
+The [action](#action) of an [issuer](#issuer-of-a-claim-or-credential) producing and transmitting a [digital credential](#digital-credential) to a [holder](#holder-of-a-claim-or-credential). A [holder](#holder-of-a-claim-or-credential) may request issuance by submitting an [issuance request](#issuance-request).
 
 See also: [presentation](#presentation), [revocation](#revocation).
 
@@ -1879,7 +1879,7 @@ A [digital wallet](#digital-wallet) that is directly in the control of the [hold
 
 # objective<a id="objective"></a>
 
-Something toward which a [party](#party) (its [owner](#owner-of-an-entity)) directs effort (an aim, goal, or end of [action](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631)).
+Something toward which a [party](#party) (its [owner](#owner-of-an-entity)) directs effort (an aim, goal, or end of [action](#action)).
 
 Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/terms/objective).
 
@@ -1989,7 +1989,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Peer-to-peer).
 
 # permission<a id="permission"></a>
 
-[Authorization](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) to perform some [action](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) on a system.
+[Authorization](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) to perform some [action](#action) on a system.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/permission).
 
@@ -2241,7 +2241,7 @@ See also: [public key infrastructure](#public-key-infrastructure).
 
 # public key infrastructure<a id="public-key-infrastructure"></a>
 
-A set of policies, processes, server platforms, software and workstations used for the purpose of administering [certificates](#public-key-certificate) and [public-private key pairs](#public-key-cryptography), including the ability to [issue](#issuer-of-a-claim-or-credential), maintain, and [revoke](#revocation) [public key certificates](#public-key-certificate). The PKI includes the hierarchy of [certificate authorities](#certificate-authority) that allow for the deployment of [digital certificates](#digital-certificate) that support [encryption](#encryption), [digital signature](#digital-signature) and [authentication](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gp553sxzbmv1) to meet business and security requirements.
+A set of policies, processes, server platforms, software and workstations used for the purpose of administering [certificates](#public-key-certificate) and [public-private key pairs](#public-key-cryptography), including the ability to [issue](#issuer-of-a-claim-or-credential), maintain, and [revoke](#revocation) [public key certificates](#public-key-certificate). The PKI includes the hierarchy of [certificate authorities](#certificate-authority) that allow for the deployment of [digital certificates](#digital-certificate) that support [encryption](#encryption), [digital signature](#digital-signature) and [authentication](#authenticator-of-an-entity) to meet business and security requirements.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/public_key_infrastructure).
 
@@ -2421,7 +2421,7 @@ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/risk_mitigation).
 
 # role<a id="role"></a>
 
-A defined set of characteristics that an [entity](#entity) has in some context, such as responsibilities it may have, [actions](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) (behaviors) it may execute, or pieces of [knowledge](#knowledge) that it is expected to have in that context, which are referenced by a specific role name.
+A defined set of characteristics that an [entity](#entity) has in some context, such as responsibilities it may have, [actions](#action) (behaviors) it may execute, or pieces of [knowledge](#knowledge) that it is expected to have in that context, which are referenced by a specific role name.
 
 Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#role).
 
@@ -2460,7 +2460,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Routing).
 
 # rule<a id="rule"></a>
 
-A prescribed guide for conduct, process or [action](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) to achieve a defined result or [objective](#objective). Rules may be [human-readable](#human-readable) or [machine-readable](#machine-readable) or both.
+A prescribed guide for conduct, process or [action](#action) to achieve a defined result or [objective](#objective). Rules may be [human-readable](#human-readable) or [machine-readable](#machine-readable) or both.
 
 See also: [governance framework](#governance-framework), [policy](#policy).
 
@@ -3352,7 +3352,7 @@ A [governance framework](#governance-framework) for a [digital trust utility](#d
 
 # validation<a id="validation"></a>
 
-An [action](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) an [agent](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.6xkhfkjpo6xg) (of a [principal](#principal)) performs to determine whether a digital object or set of [data](#data) meets the [requirements](#requirement) of a specific [party](#party).
+An [action](#action) an [agent](#agent) (of a [principal](#principal)) performs to determine whether a digital object or set of [data](#data) meets the [requirements](#requirement) of a specific [party](#party).
 
 See also: [verification](#verification).
 
@@ -3440,7 +3440,7 @@ See also: [ToIP messages](#toip-message) 
 
 # verification<a id="verification"></a>
 
-An [action](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) an [agent](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.6xkhfkjpo6xg) (of a [principal](#principal)) performs to determine the[ authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u) of a [claim](#claim) or other digital object using a [cryptographic key](#cryptographic-key).
+An [action](#action) an [agent](#agent) (of a [principal](#principal)) performs to determine the [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u) of a [claim](#claim) or other digital object using a [cryptographic key](#cryptographic-key).
 
 See also: [validation](#validation).
 
@@ -3521,7 +3521,7 @@ For more information: The charter of the [OpenWallet Foundation](#openwallet-fou
 
 # witness<a id="witness"></a>
 
-A computer system that receives, [verifies](#verifier-of-a-claim-or-credential), and stores [proofs](#proof) of [key events](#key-event) for a [verifiable identifier](#verifiable-identifier) (especially an [autonomous identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bz098kwwc559)). Each witness controls its own [verifiable identifier](#verifiable-identifier) used to sign [key event](#key-event) messages stored by the witness. A witness may use any suitable computer system or database architecture, including a file, centralized database, distributed database, [distributed ledger](#distributed-ledger), or [blockchain](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bxz57auzxstx).
+A computer system that receives, [verifies](#verifier-of-a-claim-or-credential), and stores [proofs](#proof) of [key events](#key-event) for a [verifiable identifier](#verifiable-identifier) (especially an [autonomous identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bz098kwwc559)). Each witness controls its own [verifiable identifier](#verifiable-identifier) used to sign [key event](#key-event) messages stored by the witness. A witness may use any suitable computer system or database architecture, including a file, centralized database, distributed database, [distributed ledger](#distributed-ledger), or [blockchain](#blockchain).
 
 Note: [KERI](#keri) is an example of a [key management system](#key-management-system) that uses witnesses.
 
