@@ -265,7 +265,7 @@ Supporting definitions:
 
 # broadcast address<a id="broadcast-address"></a>
 
-A broadcast address is a [network address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.v9gosdu5b7z5) used to transmit to all devices connected to a multiple-access [communications](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.w02a6srdng3j) network. A [message](#message) sent to a broadcast address may be received by all network-attached [hosts](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.3f5tvermqc9k). In contrast, a [multicast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.obmynoe7gkec) is used to address a specific group of devices, and a [unicast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.2p49ftuui3ug) is used to address a single device. For network layer communications, a broadcast address may be a specific [IP address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a8c3q7adyz7c).
+A broadcast address is a [network address](#network-address) used to transmit to all devices connected to a multiple-access [communications](#communication) network. A [message](#message) sent to a broadcast address may be received by all network-attached [hosts](#host). In contrast, a [multicast address](#multicast-address) is used to address a specific group of devices, and a [unicast address](#unicast-address) is used to address a single device. For network layer communications, a broadcast address may be a specific [IP address](#IP-address).
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Network_address).
 
@@ -304,7 +304,7 @@ Supporting definitions:
 
 # certification (of a party)<a id="certification-of-a-party"></a>
 
-A comprehensive assessment of the management, operational, and technical security controls in an information system, made in support of security [accreditation](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.so5aazavq41d), to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security [requirements](#requirement) for the system.
+A comprehensive assessment of the management, operational, and technical security controls in an information system, made in support of security [accreditation](#accreditation-of-an-entity), to determine the extent to which the controls are implemented correctly, operating as intended, and producing the desired outcome with respect to meeting the security [requirements](#requirement) for the system.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/certification).
 
@@ -318,14 +318,14 @@ For more information: <https://en.wikipedia.org/wiki/Professional_certification>
 
 # chain of trust<a id="chain-of-trust"></a>
 
-See: [trust chain](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.xsqvwmepvctc).
+See: [trust chain](#trust-chain).
 
 
 # chained credentials<a id="chained-credentials"></a>
 
-Two or more [credentials](#credential) linked together to create a [trust chain](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.xsqvwmepvctc) between the credentials that is [cryptographically verifiable](#cryptographically-verifiable). 
+Two or more [credentials](#credential) linked together to create a [trust chain](#trust-chain) between the credentials that is [cryptographically verifiable](#cryptographically-verifiable). 
 
-Note: [ACDCs](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.8qlmnalwgxgy) are a type of [digital credential](#digital-credential) that explicitly supports [chaining](#chaining).
+Note: [ACDCs](#ACDC) are a type of [digital credential](#digital-credential) that explicitly supports [chaining](#chaining).
 
 
 # chaining<a id="chaining"></a>
@@ -347,7 +347,7 @@ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/ciphertext).
 
 # claim<a id="claim"></a>
 
-An assertion about a [subject](#subject), typically expressed as an [attribute](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak) or [property](#property) of the [subject](#subject). It is called a “claim” because the assertion is always made by some [party](#party), called the [issuer](#issuer-of-a-claim-or-credential) of the claim, and the [validity](#validation) of the claim must be judged by the [verifier](#verifier-of-a-claim-or-credential). 
+An assertion about a [subject](#subject), typically expressed as an [attribute](#attribute) or [property](#property) of the [subject](#subject). It is called a “claim” because the assertion is always made by some [party](#party), called the [issuer](#issuer-of-a-claim-or-credential) of the claim, and the [validity](#validation) of the claim must be judged by the [verifier](#verifier-of-a-claim-or-credential). 
 
 Supporting definitions:
 
@@ -382,8 +382,7 @@ A type of communication network node. It is an interface exposed by a communicat
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Communication_endpoint).
 
-See also: [ToIP endpoint](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.e787fzjepk60).
-
+See also: [ToIP endpoint](#ToIP-endpoint).
 
 # communication channel<a id="communication-channel"></a>
 
@@ -396,7 +395,6 @@ See also: [ToIP channel](#toip-channel).
 Supporting definitions:
 
 [eSSIF-Lab](https://essif-lab.github.io/framework/docs/terms/communication-channel): a (digital or non-digital) means by which two [actors](https://essif-lab.github.io/framework/docs/terms/actor) can exchange messages with one another.
-
 
 # communication metadata<a id="communication-metadata"></a>
 
@@ -427,7 +425,7 @@ Supporting definitions:
 
 # compliance<a id="compliance"></a>
 
-In the context of decentralized digital trust infrastructure, the extent to which a system, [actor](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip), or [party](#party) conforms to the requirements of a [governance framework](#governance-framework) or [trust framework](#trust-framework) that pertains to that particular [entity](#entity).
+In the context of decentralized digital trust infrastructure, the extent to which a system, [actor](#actor), or [party](#party) conforms to the requirements of a [governance framework](#governance-framework) or [trust framework](#trust-framework) that pertains to that particular [entity](#entity).
 
 See also: [Governance, Risk Management, and Compliance](#governance-risk-management-and-compliance).
 
@@ -460,9 +458,9 @@ Supporting definitions:
 
 # confidentiality<a id="confidentiality"></a>
 
-In a [communications](#communication) context, a type of privacy protection in which [messages](#message) use [encryption](#encryption) or other privacy-preserving technologies so that only [authorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) [parties](#party) have access.
+In a [communications](#communication) context, a type of privacy protection in which [messages](#message) use [encryption](#encryption) or other privacy-preserving technologies so that only [authorized](#authorization) [parties](#party) have access.
 
-See also: [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u), [correlation privacy](#correlation-privacy).
+See also: [authenticity](#authenticity), [correlation privacy](#correlation-privacy).
 
 Supporting definitions:
 
@@ -489,7 +487,7 @@ Also known as: [CAI](#cai).
 
 # controller (of a key, vault, wallet, agent, or device)<a id="controller-of-a-key-vault-wallet-agent-or-device"></a>
 
-In the context of digital [communications](#communication), the [entity](#entity) in control of sending and receiving digital [communications](#communication). In the context of decentralized digital trust infrastructure, the [entity](#entity) in control of the [cryptographic keys](#cryptographic-key) necessary to perform [cryptographically verifiable](#cryptographically-verifiable) [actions](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) using a [digital agent](#digital-agent) and [digital wallet](#digital-wallet). In a ToIP context, the [entity](#entity) in control of a [ToIP endpoint](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.e787fzjepk60).
+In the context of digital [communications](#communication), the [entity](#entity) in control of sending and receiving digital [communications](#communication). In the context of decentralized digital trust infrastructure, the [entity](#entity) in control of the [cryptographic keys](#cryptographic-key) necessary to perform [cryptographically verifiable](#cryptographically-verifiable) [actions](#action) using a [digital agent](#digital-agent) and [digital wallet](#digital-wallet). In a ToIP context, the [entity](#entity) in control of a [ToIP endpoint](#ToIP-endpoint).
 
 See also: [device controller](#device-controller), [DID controller](#did-controller), [ToIP controller](#toip-controller).
 
@@ -514,9 +512,9 @@ A [governance document](#governance-document) whose authority is derived from a 
 
 # correlation privacy<a id="correlation-privacy"></a>
 
-In a [communications](#communication) context, a type of privacy protection in which [messages](#message) use [encryption](#encryption), [hashes](#hash), or other privacy-preserving technologies to avoid the use of [identifiers](#identifier) or other content that [unauthorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) [parties](#party) may use to correlate the sender and/or receiver(s).
+In a [communications](#communication) context, a type of privacy protection in which [messages](#message) use [encryption](#encryption), [hashes](#hash), or other privacy-preserving technologies to avoid the use of [identifiers](#identifier) or other content that [unauthorized](#authorization) [parties](#party) may use to correlate the sender and/or receiver(s).
 
-See also: [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u), [confidentiality](#confidentiality).
+See also: [authenticity](#authenticity), [confidentiality](#confidentiality).
 
 
 # counterparty<a id="counterparty"></a>
@@ -532,7 +530,7 @@ Supporting definitions:
 
 # credential<a id="credential"></a>
 
-A container of [claims](#claim) describing one or more [subjects](#subject). A credential is generated by the [issuer](#issuer-of-a-claim-or-credential) of the credential and given to the [holder](#holder-of-a-claim-or-credential) of the credential. A credential typically includes a signature or some other means of proving its [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u). A credential may be either a [physical credential](#physical-credential) or a [digital credential](#digital-credential).
+A container of [claims](#claim) describing one or more [subjects](#subject). A credential is generated by the [issuer](#issuer-of-a-claim-or-credential) of the credential and given to the [holder](#holder-of-a-claim-or-credential) of the credential. A credential typically includes a signature or some other means of proving its [authenticity](#authenticity). A credential may be either a [physical credential](#physical-credential) or a [digital credential](#digital-credential).
 
 See also: [verifiable credential](#verifiable-credential).
 
@@ -632,7 +630,7 @@ Supporting definitions:
 
 [NIST-CSRC](https://csrc.nist.gov/glossary/term/custodian): A third-party [entity](#entity) that holds and safeguards a user’s [private keys](#private-key) or digital assets on their behalf. Depending on the system, a custodian may act as an exchange and provide additional services, such as staking, lending, account recovery, or security features.
 
-Note: While a custodian technically has the necessary access to in theory [impersonate](#impersonation) the [principal](#principal), in most cases a custodian is expressly prohibited from taking any action on the [principal’s](#principal) account unless explicitly [authorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh) by the [principal](#principal). This is what distinguishes custodianship from [guardianship](#guardian).
+Note: While a custodian technically has the necessary access to in theory [impersonate](#impersonation) the [principal](#principal), in most cases a custodian is expressly prohibited from taking any action on the [principal’s](#principal) account unless explicitly [authorized](#authorization) by the [principal](#principal). This is what distinguishes custodianship from [guardianship](#guardian).
 
 
 # custodianship arrangement<a id="custodianship-arrangement"></a>
@@ -695,7 +693,7 @@ See: [digital vault](#digital-vault).
 
 # decentralized identifier<a id="decentralized-identifier"></a>
 
-A globally unique persistent [identifier](#identifier) that does not require a centralized [registration](#registration) [authority](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh) and is often generated and/or registered cryptographically. The generic format of a DID is defined in section [3.1 DID Syntax](https://www.w3.org/TR/did-core/#did-syntax) of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification. A specific DID scheme is defined in a [DID method](#did-method) specification.
+A globally unique persistent [identifier](#identifier) that does not require a centralized [registration](#registration) [authority](#authority) and is often generated and/or registered cryptographically. The generic format of a DID is defined in section [3.1 DID Syntax](https://www.w3.org/TR/did-core/#did-syntax) of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification. A specific DID scheme is defined in a [DID method](#did-method) specification.
 
 Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology).
 
@@ -1027,7 +1025,7 @@ For more information, see: <https://trustoverip.org/permalink/Design-Principles-
 
 See: [communication endpoint](#communication-endpoint).
 
-See also: [ToIP endpoint](#toip-endpoint).
+See also: [ToIP endpoint](#ToIP-endpoint).
 
 
 # endpoint system<a id="endpoint-system"></a>
@@ -1100,7 +1098,7 @@ Supporting definitions:
 
 # federation assurance level<a id="federation-assurance-level"></a>
 
-A category that describes the [federation](#federation) protocol used to communicate an assertion containing [authentication](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ej596duqqmnb) and [attribute](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak) information (if applicable) to a [relying party](#relying-party), as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/) in terms of three levels: FAL 1 (Some confidence), FAL 2 (High confidence), FAL 3 (Very high confidence).
+A category that describes the [federation](#federation) protocol used to communicate an assertion containing [authentication](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ej596duqqmnb) and [attribute](#attribute) information (if applicable) to a [relying party](#relying-party), as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/) in terms of three levels: FAL 1 (Some confidence), FAL 2 (High confidence), FAL 3 (Very high confidence).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/federation_assurance_level).
 
@@ -1409,7 +1407,7 @@ Note: The act of identification of a specific [entity](#entity) is relational to
 
 # identifier<a id="identifier"></a>
 
-A single [attribute](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak)—typically a character string—that uniquely identifies an [entity](#entity) within a specific context (which may be a global context). Examples include the name of a [party,](#party) the URL of an [organization](#organization), or a serial number for a [man-made thing](#man-made-thing).
+A single [attribute](#attribute)—typically a character string—that uniquely identifies an [entity](#entity) within a specific context (which may be a global context). Examples include the name of a [party,](#party) the URL of an [organization](#organization), or a serial number for a [man-made thing](#man-made-thing).
 
 Supporting definitions:
 
@@ -1751,7 +1749,7 @@ Source: [Sovrin Foundation Glossary V3](https://docs.google.com/document/d/1gfIz
 
 Contrast with: [natural thing](#natural-thing).
 
-Note: Active things are the equivalent of non-human [actors ](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip)in the eSSIF-Lab mental model [Parties, Actors, Actions](https://essif-lab.pages.grnet.gr/framework/docs/terms/pattern-party-actor-action). Also see[ Appendix B](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit#heading=h.mq7pzglc1j96) and[ Appendix C](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit#heading=h.uiq9py7xnmxd) of the Sovrin Glossary.
+Note: Active things are the equivalent of non-human [actors ](#actor)in the eSSIF-Lab mental model [Parties, Actors, Actions](https://essif-lab.pages.grnet.gr/framework/docs/terms/pattern-party-actor-action). Also see[ Appendix B](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit#heading=h.mq7pzglc1j96) and[ Appendix C](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit#heading=h.uiq9py7xnmxd) of the Sovrin Glossary.
 
 
 # mandatory<a id="mandatory"></a>
@@ -1812,7 +1810,7 @@ A multicast address is a logical [identifier](#identifier) for a group of [hosts
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Multicast_address).
 
-See also: [broadcast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.7gok5zmnh6an), unicast address.
+See also: [broadcast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.7gok5zmnh6an), [unicast address](#unicast-address).
 
 
 # multi-party computation<a id="multi-party-computation"></a>
@@ -1857,7 +1855,7 @@ Contrast with: [man-made thing](#man-made-thing).
 
 For more information see: [Appendix B](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit#heading=h.mq7pzglc1j96) and[ Appendix C](https://docs.google.com/document/d/1gfIz5TT0cNp2kxGMLFXr19x1uoZsruUe_0glHst2fZ8/edit#heading=h.uiq9py7xnmxd) of the Sovrin Glossary
 
-Note: Natural things (those recognized to have legal rights) can be [parties](#party) but never [actors](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip) in the eSSIF-Lab mental model [Parties, Actors, Actions](https://essif-lab.pages.grnet.gr/framework/docs/terms/pattern-party-actor-action). 
+Note: Natural things (those recognized to have legal rights) can be [parties](#party) but never [actors](#actor) in the eSSIF-Lab mental model [Parties, Actors, Actions](https://essif-lab.pages.grnet.gr/framework/docs/terms/pattern-party-actor-action). 
 
 
 # network address<a id="network-address"></a>
@@ -1973,7 +1971,7 @@ See also: [complex password](#complex-password).
 
 # peer<a id="peer"></a>
 
-In the context of digital networks, an [actor](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip) on the network that has the same status, privileges, and communications options as the other actors on the network.
+In the context of digital networks, an [actor](#actor) on the network that has the same status, privileges, and communications options as the other actors on the network.
 
 See also: [peer-to-peer](#peer-to-peer).
 
@@ -1998,7 +1996,7 @@ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/permission).
 
 # persistent connection<a id="persistent-connection"></a>
 
-A [connection](#connection) that is able to persist across multiple [communication sessions](#communication-session). In a ToIP context, a persistent connection is established when two [ToIP endpoints](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.e787fzjepk60) exchange [verifiable identifiers](#verifiable-identifier) that they can use to re-establish the [connection](#connection) with each other whenever it is needed.
+A [connection](#connection) that is able to persist across multiple [communication sessions](#communication-session). In a ToIP context, a persistent connection is established when two [ToIP endpoints](#ToIP-endpoint) exchange [verifiable identifiers](#verifiable-identifier) that they can use to re-establish the [connection](#connection) with each other whenever it is needed.
 
 Contrast with: [ephemeral connection](#ephemeral-connection).
 
@@ -2031,7 +2029,7 @@ Contrast with: [enterprise wallet](#enterprise-wallet).
 
 # personally identifiable information<a id="personally-identifiable-information"></a>
 
-Information (any form of [data](#data)) that can be used to directly or indirectly [identify](#identity) or re-identify an individual person either singly or in combination within a single [record](#record) or in correlation with other [records](#record). This information can be one or more [attributes](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak)/fields/[properties](#property) in a [record](#record) (e.g., date-of-birth) or one or more [records](#record) (e.g., medical records).
+Information (any form of [data](#data)) that can be used to directly or indirectly [identify](#identity) or re-identify an individual person either singly or in combination within a single [record](#record) or in correlation with other [records](#record). This information can be one or more [attributes](#attribute)/fields/[properties](#property) in a [record](#record) (e.g., date-of-birth) or one or more [records](#record) (e.g., medical records).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/personally_identifiable_information)
 
@@ -2175,9 +2173,9 @@ See: [liveness detection](#liveness-detection).
 
 # property<a id="property"></a>
 
-In the context of digital communication, an [attribute](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak) of a digital object or [data](#data) structure, such as a [DID document](#did-document) or a [schema](#schema).
+In the context of digital communication, an [attribute](#attribute) of a digital object or [data](#data) structure, such as a [DID document](#did-document) or a [schema](#schema).
 
-See also: [attribute](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak), [claim](#claim).
+See also: [attribute](#attribute), [claim](#claim).
 
 
 # protected data<a id="protected-data"></a>
@@ -2352,7 +2350,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation_system).
 
 # requirement<a id="requirement"></a>
 
-A specified condition or behavior to which a system needs to [comply](#compliance). [Technical requirements](#technical-requirement) are defined in [technical specifications](#technical-specification) and implemented in computer systems to be executed by software [actors](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip). [Governance requirements](#governance-requirement) are defined in [governance documents](#governance-document) that specify [policies](#policy) and procedures to be executed by human [actors](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip). In ToIP architecture, requirements are expressed using the keywords defined in Internet RFC 2119.
+A specified condition or behavior to which a system needs to [comply](#compliance). [Technical requirements](#technical-requirement) are defined in [technical specifications](#technical-specification) and implemented in computer systems to be executed by software [actors](#actor). [Governance requirements](#governance-requirement) are defined in [governance documents](#governance-document) that specify [policies](#policy) and procedures to be executed by human [actors](#actor). In ToIP architecture, requirements are expressed using the keywords defined in Internet RFC 2119.
 
 See also: [mandatory](#mandatory), [recommended](#recommended), [optional](#optional).
 
@@ -2816,12 +2814,12 @@ See: VID relationship.
 
 # ToIP communication<a id="toip-communication"></a>
 
-[Communication](#communication) that uses the [ToIP stack](#toip-stack) to deliver [ToIP messages](#toip-message) between [ToIP endpoints](#toip-endpoint), optionally using [ToIP intermediaries](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hcobm4uk16ff), to provide [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u), [confidentiality](#confidentiality), and [correlation privacy](#correlation-privacy).
+[Communication](#communication) that uses the [ToIP stack](#toip-stack) to deliver [ToIP messages](#toip-message) between [ToIP endpoints](#ToIP-endpoint), optionally using [ToIP intermediaries](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hcobm4uk16ff), to provide [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u), [confidentiality](#confidentiality), and [correlation privacy](#correlation-privacy).
 
 
 # ToIP connection<a id="toip-connection"></a>
 
-A [connection](#connection) formed using the [ToIP Trust Spanning Protocol](#toip-trust-spanning-protocol) between two [ToIP endpoints](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.e787fzjepk60) identified with [verifiable identifiers](#verifiable-identifier). A ToIP connection is instantiated as one or more [VID relationships](#vid-relationship).
+A [connection](#connection) formed using the [ToIP Trust Spanning Protocol](#toip-trust-spanning-protocol) between two [ToIP endpoints](#ToIP-endpoint) identified with [verifiable identifiers](#verifiable-identifier). A ToIP connection is instantiated as one or more [VID relationships](#vid-relationship).
 
 
 # ToIP controller<a id="toip-controller"></a>
@@ -2910,7 +2908,7 @@ The [trust application](#trust-application) layer of the [ToIP stack](#toip-stac
 
 # ToIP message<a id="toip-message"></a>
 
-A [message](#message) communicated between [ToIP endpoints](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.e787fzjepk60) using the [ToIP stack](#toip-stack).
+A [message](#message) communicated between [ToIP endpoints](#ToIP-endpoint) using the [ToIP stack](#toip-stack).
 
 
 # ToIP stack<a id="toip-stack"></a>
@@ -2958,7 +2956,7 @@ The open standard [trust task protocol](#trust-task-protocol) defined by the [To
 
 # ToIP Trust Spanning Protocol<a id="toip-trust-spanning-protocol"></a>
 
-The ToIP Layer 2 protocol for [verifiable messaging](#verifiable-message) that implements the [trust spanning layer](#trust-spanning-layer) of the [ToIP stack](#toip-stack).  The ToIP Trust Spanning Protocol enables [actors](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip) in different digital [trust domains](#trust-domain) to interact in a similar way to how the Internet Protocol (IP) enables devices on different local area networks to exchange data.
+The ToIP Layer 2 protocol for [verifiable messaging](#verifiable-message) that implements the [trust spanning layer](#trust-spanning-layer) of the [ToIP stack](#toip-stack).  The ToIP Trust Spanning Protocol enables [actors](#actor) in different digital [trust domains](#trust-domain) to interact in a similar way to how the Internet Protocol (IP) enables devices on different local area networks to exchange data.
 
 Mental model: [hourglass model,](#hourglass-model) see the [Design Principles for the ToIP Stack](https://trustoverip.org/permalink/Design-Principles-for-the-ToIP-Stack-V1.0-2022-11-17.pdf).
 
@@ -3283,12 +3281,12 @@ Also known as: [TTA](#tta).
 
 # trustworthy<a id="trustworthy"></a>
 
-A [property](#property) of an [entity](#entity) that has the [attribute](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak) of [trustworthiness](#trustworthiness).
+A [property](#property) of an [entity](#entity) that has the [attribute](#attribute) of [trustworthiness](#trustworthiness).
 
 
 # trustworthiness<a id="trustworthiness"></a>
 
-An [attribute](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak) of a [person](#natural-person) or [organization](#organization) that provides confidence to others of the qualifications, capabilities, and reliability of that [entity](#entity) to perform specific tasks and fulfill assigned responsibilities. Trustworthiness is also a characteristic of information technology products and systems. The attribute of trustworthiness, whether applied to people, processes, or technologies, can be measured, at least in relative terms if not quantitatively. The determination of trustworthiness plays a key role in establishing [trust relationships](#trust-relationship) among [persons](#natural-person) and [organizations](#organization). The [trust relationships](#trust-relationship) are key factors in [risk decisions](#risk-decision) made by senior leaders/executives.
+An [attribute](#attribute) of a [person](#natural-person) or [organization](#organization) that provides confidence to others of the qualifications, capabilities, and reliability of that [entity](#entity) to perform specific tasks and fulfill assigned responsibilities. Trustworthiness is also a characteristic of information technology products and systems. The attribute of trustworthiness, whether applied to people, processes, or technologies, can be measured, at least in relative terms if not quantitatively. The determination of trustworthiness plays a key role in establishing [trust relationships](#trust-relationship) among [persons](#natural-person) and [organizations](#organization). The [trust relationships](#trust-relationship) are key factors in [risk decisions](#risk-decision) made by senior leaders/executives.
 
 Source: [NIST Special Publication 800-39](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf) p.24
 
@@ -3549,19 +3547,17 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Zero-knowledge_service).
 
 Also known as: no knowledge, zero access.
 
-
 # zero-knowledge service provider<a id="zero-knowledge-service-provider"></a>
 
 The provider of a [zero-knowledge service](#zero-knowledge-service) that hosts [encrypted](#encryption) [data](#data) on behalf of the [principal](#principal) but does not have access to the [private keys](#private-key) in order to be able to [decrypt](#decryption) it.
 
-
 # zero-trust architecture<a id="zero-trust-architecture"></a>
 
-A network security architecture based on the core design principle “never trust, always verify”, so that all [actors](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip) are denied access to resources pending [verification.](#verification)
+A network security architecture based on the core design principle “never trust, always verify”, so that all [actors](#actor) are denied access to resources pending [verification.](#verification)
 
 Also known as: zero-trust security, perimeterless security.
 
-Contrast with: [attribute-based access control](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ckr2atznm0o), [role-based access control](#role-based-access-control).
+Contrast with: [attribute-based access control](#attribute-based-access-control), [role-based access control](#role-based-access-control).
 
 Supporting definitions:
 
