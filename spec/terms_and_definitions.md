@@ -2668,11 +2668,11 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Sybil_attack).
 
 # system of record<a id="system-of-record"></a>
 
-A system of record (SOR) or source system of record (SSoR) is a data management term for an information storage system (commonly implemented on a computer system running a database management system) that is the [authoritative data source](#authoritative source) for a given data element or piece of information. 
+A system of record (SOR) or source system of record (SSoR) is a data management term for an information storage system (commonly implemented on a computer system running a database management system) that is the [authoritative data source](#authoritative-source) for a given data element or piece of information. 
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/System_of_record)
 
-See also: [](#authoritative-source), [trust registry](#trust-registry), [verifiable data registry](#verifiable-data-registry).
+See also: [authoritative source](#authoritative-source), [trust registry](#trust-registry), [verifiable data registry](#verifiable-data-registry).
 
 
 # tamper resistant<a id="tamper-resistant"></a>
