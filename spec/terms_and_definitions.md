@@ -2668,7 +2668,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Sybil_attack).
 
 # system of record<a id="system-of-record"></a>
 
-A system of record (SOR) or source system of record (SSoR) is a data management term for an information storage system (commonly implemented on a computer system running a database management system) that is the [authoritative data source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) for a given data element or piece of information. 
+A system of record (SOR) or source system of record (SSoR) is a data management term for an information storage system (commonly implemented on a computer system running a database management system) that is the [authoritative data source](#authoritative-source) for a given data element or piece of information. 
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/System_of_record)
 
@@ -2809,7 +2809,7 @@ See: VID relationship.
 
 # ToIP communication<a id="toip-communication"></a>
 
-[Communication](#communication) that uses the [ToIP stack](#toip-stack) to deliver [ToIP messages](#toip-message) between [ToIP endpoints](#ToIP-endpoint), optionally using [ToIP intermediaries](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hcobm4uk16ff), to provide [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u), [confidentiality](#confidentiality), and [correlation privacy](#correlation-privacy).
+[Communication](#communication) that uses the [ToIP stack](#toip-stack) to deliver [ToIP messages](#toip-message) between [ToIP endpoints](#ToIP-endpoint), optionally using [ToIP intermediaries](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hcobm4uk16ff), to provide [authenticity](#authenticity), [confidentiality](#confidentiality), and [correlation privacy](#correlation-privacy).
 
 
 # ToIP connection<a id="toip-connection"></a>
@@ -2864,7 +2864,7 @@ See also: [ToIP Technology Stack](#toip-technology-stack).
 
 A [verifiable identifier](#verifiable-identifier) for an [entity](https://essif-lab.github.io/framework/docs/terms/entity) that is addressable using the [ToIP stack](#toip-stack).
 
-See also: [autonomous identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bz098kwwc559), [decentralized identifier](#decentralized-identifier).
+See also: [autonomous identifier](#autonomic-identifier), [decentralized identifier](#decentralized-identifier).
 
 For more information, see: [Section 6.4](https://github.com/trustoverip/TechArch/blob/main/spec.md#64-toip-identifiers) of the [ToIP Technology Architecture Specification](#toip-technology-architecture-specification).
 
@@ -2993,7 +2993,7 @@ See also: [User Datagram Protocol](#user-datagram-protocol).
 
 # Transport Layer Security<a id="transport-layer-security"></a>
 
-Transport Layer Security (TLS) is a cryptographic protocol designed to provide [communications](#communication) security over a computer network. The protocol is widely used in applications such as email, instant messaging, and [Voice over IP](#voice-over-ip), but its use in securing HTTPS remains the most publicly visible. The TLS protocol aims primarily to provide security, including privacy ([confidentiality](#confidentiality)), integrity, and [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u) through the use of cryptography, such as the use of [certificates](#digital-certificate), between two or more communicating computer applications.
+Transport Layer Security (TLS) is a cryptographic protocol designed to provide [communications](#communication) security over a computer network. The protocol is widely used in applications such as email, instant messaging, and [Voice over IP](#voice-over-ip), but its use in securing HTTPS remains the most publicly visible. The TLS protocol aims primarily to provide security, including privacy ([confidentiality](#confidentiality)), integrity, and [authenticity](#authenticity) through the use of cryptography, such as the use of [certificates](#digital-certificate), between two or more communicating computer applications.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Transport_Layer_Security).
 
@@ -3044,9 +3044,9 @@ A process that provides a [level of assurance](#level-of-assurance) sufficient t
 
 # trust basis<a id="trust-basis"></a>
 
-The [properties](#property) of a [verifiable identifier](#verifiable-identifier) or a [ToIP system](#toip-system) that enable a [party](#party) to [appraise](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.wtzlm8ocwx7a) it to determine a [trust limit](#trust-limit).
+The [properties](#property) of a [verifiable identifier](#verifiable-identifier) or a [ToIP system](#toip-system) that enable a [party](#party) to [appraise](#appraisability-of-a-communications-endpoint) it to determine a [trust limit](#trust-limit).
 
-See also: [appraisability](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.wtzlm8ocwx7a). 
+See also: [appraisability](#appraisability-of-a-communications-endpoint). 
 
 # trust boundary<a id="trust-boundary"></a>
 
@@ -3238,7 +3238,7 @@ See: [three-party model](#three-party-model).
 
 # trusted execution environment<a id="trusted-execution-environment"></a>
 
-A trusted execution environment (TEE) is a secure area of a main processor. It helps code and data loaded inside it to be protected with respect to [confidentiality](#confidentiality) and [integrity](#integrity-of-a-data-structure). Data [integrity](#integrity-of-a-data-structure) prevents [unauthorized](#authorization) [entities](#entity) from outside the TEE from altering [data](#data), while code integrity prevents code in the TEE from being replaced or modified by [unauthorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) [entities](#entity), which may also be the computer [owner](#owner-of-an-entity) itself as in certain [DRM](#drm) schemes.
+A trusted execution environment (TEE) is a secure area of a main processor. It helps code and data loaded inside it to be protected with respect to [confidentiality](#confidentiality) and [integrity](#integrity-of-a-data-structure). Data [integrity](#integrity-of-a-data-structure) prevents [unauthorized](#authorization) [entities](#entity) from outside the TEE from altering [data](#data), while code integrity prevents code in the TEE from being replaced or modified by [unauthorized](#authorization) [entities](#entity), which may also be the computer [owner](#owner-of-an-entity) itself as in certain [DRM](#drm) schemes.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Trusted_execution_environment).
 
@@ -3267,7 +3267,7 @@ Supporting definitions:
 
 # trusted timestamp authority<a id="trusted-timestamp-authority"></a>
 
-An [authority](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh) that is trusted to provide accurate time information in the form of a [timestamp](#timestamp).
+An [authority](#authority) that is trusted to provide accurate time information in the form of a [timestamp](#timestamp).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/trusted_timestamp_authority).
 
@@ -3308,11 +3308,11 @@ See: [User Datagram Protocol](#user-datagram-protocol).
 
 # unicast<a id="unicast"></a>
 
-In computer networking, unicast is a one-to-one transmission from one point in the network to another point; that is, one sender and one receiver, each identified by a [network address](#network-address) (a [unicast address](#unicast-address)). Unicast is in contrast to [multicast](#multicast) and [broadcast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.s1uti8f9ufsv) which are one-to-many transmissions. [Internet Protocol](#internet-protocol) unicast delivery methods such as [Transmission Control Protocol](#transmission-control-protocol) (TCP) and [User Datagram Protocol](#user-datagram-protocol) (UDP) are typically used.
+In computer networking, unicast is a one-to-one transmission from one point in the network to another point; that is, one sender and one receiver, each identified by a [network address](#network-address) (a [unicast address](#unicast-address)). Unicast is in contrast to [multicast](#multicast) and [broadcast](#broadcast) which are one-to-many transmissions. [Internet Protocol](#internet-protocol) unicast delivery methods such as [Transmission Control Protocol](#transmission-control-protocol) (TCP) and [User Datagram Protocol](#user-datagram-protocol) (UDP) are typically used.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Unicast).
 
-See also: [anycast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.adr8osyk2zcx).
+See also: [anycast](#anycast).
 
 
 # unicast address<a id="unicast-address"></a>
@@ -3372,14 +3372,14 @@ See: [verifiable credential](#verifiable-credential).
 
 The [property](#property) of a digital object, assertion, [claim](#claim), or [communication](#communication), being [verifiable](#verifiable).
 
-See also: [ appraisability](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.wtzlm8ocwx7a).
+See also: [ appraisability](#appraisability-of-a-communications-endpoint).
 
 
 # verifiable<a id="verifiable"></a>
 
 In the context of digital [communications](#communication) infrastructure, the ability to determine the [authenticity](#authenticity) of a [communication](#communication) (e.g., sender, contents, [claims](#claim), [metadata](#metadata), provenance), or the underlying [sociotechnical](#sociotechnical-system) infrastructure (e.g., [governance](#governance-framework), [roles](#role), [policies](#policy), [authorizations](#authorization), [certifications](#certification-of-a-party)).
 
-See also:[ appraisability (of a communications end-point)](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.wtzlm8ocwx7a); [digital signature](#digital-signature).
+See also:[ appraisability (of a communications end-point)](#appraisability-of-a-communications-endpoint); [digital signature](#digital-signature).
 
 
 # verifiable credential<a id="verifiable-credential"></a>
@@ -3423,7 +3423,7 @@ Note: There is an [earlier definition in the W3C VC 1.1. glossary](https://www.w
 
 An [identifier](#identifier) over which the [controller](#controller-of-a-key-vault-wallet-agent-or-device) can provide cryptographic [proof of control](#proof-of-control).
 
-See also: [decentralized identifier](#decentralized-identifier), [autonomous identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bz098kwwc559).
+See also: [decentralized identifier](#decentralized-identifier), [autonomous identifier](#autonomic-identifier).
 
 
 # verifiable message<a id="verifiable-message"></a>
@@ -3435,7 +3435,7 @@ See also: [ToIP messages](#toip-message) 
 
 # verification<a id="verification"></a>
 
-An [action](#action) an [agent](#agent) (of a [principal](#principal)) performs to determine the [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u) of a [claim](#claim) or other digital object using a [cryptographic key](#cryptographic-key).
+An [action](#action) an [agent](#agent) (of a [principal](#principal)) performs to determine the [authenticity](#authenticity) of a [claim](#claim) or other digital object using a [cryptographic key](#cryptographic-key).
 
 See also: [validation](#validation).
 
@@ -3448,7 +3448,7 @@ Supporting definitions:
 
 # verifier (of a claim or credential)<a id="verifier-of-a-claim-or-credential"></a>
 
-A [role](#role) an [agent](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.6xkhfkjpo6xg) performs to perform [verification](#verification) of one or more [proofs](#proof) of the [claims](#claim) in a [digital credential](#digital-credential).
+A [role](#role) an [agent](#agent) performs to perform [verification](#verification) of one or more [proofs](#proof) of the [claims](#claim) in a [digital credential](#digital-credential).
 
 See also: [relying party](#relying-party); [issuer](#issuer-of-a-claim-or-credential), [holder](#holder-of-a-claim-or-credential).
 
@@ -3516,7 +3516,7 @@ For more information: The charter of the [OpenWallet Foundation](#openwallet-fou
 
 # witness<a id="witness"></a>
 
-A computer system that receives, [verifies](#verifier-of-a-claim-or-credential), and stores [proofs](#proof) of [key events](#key-event) for a [verifiable identifier](#verifiable-identifier) (especially an [autonomous identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bz098kwwc559)). Each witness controls its own [verifiable identifier](#verifiable-identifier) used to sign [key event](#key-event) messages stored by the witness. A witness may use any suitable computer system or database architecture, including a file, centralized database, distributed database, [distributed ledger](#distributed-ledger), or [blockchain](#blockchain).
+A computer system that receives, [verifies](#verifier-of-a-claim-or-credential), and stores [proofs](#proof) of [key events](#key-event) for a [verifiable identifier](#verifiable-identifier) (especially an [autonomous identifier](#autonomic-identifier)). Each witness controls its own [verifiable identifier](#verifiable-identifier) used to sign [key event](#key-event) messages stored by the witness. A witness may use any suitable computer system or database architecture, including a file, centralized database, distributed database, [distributed ledger](#distributed-ledger), or [blockchain](#blockchain).
 
 Note: [KERI](#keri) is an example of a [key management system](#key-management-system) that uses witnesses.
 
