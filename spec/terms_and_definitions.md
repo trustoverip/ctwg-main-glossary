@@ -180,7 +180,7 @@ A measure of the strength of an [authentication](#authentication-of-a-user-proce
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticator_assurance_level).
 
-See also: [federation assurance level](federation-assurance-level), [identity assurance level](identity-assurance-level), [identity binding](identity-binding).
+See also: [federation assurance level](#federation-assurance-level), [identity assurance level](#identity-assurance-level), [identity binding](#identity-binding).
 
 Note: In [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/sp800-63-3.html), AAL is defined in terms of three levels: AAL1 (Some confidence), AAL2 (High confidence), AAL3 (Very high confidence).
 
@@ -846,7 +846,6 @@ In the context of ​​decentralized digital trust infrastructure, an [agent](#
 
 Note: In a ToIP context, a digital agent is frequently assumed to have privileged access to the [digital wallet](#digital-wallet)(s) of its principal. In market parlance, a mobile app that performs the [actions](#action) of a digital agent is often simply called a [wallet](#wallet) or a [digital wallet](#digital-wallet).
 
-
 # digital asset<a id="digital-asset"></a>
 
 A digital asset is anything that exists only in digital form and comes with a distinct usage right. [Data](#data) that do not possess that right are not considered assets.
@@ -1005,7 +1004,7 @@ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/encryption).
 
 # end-to-end encryption<a id="end-to-end-encryption"></a>
 
-[Encryption](#encryption) that is applied to a [communication](#communication) before it is transmitted from the sender’s [communication endpoint](#communication-endpoint) and cannot be [decrypted](#decryption) until after it is received at the receiver’s [communication endpoint](#communication-endpoint). When end-to-end encryption is used, the [communication](#communication) cannot be [decrypted](#decryption) in transit no matter how many [intermediaries](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.p89mgcb8dbec) are involved in the [routing](#routing) process.
+[Encryption](#encryption) that is applied to a [communication](#communication) before it is transmitted from the sender’s [communication endpoint](#communication-endpoint) and cannot be [decrypted](#decryption) until after it is received at the receiver’s [communication endpoint](#communication-endpoint). When end-to-end encryption is used, the [communication](#communication) cannot be [decrypted](#decryption) in transit no matter how many [intermediaries](#intermediary-system) are involved in the [routing](#routing) process.
 
 Supporting definitions:
 
@@ -1014,7 +1013,7 @@ Supporting definitions:
 
 # End-to-End Principle<a id="end-to-end-principle"></a>
 
-The end-to-end principle is a design framework in computer networking. In networks designed according to this principle, guaranteeing certain application-specific features, such as reliability and security, requires that they reside in the communicating end [nodes](#node) of the network. [Intermediary](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.p89mgcb8dbec) nodes, such as [gateways](#gateway) and [routers](#router), that exist to establish the network, may implement these to improve efficiency but cannot guarantee end-to-end correctness.
+The end-to-end principle is a design framework in computer networking. In networks designed according to this principle, guaranteeing certain application-specific features, such as reliability and security, requires that they reside in the communicating end [nodes](#node) of the network. [Intermediary](#intermediary-system) nodes, such as [gateways](#gateway) and [routers](#router), that exist to establish the network, may implement these to improve efficiency but cannot guarantee end-to-end correctness.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/End-to-end_principle).
 
@@ -1121,7 +1120,7 @@ See also: [third party](#third-party), [fourth party](#fourth-party).
 
 # foundational identity<a id="foundational-identity"></a>
 
-A set of [identity data](#identity-data), such as a [credential](#credential), [issued](#issuer-of-a-claim-or-credential) by an [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) for the [legal identity](#legal-identity) of the [subject](#subject). Birth certificates, passports, driving licenses, and other forms of government ID documents are considered foundational [identity documents](#identity-document). Foundational identities are often used to provide [identity binding](#identity-binding) for [functional identities](#functional-identity).
+A set of [identity data](#identity-data), such as a [credential](#credential), [issued](#issuer-of-a-claim-or-credential) by an [authoritative source](#authoritative-source) for the [legal identity](#legal-identity) of the [subject](#subject). Birth certificates, passports, driving licenses, and other forms of government ID documents are considered foundational [identity documents](#identity-document). Foundational identities are often used to provide [identity binding](#identity-binding) for [functional identities](#functional-identity).
 
 Contrast with: [functional identity](#functional-identity).
 
@@ -1140,7 +1139,7 @@ A set of [identity data](#identity-data), such as a [credential](#credential), t
 
 A gateway is a piece of networking hardware or software used in telecommunications networks that allows [data](#data) to flow from one discrete network to another. Gateways are distinct from [routers](#router) or switches in that they communicate using more than one protocol to connect multiple networks[<sup>\[1\]\[2\]</sup>](https://en.wikipedia.org/wiki/Gateway_\(telecommunications\)#cite_note-1) and can operate at any of the seven layers of the open systems interconnection model (OSI).
 
-See also: [intermediary](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.p89mgcb8dbec).
+See also: [intermediary](#intermediary-system).
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Gateway_\(telecommunications\)).
 
@@ -1168,7 +1167,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Glossary).
 
 # governance<a id="governance"></a>
 
-The [act](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gzdfngxkp0ip) or process of governing or overseeing the realization of (the results associated with) a set of [objectives](#objective) by the [owner](#owner-of-an-entity) of these [objectives](#objective), in order to ensure they will be fit for the purposes that this [owner](#owner-of-an-entity) intends to use them for.
+The [act](#actor) or process of governing or overseeing the realization of (the results associated with) a set of [objectives](#objective) by the [owner](#owner-of-an-entity) of these [objectives](#objective), in order to ensure they will be fit for the purposes that this [owner](#owner-of-an-entity) intends to use them for.
 
 Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#governance).
 
@@ -1205,7 +1204,7 @@ Note: In the [digital identity](#digital-identity) industry specifically, a gove
 
 A graph of the [governance](#governance) relationships between [entities](#entity) with a [trust community](#trust-community). A governance graph shows which [nodes](#node) are the [governing bodies](#governing-body) and which are the [governed parties](#governed-party). In some cases, a governance graph can be traversed by making queries to one or more [trust registries](#trust-registry).Note: a [party](#party) can play both [roles](#role) and also be a participant in multiple [governance frameworks](#governance-framework).
 
-See also: [authorization graph](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.5tvkchqqqka8), [reputation graph](#reputation-graph), [trust graph](#trust-graph).
+See also: [authorization graph](#authorization-graph), [reputation graph](#reputation-graph), [trust graph](#trust-graph).
 
 # governance requirement<a id="governance-requirement"></a>
 
@@ -1235,7 +1234,7 @@ See: [governing body](#governing-body).
 
 # governing body<a id="governing-body"></a>
 
-The [party](#party) (or set of [parties](#party)) authoritative for governing a [trust community](#trust-community), usually (but not always) by developing, publishing, maintaining, and enforcing a [governance framework](#governance-framework). A governing body may be a government, a formal legal entity of any kind, an informal group of any kind, or an individual. A governing body may also delegate operational responsibilities to an [administering body](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.w8r6jg7mkdaj).
+The [party](#party) (or set of [parties](#party)) authoritative for governing a [trust community](#trust-community), usually (but not always) by developing, publishing, maintaining, and enforcing a [governance framework](#governance-framework). A governing body may be a government, a formal legal entity of any kind, an informal group of any kind, or an individual. A governing body may also delegate operational responsibilities to an [administering body](#administering-body).
 
 Also known as: [governing authority](#governing-authority).
 
@@ -1247,7 +1246,7 @@ See: [Governance, Risk Management, and Compliance](#governance-risk-management-a
 
 # guardian<a id="guardian"></a>
 
-A [party](https://essif-lab.github.io/framework/docs/terms/party) that has been assigned rights and duties in a [guardianship arrangement](#guardianship-arrangement) for the purpose of caring for, protecting, guarding, and defending the [entity](https://essif-lab.github.io/framework/docs/terms/entity) that is the [dependent](https://essif-lab.github.io/framework/docs/terms/dependent) in that [guardianship arrangement](#guardianship-arrangement). In the context of decentralized digital trust infrastructure, a guardian is issued [guardianship credentials](#guardianship-credential) into their own [digital wallet](#digital-wallet) in order to perform such [actions](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.l54nzmooy631) on behalf of the [dependent](#dependent) as are required by this [role](#role).
+A [party](https://essif-lab.github.io/framework/docs/terms/party) that has been assigned rights and duties in a [guardianship arrangement](#guardianship-arrangement) for the purpose of caring for, protecting, guarding, and defending the [entity](https://essif-lab.github.io/framework/docs/terms/entity) that is the [dependent](https://essif-lab.github.io/framework/docs/terms/dependent) in that [guardianship arrangement](#guardianship-arrangement). In the context of decentralized digital trust infrastructure, a guardian is issued [guardianship credentials](#guardianship-credential) into their own [digital wallet](#digital-wallet) in order to perform such [actions](#action) on behalf of the [dependent](#dependent) as are required by this [role](#role).
 
 Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#guardian)
 
@@ -1261,7 +1260,7 @@ Supporting definitions:
 
 For more information, see: [On Guardianship in Self-Sovereign Identity V2.0](https://sovrin.org/wp-content/uploads/Guardianship-Whitepaper-V2.0.pdf) (April, 2023).
 
-Note: A guardian is a very different role than a [custodian](#custodian), who does not take any [actions](#action) on behalf of a [principal](#principal) unless explicitly [authorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh).
+Note: A guardian is a very different role than a [custodian](#custodian), who does not take any [actions](#action) on behalf of a [principal](#principal) unless explicitly [authorized](#authorization).
 
 
 # guardianship arrangement<a id="guardianship-arrangement"></a>
@@ -1315,7 +1314,7 @@ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/hash_function).
 
 # holder (of a claim or credential)<a id="holder-of-a-claim-or-credential"></a>
 
-A [role](#role) an [agent](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.6xkhfkjpo6xg) performs by serving as the [controller](#controller-of-a-key-vault-wallet-agent-or-device) of the [cryptographic keys](#cryptographic-key) and [digital credentials](#digital-credential) in a [digital wallet](#digital-wallet). The holder makes [issuance requests](#issuance-request) for [credentials](#credential) and responds to [presentation requests](#presentation-request) for [credentials](#credential). A holder is usually, but not always, a [subject](#subject) of the [credentials](#credential) they are holding.
+A [role](#role) an [agent](#agent) performs by serving as the [controller](#controller-of-a-key-vault-wallet-agent-or-device) of the [cryptographic keys](#cryptographic-key) and [digital credentials](#digital-credential) in a [digital wallet](#digital-wallet). The holder makes [issuance requests](#issuance-request) for [credentials](#credential) and responds to [presentation requests](#presentation-request) for [credentials](#credential). A holder is usually, but not always, a [subject](#subject) of the [credentials](#credential) they are holding.
 
 See also: [issuer](#issuer-of-a-claim-or-credential), [verifier](#verifier-of-a-claim-or-credential).
 
@@ -1369,7 +1368,7 @@ Contrast with: [cryptographic verifiability](#cryptographic-verifiability).
 
 # human auditable<a id="human-auditable"></a>
 
-A process or procedure whose [compliance](#compliance) with the [policies](#policy) in a [trust framework](#trust-framework) or [governance framework](#governance-framework) can only be [verified](#verifiable) by a human performing an [audit](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.3gz7xw796mvp). Human auditability is a primary goal of the [ToIP Governance Stack](#toip-governance-stack).
+A process or procedure whose [compliance](#compliance) with the [policies](#policy) in a [trust framework](#trust-framework) or [governance framework](#governance-framework) can only be [verified](#verifiable) by a human performing an [audit](#audit-of-system-controls). Human auditability is a primary goal of the [ToIP Governance Stack](#toip-governance-stack).
 
 Contrast with: [cryptographically verifiable](#cryptographically-verifiable).
 
@@ -1416,7 +1415,7 @@ Supporting definitions:
 
 # identity<a id="identity"></a>
 
-A collection of [attributes](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.ky5nh3yri7ak) or other [identity data](#identity-data) that describe an [entity](#entity) and enable it to be distinguished from all other [entities](#entity) within a specific [scope](#scope) of [identification](#identification). Identity attributes may include one or more [identifiers](#identifier) for an [entity](#entity), however it is possible to establish an identity without using [identifiers](#identifier).
+A collection of [attributes](#attribute) or other [identity data](#identity-data) that describe an [entity](#entity) and enable it to be distinguished from all other [entities](#entity) within a specific [scope](#scope) of [identification](#identification). Identity attributes may include one or more [identifiers](#identifier) for an [entity](#entity), however it is possible to establish an identity without using [identifiers](#identifier).
 
 Supporting definitions:
 
@@ -1424,19 +1423,17 @@ Supporting definitions:
 
 Note: Identity is relational to the [party](#party) performing the identification. For example, if 100 different [parties](#party) have an identity for the same [entity](#entity), each of them may hold a different set of [identity data](#identity-data) enabling identification of that [entity](#entity).
 
-
 # identity assurance level<a id="identity-assurance-level"></a>
 
 A category that conveys the degree of confidence that a person’s claimed [identity](#identity) is their real [identity](#identity), for example as defined in [NIST SP 800-63-3](https://pages.nist.gov/800-63-3/sp800-63-3.html) in terms of three levels: IAL 1 (Some confidence), IAL 2 (High confidence), IAL 3 (Very high confidence).
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/identity_assurance_level).
 
-See also: [authenticator assurance level](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a7560ebfrt4m), [federation assurance level](#federation-assurance-level).
-
+See also: [authenticator assurance level](#authenticator-assurance-level), [federation assurance level](#federation-assurance-level).
 
 # identity binding<a id="identity-binding"></a>
 
-The process of associating a set of [identity data](#identity-data), such as a [credential](#credential), with its [subject](#subject), such as a [natural person](#natural-person). The strength of an identity binding is one factor in determining an [authenticator assurance level](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.a7560ebfrt4m).
+The process of associating a set of [identity data](#identity-data), such as a [credential](#credential), with its [subject](#subject), such as a [natural person](#natural-person). The strength of an identity binding is one factor in determining an [authenticator assurance level](#authenticator-assurance-level).
 
 See also: [identity assurance level](#identity-assurance-level), [identity proofing](#identity-proofing).
 
@@ -1487,7 +1484,7 @@ Supporting definitions:
 
 # integrity (of a data structure)<a id="integrity-of-a-data-structure"></a>
 
-In IT security, data integrity means maintaining and assuring the accuracy and completeness of [data](#data) over its entire lifecycle. This means that [data](#data) cannot be modified in an [unauthorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) or undetected manner.
+In IT security, data integrity means maintaining and assuring the accuracy and completeness of [data](#data) over its entire lifecycle. This means that [data](#data) cannot be modified in an [unauthorized](#authorization) or undetected manner.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Information_security#Integrity).
 
@@ -1530,7 +1527,7 @@ See: [Internet Protocol](#internet-protocol).
 
 # IP address<a id="ip-address"></a>
 
-An [Internet Protocol](#internet-protocol) address (IP address) is a numerical label such as 192.0.2.1 that is connected to a computer network that uses the [Internet Protocol](#internet-protocol) for [communication](#communication). An IP address serves two main functions: network interface [identification](#identification), and location [addressing](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.tv1389o42vzp).
+An [Internet Protocol](#internet-protocol) address (IP address) is a numerical label such as 192.0.2.1 that is connected to a computer network that uses the [Internet Protocol](#internet-protocol) for [communication](#communication). An IP address serves two main functions: network interface [identification](#identification), and location [addressing](#address).
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/IP_address).
 
@@ -1551,7 +1548,7 @@ See also: [presentation request](#presentation-request).
 
 # issuer (of a claim or credential)<a id="issuer-of-a-claim-or-credential"></a>
 
-A [role](#role) an [agent](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.6xkhfkjpo6xg) performs to package and [digitally sign](#digital-signature) a set of [claims](#claim), typically in the form of a [digital credential](#digital-credential), and transmit them to a [holder](#holder-of-a-claim-or-credential).
+A [role](#role) an [agent](#agent) performs to package and [digitally sign](#digital-signature) a set of [claims](#claim), typically in the form of a [digital credential](#digital-credential), and transmit them to a [holder](#holder-of-a-claim-or-credential).
 
 See also: [verifier](#verifier-of-a-claim-or-credential), [holder](#holder-of-a-claim-or-credential).
 
@@ -1689,7 +1686,7 @@ Note: LEIs are administered by the [Global Legal Entity Identifier Foundation](h
 
 # legal identity<a id="legal-identity"></a>
 
-A set of [identity data](#identity-data) considered [authoritative](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) to identify a [party](#party) for purposes of legal accountability under one or more [jurisdictions](#jurisdiction).
+A set of [identity data](#identity-data) considered [authoritative](#authority) to identify a [party](#party) for purposes of legal accountability under one or more [jurisdictions](#jurisdiction).
 
 See also: [foundational identity](#foundational-identity), [functional identity](#functional-identity).
 
@@ -1719,7 +1716,7 @@ See: [Legal Entity Identifier](#legal-entity-identifier).
 
 # level of assurance<a id="level-of-assurance"></a>
 
-See: [assurance level](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hsktvoq15zz7).
+See: [assurance level](#assurance-level).
 
 
 # liveness detection<a id="liveness-detection"></a>
@@ -1801,7 +1798,7 @@ In computer networking, multicast is group [communication](#communication) where
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Multicast).
 
-See also: [anycast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.adr8osyk2zcx), [broadcast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.s1uti8f9ufsv), [unicast](#unicast).
+See also: [anycast](#anycast), [broadcast](#broadcast), [unicast](#unicast).
 
 
 # multicast address<a id="multicast-address"></a>
@@ -1810,7 +1807,7 @@ A multicast address is a logical [identifier](#identifier) for a group of [hosts
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Multicast_address).
 
-See also: [broadcast address](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.7gok5zmnh6an), [unicast address](#unicast-address).
+See also: [broadcast address](#broadcast-address), [unicast address](#unicast-address).
 
 
 # multi-party computation<a id="multi-party-computation"></a>
@@ -1860,7 +1857,7 @@ Note: Natural things (those recognized to have legal rights) can be [parties](#p
 
 # network address<a id="network-address"></a>
 
-A network address is an [identifier](#identifier) for a [node](#node) or [host](#host) on a telecommunications network. Network addresses are designed to be unique [identifiers](#identifier) across the network, although some networks allow for local, private addresses, or locally administered addresses that may not be unique. Special network addresses are allocated as [broadcast](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.7gok5zmnh6an) or [multicast](#multicast) addresses. A network address designed to address a single device is called a [unicast address](#unicast-address).
+A network address is an [identifier](#identifier) for a [node](#node) or [host](#host) on a telecommunications network. Network addresses are designed to be unique [identifiers](#identifier) across the network, although some networks allow for local, private addresses, or locally administered addresses that may not be unique. Special network addresses are allocated as [broadcast](#broadcast) or [multicast](#multicast) addresses. A network address designed to address a single device is called a [unicast address](#unicast-address).
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Network_address).
 
@@ -1927,7 +1924,7 @@ Supporting definitions:
 
 # organizational authority<a id="organizational-authority"></a>
 
-A type of [authority](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh) where the [party](https://essif-lab.github.io/framework/docs/terms/party) asserting its right is an [organization](#organization).
+A type of [authority](#authority) where the [party](https://essif-lab.github.io/framework/docs/terms/party) asserting its right is an [organization](#organization).
 
 
 # out-of-band introduction<a id="out-of-band-introduction"></a>
@@ -1989,7 +1986,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Peer-to-peer).
 
 # permission<a id="permission"></a>
 
-[Authorization](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) to perform some [action](#action) on a system.
+[Authorization](#authorization) to perform some [action](#action) on a system.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/permission).
 
@@ -2064,7 +2061,7 @@ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/plaintext).
 
 # policy<a id="policy"></a>
 
-Statements, rules or assertions that specify the correct or expected behavior of an entity. For example, an [authorization](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) policy might specify the correct [access control](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.lmk4gqobt99b) rules for a software component. Policies may be [human-readable](#human-readable) or [machine-readable](#machine-readable) or both.
+Statements, rules or assertions that specify the correct or expected behavior of an entity. For example, an [authorization](#authorization) policy might specify the correct [access control](#access-control) rules for a software component. Policies may be [human-readable](#human-readable) or [machine-readable](#machine-readable) or both.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/policy)
 
@@ -2087,7 +2084,7 @@ Supporting definitions: 
 
 # presentation attack<a id="presentation-attack"></a>
 
-A type of cybersecurity attack in which the attacker attempts to defeat a [biometric](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.grifxl8vyuuu) [liveness detection](#liveness-detection) system by providing false inputs.
+A type of cybersecurity attack in which the attacker attempts to defeat a [biometric](#biometric) [liveness detection](#liveness-detection) system by providing false inputs.
 
 Supporting definitions:
 
@@ -2180,7 +2177,7 @@ See also: [attribute](#attribute), [claim](#claim).
 
 # protected data<a id="protected-data"></a>
 
-[Data](#data) that is not publicly available but requires some type of [access control](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.lmk4gqobt99b) to gain access.
+[Data](#data) that is not publicly available but requires some type of [access control](#access-control) to gain access.
 
 
 # protocol layer<a id="protocol-layer"></a>
@@ -2203,14 +2200,14 @@ See also: [protocol layer](#protocol-layer).
 
 # pseudonym<a id="pseudonym"></a>
 
-A pseudonym is a fictitious name that a [person](#natural-person) assumes for a particular purpose, which differs from their original or true name (orthonym). This also differs from a new name that entirely or legally replaces an individual's own. Many pseudonym [holders](#holder-of-a-claim-or-credential) use pseudonyms because they wish to remain [anonymous](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.95pnj4tchl4m), but anonymity is difficult to achieve and often fraught with legal issues.
+A pseudonym is a fictitious name that a [person](#natural-person) assumes for a particular purpose, which differs from their original or true name (orthonym). This also differs from a new name that entirely or legally replaces an individual's own. Many pseudonym [holders](#holder-of-a-claim-or-credential) use pseudonyms because they wish to remain [anonymous](#anonymous), but anonymity is difficult to achieve and often fraught with legal issues.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Pseudonym).
 
 
 # public key<a id="public-key"></a>
 
-[Drummond Reed](mailto:drummond.reed@avast.com): In [public key cryptography](#public-key-cryptography), the [cryptographic key](#cryptographic-key) that can be freely shared with anyone by the [controller](#controller-of-a-key-vault-wallet-agent-or-device) without compromising security. A [party’s](#party) public key must be verified as [authoritative](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh) in order to verify their [digital signature](#digital-signature).
+[Drummond Reed](mailto:drummond.reed@avast.com): In [public key cryptography](#public-key-cryptography), the [cryptographic key](#cryptographic-key) that can be freely shared with anyone by the [controller](#controller-of-a-key-vault-wallet-agent-or-device) without compromising security. A [party’s](#party) public key must be verified as [authoritative](#authority) in order to verify their [digital signature](#digital-signature).
 
 Supporting definitions:
 
@@ -2303,12 +2300,12 @@ The process by which a [registrant](#registrant) submits a [record](#record) to 
 
 registration agent
 
-A [party](#party) responsible for accepting [registration](#registration) requests and [authenticating](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gp553sxzbmv1) the [entity](#entity) making the request. The term may also apply to a [party](#party) accepting [issuance](#issuance) requests for [digital credentials](#digital-credential).
+A [party](#party) responsible for accepting [registration](#registration) requests and [authenticating](authentication-of-a-user-process-or-device) the [entity](#entity) making the request. The term may also apply to a [party](#party) accepting [issuance](#issuance) requests for [digital credentials](#digital-credential).
 
 
 # registry<a id="registry"></a>
 
-A specialized database of [records](#record) that serves as an [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) of information about [entities](#entity).
+A specialized database of [records](#record) that serves as an [authoritative source](#authoritative-source) of information about [entities](#entity).
 
 See also: [trust registry](#trust-registry).
 
@@ -2338,7 +2335,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation).
 
 A graph of the [reputation](#reputation) relationships between different entities in a [trust community](#trust-community). In a [digital trust ecosystem](#digital-trust-ecosystem), the [governing body](#governing-body) may be one [trust root](#trust-root) of a reputation graph. In some cases, a reputation graph can be traversed by making queries to one or more [trust registries](#trust-registry).
 
-See also: [authorization graph](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit?pli=1#heading=h.5tvkchqqqka8), [governance graph](#governance-graph), [trust graph](#trust-graph).
+See also: [authorization graph](#authorization-graph), [governance graph](#governance-graph), [trust graph](#trust-graph).
 
 
 # reputation system<a id="reputation-system"></a>
@@ -2359,7 +2356,7 @@ For more information, see: <https://www.rfc-editor.org/rfc/rfc2119>.
 
 # revocation<a id="revocation"></a>
 
-In the context of [digital credentials](#digital-credential), revocation is an event signifying that the [issuer](#issuer-of-a-claim-or-credential) no longer attests to the [validity](#validation) of a [credential](#digital-credential) they have [issued](#issuer-of-a-claim-or-credential). In the context of cryptographic keys, revocation is an event signifying that the [controller](#controller-of-a-key-vault-wallet-agent-or-device) no longer attests to the [validity](#validation) of a public/private key pair for which the [controller](#controller-of-a-key-vault-wallet-agent-or-device) is [authoritative](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh).
+In the context of [digital credentials](#digital-credential), revocation is an event signifying that the [issuer](#issuer-of-a-claim-or-credential) no longer attests to the [validity](#validation) of a [credential](#digital-credential) they have [issued](#issuer-of-a-claim-or-credential). In the context of cryptographic keys, revocation is an event signifying that the [controller](#controller-of-a-key-vault-wallet-agent-or-device) no longer attests to the [validity](#validation) of a public/private key pair for which the [controller](#controller-of-a-key-vault-wallet-agent-or-device) is [authoritative](#authority).
 
 See also: [issuance](#issuance), [presentation](#presentation).
 
@@ -2430,7 +2427,7 @@ See also: [role credential](#role-credential).
 
 # role-based access control<a id="role-based-access-control"></a>
 
-[Access control](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.lmk4gqobt99b) based on user [roles](#role) (i.e., a collection of access [authorizations](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) a user receives based on an explicit or implicit assumption of a given [role](#role)). [Role](#role) [permissions](#permission) may be inherited through a [role](#role) hierarchy and typically reflect the [permissions](#permission) needed to perform defined functions within an [organization](#organization). A given [role](#role) may apply to a single individual or to several individuals.
+[Access control](#access-control) based on user [roles](#role) (i.e., a collection of access [authorizations](#authorization) a user receives based on an explicit or implicit assumption of a given [role](#role)). [Role](#role) [permissions](#permission) may be inherited through a [role](#role) hierarchy and typically reflect the [permissions](#permission) needed to perform defined functions within an [organization](#organization). A given [role](#role) may apply to a single individual or to several individuals.
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/role_based_access_control).
 
@@ -2548,10 +2545,9 @@ When a [party](#party) provides its own [certification](#certification-of-a-part
 
 A subclass of [verifiable identifier](#verifiable-identifier) that is [cryptographically verifiable](#cryptographically-verifiable) without the need to rely on any [third party](#third-party) for [verification](#verification) because the [identifier](#identifier) is cryptographically bound to the [cryptographic keys](#cryptographic-key) from which it was generated.
 
-See also: [autonomic identifier](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.bz098kwwc559).
+See also: [autonomic identifier](#autonomic-identifier).
 
 Also known as: [SCID](#scid).
-
 
 # self-sovereign identity<a id="self-sovereign-identity"></a>
 
@@ -2589,7 +2585,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Sociotechnical_system)
 
 # software agent<a id="software-agent"></a>
 
-In computer science, a software agent is a computer program that acts for a user or other program in a relationship of [agency](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.7q79v9jnqhrr), which derives from the Latin agere (to do): an agreement to act on one's behalf. A [user agent](#user-agent) is a specific type of software agent that is used directly by an end-user as the [principal](#principal).
+In computer science, a software agent is a computer program that acts for a user or other program in a relationship of [agency](#agency), which derives from the Latin agere (to do): an agreement to act on one's behalf. A [user agent](#user-agent) is a specific type of software agent that is used directly by an end-user as the [principal](#principal).
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Software_agent).
 
@@ -2661,8 +2657,7 @@ In the context of decentralized digital trust infrastructure, a subscription is 
 
 A system that operates at [ToIP Layer 1](#toip-layer-1), the [trust support layer](#trust-support-layer) of the [ToIP stack](#toip-stack). A supporting system is one of three types of systems defined in the [ToIP Technology Architecture Specification](#toip-technology-architecture-specification).
 
-See also: [endpoint system](#endpoint-system), [intermediary system](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.hcobm4uk16ff).
-
+See also: [endpoint system](#endpoint-system), [intermediary system](#intermediary-system).
 
 # Sybil attack<a id="sybil-attack"></a>
 
@@ -2677,7 +2672,7 @@ A system of record (SOR) or source system of record (SSoR) is a data management 
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/System_of_record)
 
-See also: [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs), [trust registry](#trust-registry), [verifiable data registry](#verifiable-data-registry).
+See also: [authoritative source](#authoritative-source), [trust registry](#trust-registry), [verifiable data registry](#verifiable-data-registry).
 
 
 # tamper resistant<a id="tamper-resistant"></a>
@@ -3118,7 +3113,7 @@ A term (most frequently used in the [digital identity](#digital-identity) indust
 
 A [data](#data) structure describing the [trust relationship](#trust-relationship) between two or more [entities](#entity). A simple trust graph may be expressed as a [trust list](#trust-list). More complex trust graphs can be recorded or registered in and queried from a [trust registry](#trust-registry). Trust graphs can also be expressed via [trust chains](#trust-chain) and [chained credentials](#chained-credentials). Trust graphs can enable [verifiers](#verifier-of-a-claim-or-credential) to make [transitive trust decisions](#transitive-trust-decision).
 
-See also: [authorization graph](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit?pli=1#heading=h.5tvkchqqqka8), [governance graph](#governance-graph), [reputation graph](#reputation-graph).
+See also: [authorization graph](authorization-graph), [governance graph](#governance-graph), [reputation graph](#reputation-graph).
 
 
 # trust limit<a id="trust-limit"></a>
@@ -3130,7 +3125,7 @@ For more information, see: [Design Principles for the ToIP Stack](https://trusto
 
 # trust list<a id="trust-list"></a>
 
-A one-dimensional [trust graph](#trust-graph) in which an [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) publishes a list of [entities](#entity) that are trusted in a specific [trust context](#trust-context). A trust list can be considered a simplified form of a [trust registry](#trust-registry).
+A one-dimensional [trust graph](#trust-graph) in which an [authoritative source](#authoritative-source) publishes a list of [entities](#entity) that are trusted in a specific [trust context](#trust-context). A trust list can be considered a simplified form of a [trust registry](#trust-registry).
 
 
 # trust network<a id="trust-network"></a>
@@ -3154,7 +3149,7 @@ Also known as: [ToIP](#toip).
 
 # trust registry<a id="trust-registry"></a>
 
-A [registry](#registry) that serves as an [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) for [trust graphs](#trust-graph) or other [governed information](#governed-information) describing one or more [trust communities](#trust-community). A trust registry is typically [authorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.gln5i78kxlfh) by a [governance framework](#governance-framework).
+A [registry](#registry) that serves as an [authoritative source](#authoritative-source) for [trust graphs](#trust-graph) or other [governed information](#governed-information) describing one or more [trust communities](#trust-community). A trust registry is typically [authorized](#authorization) by a [governance framework](#governance-framework).
 
 See also: [trust list](#trust-list), [verifiable data registry](#verifiable-data-registry).
 
@@ -3177,7 +3172,7 @@ For more information, see: [Design Principles for the ToIP Stack](https://trusto
 
 # trust root<a id="trust-root"></a>
 
-The [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs) that serves as the origin of a [trust chain](#trust-chain).
+The [authoritative source](#authoritative-source) that serves as the origin of a [trust chain](#trust-chain).
 
 For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
 
@@ -3243,7 +3238,7 @@ See: [three-party model](#three-party-model).
 
 # trusted execution environment<a id="trusted-execution-environment"></a>
 
-A trusted execution environment (TEE) is a secure area of a main processor. It helps code and data loaded inside it to be protected with respect to [confidentiality](#confidentiality) and [integrity](#integrity-of-a-data-structure). Data [integrity](#integrity-of-a-data-structure) prevents [unauthorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) [entities](#entity) from outside the TEE from altering [data](#data), while code integrity prevents code in the TEE from being replaced or modified by [unauthorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) [entities](#entity), which may also be the computer [owner](#owner-of-an-entity) itself as in certain [DRM](#drm) schemes.
+A trusted execution environment (TEE) is a secure area of a main processor. It helps code and data loaded inside it to be protected with respect to [confidentiality](#confidentiality) and [integrity](#integrity-of-a-data-structure). Data [integrity](#integrity-of-a-data-structure) prevents [unauthorized](#authorization) [entities](#entity) from outside the TEE from altering [data](#data), while code integrity prevents code in the TEE from being replaced or modified by [unauthorized](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i) [entities](#entity), which may also be the computer [owner](#owner-of-an-entity) itself as in certain [DRM](#drm) schemes.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Trusted_execution_environment).
 
@@ -3382,7 +3377,7 @@ See also: [ appraisability](https://docs.google.com/document/d/1fZByfuSOwszDRkE
 
 # verifiable<a id="verifiable"></a>
 
-In the context of digital [communications](#communication) infrastructure, the ability to determine the [authenticity](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.pitlm5jn3v6u) of a [communication](#communication) (e.g., sender, contents, [claims](#claim), [metadata](#metadata), provenance), or the underlying [sociotechnical](#sociotechnical-system) infrastructure (e.g., [governance](#governance-framework), [roles](#role), [policies](#policy), [authorizations](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.576ssfpt348i), [certifications](#certification-of-a-party)).
+In the context of digital [communications](#communication) infrastructure, the ability to determine the [authenticity](#authenticity) of a [communication](#communication) (e.g., sender, contents, [claims](#claim), [metadata](#metadata), provenance), or the underlying [sociotechnical](#sociotechnical-system) infrastructure (e.g., [governance](#governance-framework), [roles](#role), [policies](#policy), [authorizations](#authorization), [certifications](#certification-of-a-party)).
 
 See also:[ appraisability (of a communications end-point)](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.wtzlm8ocwx7a); [digital signature](#digital-signature).
 
@@ -3417,7 +3412,7 @@ Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology)
 
 Mental model: [W3C Verifiable Credentials Data Model Roles & Information Flows](https://www.w3.org/TR/vc-data-model/#roles)
 
-See also: [authoritative source](https://docs.google.com/document/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/edit#heading=h.9tt1qpgdfnxs), [trust registry](#trust-registry), [system of record](#system-of-record).
+See also: [authoritative source](#authoritative-source), [trust registry](#trust-registry), [system of record](#system-of-record).
 
 For more information, see: the W3C Verifiable Credentials specification \[[VC-DATA-MODEL](https://www.w3.org/TR/did-core/#bib-vc-data-model)].
 
