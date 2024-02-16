@@ -1504,12 +1504,12 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol).
 
 Also known as: [IP](#ip).
 
-See also: [Transmission Control Protocol](transmission-control-protocol), [User Datagram Protocol](user-datagram-protocol).
+See also: [Transmission Control Protocol](#transmission-control-protocol), [User Datagram Protocol](#user-datagram-protocol).
 
 
 # Internet protocol suite<a id="internet-protocol-suite"></a>
 
-The Internet protocol suite, commonly known as [TCP/IP](#tcpip), is a framework for organizing the set of [communication](#communication) protocols used in the Internet and similar computer networks according to functional criteria. The foundational protocols in the suite are the [Transmission Control Protocol](#transmission-control-protocol) (TCP), the [User Datagram Protocol](user-datagram-protocol) (UDP), and the [Internet Protocol](#internet-protocol) (IP).
+The Internet protocol suite, commonly known as [TCP/IP](#tcpip), is a framework for organizing the set of [communication](#communication) protocols used in the Internet and similar computer networks according to functional criteria. The foundational protocols in the suite are the [Transmission Control Protocol](#transmission-control-protocol) (TCP), the [User Datagram Protocol](#user-datagram-protocol) (UDP), and the [Internet Protocol](#internet-protocol) (IP).
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
