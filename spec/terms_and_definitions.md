@@ -1498,20 +1498,18 @@ See also: [endpoint system](#endpoint-system), [supporting system](#supporting-s
 
 # Internet Protocol<a id="internet-protocol"></a>
 
-The Internet Protocol (IP) is the network layer [communications](#communication) protocol in the Internet protocol suite (also known as the [TCP/IP](#tcpip) suite) for relaying [datagrams](#datagram) across network boundaries. Its [routing](#routing) function enables internetworking, and essentially establishes the Internet.
-
-IP has the task of delivering [packets](#data-packet) from the source host to the destination host solely based on the [IP addresses](#ip-address) in the packet headers. For this purpose, IP defines [packet](#data-packet) structures that encapsulate the data to be delivered. It also defines addressing methods that are used to label the datagram with source and destination information.
+The Internet Protocol (IP) is the network layer [communications](#communication) protocol in the Internet protocol suite (also known as the [TCP/IP](#tcpip) suite) for relaying [datagrams](#datagram) across network boundaries. Its [routing](#routing) function enables internetworking, and essentially establishes the Internet. IP has the task of delivering [packets](#data-packet) from the source host to the destination host solely based on the [IP addresses](#ip-address) in the packet headers. For this purpose, IP defines [packet](#data-packet) structures that encapsulate the data to be delivered. It also defines addressing methods that are used to label the datagram with source and destination information.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol).
 
 Also known as: [IP](#ip).
 
-See also: Transmission Control Protocol, User Datagram Protocol.
+See also: [Transmission Control Protocol](transmission-control-protocol), [User Datagram Protocol](user-datagram-protocol).
 
 
 # Internet protocol suite<a id="internet-protocol-suite"></a>
 
-The Internet protocol suite, commonly known as [TCP/IP](#tcpip), is a framework for organizing the set of [communication](#communication) protocols used in the Internet and similar computer networks according to functional criteria. The foundational protocols in the suite are the [Transmission Control Protocol](#transmission-control-protocol) (TCP), the User Datagram Protocol (UDP), and the [Internet Protocol](#internet-protocol) (IP).
+The Internet protocol suite, commonly known as [TCP/IP](#tcpip), is a framework for organizing the set of [communication](#communication) protocols used in the Internet and similar computer networks according to functional criteria. The foundational protocols in the suite are the [Transmission Control Protocol](#transmission-control-protocol) (TCP), the [User Datagram Protocol](user-datagram-protocol) (UDP), and the [Internet Protocol](#internet-protocol) (IP).
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
 
