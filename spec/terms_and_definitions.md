@@ -12,11 +12,11 @@
 
 # AAL<a id="aal"></a>
 
-See: [authenticator assurance level](#authenticator-assurance-level).
+See: [[ref: authenticator assurance level]].
 
 # ABAC<a id="abac"></a>
 
-See: [attribute-based access control](#attribute-based-access-control).
+See: [[ref: attribute-based access control]].
 
 # access control<a id="access-control"></a>
 
