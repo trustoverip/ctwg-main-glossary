@@ -170,9 +170,9 @@ Supporting definitions:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Authentication): The act of proving an [assertion](https://en.wikipedia.org/wiki/Logical_assertion), such as the [identity](https://en.wikipedia.org/wiki/Digital_identity) of a computer system user.
 
-# authenticator (of an entity)<a id="authenticator-of-an-entity"></a>
+# [[def: authenticator]]
 
-Something the claimant possesses and controls (typically a cryptographic module or password) that is used to [authenticate](#authentication-of-a-user-process-or-device) the claimant’s [identity](#identity).
+Something the claimant possesses and controls (typically a cryptographic module or password) that is used to [[ref: authenticate]] the claimant’s [[ref: identity]].
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticator).
 
