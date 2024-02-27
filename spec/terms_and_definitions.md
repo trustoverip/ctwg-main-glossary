@@ -10,9 +10,11 @@
 
 ## Terms & Definitions
 
-# AAL<a id="aal"></a>
+# [[ref:AAL]]
 
 See: [[ref: authenticator assurance level]].
+
+
 
 # ABAC<a id="abac"></a>
 
@@ -174,9 +176,10 @@ Something the claimant possesses and controls (typically a cryptographic module 
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticator).
 
-# authenticator assurance level<a id="authenticator-assurance-level"></a>
+[[def: authenticator assurance level, AAL]]
+~ A measure of the strength of an [authentication](#authentication-of-a-user-process-or-device) mechanism and, therefore, the confidence in it. 
 
-A measure of the strength of an [authentication](#authentication-of-a-user-process-or-device) mechanism and, therefore, the confidence in it. 
+Also known as: [[ref: AAL]]
 
 Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authenticator_assurance_level).
 
