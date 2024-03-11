@@ -85,6 +85,11 @@
 
 ~ See also: [[ref: trust basis]], [[ref: verifiability]].
 
+
+[[def: assurance level, assurance levels]]:
+~ A level of confidence in a [[ref: claim]] that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [[ref: authenticator assurance level]], [federation assurance level](federation-assurance-level), and [identity assurance level](identity-assurance-level).
+
+
 [[def: appropriate friction]]:
 ~ A user-experience design principle for information systems (such as digital wallets) specifying that the level of attention required of the [[ref: holder]] for a particular transaction should provide a reasonable opportunity for an informed choice by the [[ref: holder]].
 
@@ -133,9 +138,6 @@
 ~ The [[ref: party]] responsible for performing an [[ref: audit]]. Typically an auditor must be [[ref: accredited]].
 
 ~ See also: [[ref: human auditable]].
-
-[[def: assurance level, assurance levels]]:
-~ A level of confidence in a [[ref: claim]] that may be relied on by others. Different types of assurance levels are defined for different types of trust assurance mechanisms. Examples include [[ref: authenticator assurance level]], [federation assurance level](federation-assurance-level), and [identity assurance level](identity-assurance-level).
 
 [[def: authentication (of a user; process; or device)]]:
 ~ Verifying the [[ref: identity]] of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
