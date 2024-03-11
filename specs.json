@@ -1,4 +1,4 @@
-
+o
 {
   "specs": [
     {
@@ -23,7 +23,7 @@
       "katex": true,
       "source": {
         "host": "github",
-        "account": "trustoverip",
+        "account": "darrellodonnell",
         "repo": "specification-template"
       }
     }
