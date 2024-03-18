@@ -139,7 +139,7 @@
 
 ~ See also: [[ref: human auditable]].
 
-[[def: authentication (of a user; process; or device)]]:
+[[def: authentication(of a user; process; or device), authentication]]:
 ~ Verifying the [[ref: identity]] of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
 
 ~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/authentication).
@@ -608,7 +608,8 @@
 ~ See: [[ref: digital vault]].
 
 
-[[def: decentralized identifier]]:
+
+[[def: decentralized identifier, decentralized identifiers, DID, DIDs]]:
 ~ A globally unique persistent [[ref: identifier]] that does not require a centralized [[ref: registration]] [[ref: authority]] and is often generated and/or registered cryptographically. The generic format of a DID is defined in section [3.1 DID Syntax](https://www.w3.org/TR/did-core/#did-syntax) of the [W3C Decentralized Identifiers (DIDs) 1.0](https://www.w3.org/TR/did-core/) specification. A specific DID scheme is defined in a [[ref: DID method]] specification.
 
 ~ Source: [W3C DID](https://www.w3.org/TR/did-core/#terminology).
@@ -640,6 +641,8 @@
 ~ Also known as: DWN.
 
 ~ For more information, see: <https://identity.foundation/decentralized-web-node/spec/> 
+
+
 
 
 [[def: deceptive pattern]]:
@@ -696,10 +699,6 @@
 ~ A dictionary is a listing of lexemes (words or [[ref: terms]]) from the lexicon of one or more specific languages, often arranged alphabetically, which may include information on [[ref: definitions]], usage, etymologies, pronunciations, translation, etc. It is a lexicographical reference that shows inter-relationships among the [[ref: data]]. Unlike a [[ref: glossary]], a dictionary may provide multiple [[ref: definitions]] of a [[ref: term]] depending on its [[ref: scope]] or context.
 
 ~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Dictionary).
-
-
-[[def: DID]]:
-~ See: [[ref: decentralized identifier]].
 
 
 [[def: DID controller]]:
@@ -859,9 +858,10 @@
 ~ See: [[ref: digital ecosystem]].
 
 
-[[def: ecosystem governance framework]]:
+[[def: ecosystem governance framework, EGF]]:
 ~ A [[ref: governance framework]] for a [[ref: digital trust ecosystem]]. An ecosystem governance framework may incorporate, aggregate, or reference other types of governance frameworks such as a [[ref: credential governance framework]] or a [[ref: utility governance framework]].
 
+- Also known as: [[ref: EGF]]
 
 [[def: eIDAS]]:
 ~ eIDAS (electronic IDentification, Authentication and trust Services) is an EU regulation with the stated purpose of governing "electronic identification and [[ref: trust services]] for electronic transactions". It passed in 2014 and its provisions came into effect between 2016-2018.
@@ -2522,6 +2522,8 @@
 [[def: ToIP message]]:
 ~ A [[ref: message]] communicated between [[ref: ToIP endpoints]] using the [[ref: ToIP stack]].
 
+[[def: ToIP specification]]:
+~ A specification published by the [[ref: ToIP Foundation]]. Specifications may be in one of three states: Draft Deliverable, Working Group Approved Deliverable, or ToIP Approved Deliverables
 
 [[def: ToIP stack]]:
 ~ The layered architecture for decentralized digital trust infrastructure defined by the [[ref: ToIP Foundation]]. The ToIP stack is a dual stack consisting of two halves: the [[ref: ToIP Technology Stack]] and the [[ref: ToIP Governance Stack]]. The four layers in the ToIP stack are [[ref: ToIP Layer 1]], [[ref: ToIP Layer 2]], [[ref: ToIP Layer 3]], and [[ref: ToIP Layer 4]].
@@ -2966,11 +2968,11 @@
 ~ Note: There is an [earlier definition in the W3C VC 1.1. glossary](https://www.w3.org/TR/vc-data-model/#terminology) that is not as mature (it is not clear about the use of cryptographically verifiable data structures). We do not recommend that definition.
 
 
-[[def: verifiable identifier]]:
+[[def: verifiable identifier, VID]]:
 ~ An [[ref: identifier]] over which the [[ref: controller]] can provide cryptographic [[ref: proof of control]].
 
 ~ See also: [[ref: decentralized identifier]], [[ref: autonomous identifier]].
-
+- Also known as: [[ref:VID]]
 
 [[def: verifiable message]]:
 ~ A [[ref: message]] communicated as [[ref: verifiable data]].
