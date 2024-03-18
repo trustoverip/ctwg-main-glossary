@@ -2,7 +2,7 @@
 
 This is the working area for the Trust over IP specification template.
 
-* [Editor's Copy](https://darrellodonnell.github.io/specification-template/)
+* [Editor's Copy](https://trustoverip.github.io/specification-template/)
 
 #### Contributing
 
