@@ -1064,7 +1064,7 @@
 ~ A use case specified in a [[ref: governance document]] that results in specific [[ref: governance requirements]] within that [[ref: governance framework]]. Governed use cases may optionally be discovered via a [[ref: trust registry]] authorized by the relevant [[ref: governance framework]].
 
 
-[[def: governed party]]:
+[[def: governed party, governed parties]]:
 ~ A [[ref: party]] whose [[ref: role(s)]] in a [[ref: trust community]] is governed by the [[ref: governance requirements]] in a [[ref: governance framework]].
 
 
@@ -2042,7 +2042,7 @@
 ~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Reputation_system).
 
 
-[[def: requirement]]:
+[[def: requirement, requirements]]:
 ~ A specified condition or behavior to which a system needs to [[ref: comply]]. [[ref: Technical requirements]] are defined in [[ref: technical specifications]] and implemented in computer systems to be executed by software [[ref: actors]]. [[ref: Governance requirements]] are defined in [[ref: governance documents]] that specify [[ref: policies]] and procedures to be executed by human [[ref: actors]]. In ToIP architecture, requirements are expressed using the keywords defined in Internet RFC 2119.
 
 ~ See also: [[ref: mandatory]], [[ref: recommended]], [[ref: optional]].
@@ -2230,6 +2230,7 @@
 ~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#ssi-self-sovereign-identity): SSI (Self-Sovereign Identity) is a term that has many different interpretations, and that we use to refer to concepts/ideas, architectures, processes and technologies that aim to support (autonomous) [parties](https://essif-lab.github.io/framework/docs/terms/party) as they negotiate and execute electronic [transactions](https://essif-lab.github.io/framework/docs/terms/transaction) with one another.
 
 ~ [Wikipedia](https://en.wikipedia.org/wiki/Self-sovereign_identity): Self-sovereign identity (SSI) is an approach to [digital identity](https://en.wikipedia.org/wiki/Digital_identity) that gives individuals control over the information they use to prove who they are to [websites](https://en.wikipedia.org/wiki/Website), services, and [applications](https://en.wikipedia.org/wiki/Application_software) across the web. Without SSI, individuals with persistent accounts (identities) across the [internet](https://en.wikipedia.org/wiki/Internet) must rely on a number of large identity providers, such as [Facebook](https://en.wikipedia.org/wiki/Facebook) (Facebook Connect) and [Google](https://en.wikipedia.org/wiki/Google) (Google Sign-In), that have control of the information associated with their identity.
+
 
 
 [[def: sensitive data]]:
@@ -2658,7 +2659,7 @@
 
 ~ For more information, see: [Design Principles for the ToIP Stack](https://trustoverip.org/our-work/design-principles/).
 
-[[def: trust community]]:
+[[def: trust community, trust communities]]:
 ~ A set of [[ref: parties]] who collaborate to achieve a mutual set of [[ref: trust objectives]]. 
 
 ~ See also: [[ref: digital trust ecosystem]], [[ref: ToIP trust community]].
