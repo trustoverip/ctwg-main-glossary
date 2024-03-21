@@ -322,7 +322,7 @@
 ~ See also: [[ref: Content Authenticity Initiative]].
 
 
-[[def: communication]]:
+[[def: communication, communications]]:
 ~ The transmission of information.
 
 ~ Source: [Wikipedia](https://en.wikipedia.org/wiki/Communication).
