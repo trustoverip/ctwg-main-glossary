@@ -8,12 +8,12 @@ const fs = require('fs');
 const path = require('path');
 const fixContent = require('./fix-content.js');
 
-// if “specs.unsplit.json” does not yet exist, copy “specs.json” to “specs.unsplit.json so we have a backup”
+// if “specs.unsplit.json” does not yet exist, copy “specs.json” to “specs.unsplit.json” so we have a backup
 if (!fs.existsSync('specs.unsplit.json')) {
   fs.copyFileSync('specs.json', 'specs.unsplit.json');
 }
 
-// Restore original, if necessary
+// Restore original
 fs.copyFileSync('specs.unsplit.json', 'specs.json');
 
 // Load the original specs.json file before changes
@@ -63,7 +63,7 @@ if (fs.existsSync(markdownSplittedFilesDirWithPath)) {
   fs.rmdirSync(markdownSplittedFilesDirWithPath, { recursive: true });
 }
 
-// Create directory with the splitted files if it doesn't exist
+// Create directory that is going to hold splitted files if it doesn't exist
 if (!fs.existsSync(markdownSplittedFilesDirWithPath)) {
   fs.mkdirSync(markdownSplittedFilesDirWithPath, { recursive: true });
 }
