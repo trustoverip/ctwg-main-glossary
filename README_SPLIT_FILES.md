@@ -18,8 +18,10 @@ Split `terms_and_definitions.md` into multiple files, one file per term:
 npm run split
 ```
 
-Create the specification file (named `index.html`) containing the glossary:
+Create the glossary file (named `index.html`):
 
 ```
 npm run render
 ```
+
+End.
