@@ -8,18 +8,12 @@
         "title.md", 
         "header.md",
         "toc.md",
-        "foreword.md",
         "introduction.md",
-        "scope.md",
-        "normative_references.md",
-        "terms_and_definitions.md",
-        "clauses.md",
-        "annex.md",
-        "biblio.md"
+        "referenced_glossaries.md",
+        "terms_and_definitions.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/logo-assets/master/logos/ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg",
       "logo_link": "https://github.com/trustoverip/specification-template",
-      "katex": true,
       "source": {
         "host": "github",
         "account": "darrellodonnell",
