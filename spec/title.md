@@ -12,7 +12,7 @@ ToIP Glossary
 **Editors:**
 
 - [Drummond Reed](https://github.com/talltree), [Gen](https://www.gendigital.com)
-- [Henk van Caan](https://github.com/henkvancann)
+- [Henk van Cann](https://github.com/henkvancann)
 
 **Contributors:**
 
