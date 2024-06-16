@@ -1,6 +1,8 @@
 # Editing the Specification
 
-To contribute changes to the specification, please 
+***June 16th, 2024: Due to migration to Spec-Up-T this document is outdated***.
+
+To contribute changes to the specification, please
 
 - Review the [Contributions policy](CONTRIBUTING.md) for this specification and ensure that you and your organization are willing to abide by the policy.
   - **Pull requests submitted to this repository imply acceptance of the [Contributions policy](CONTRIBUTING.md).**
