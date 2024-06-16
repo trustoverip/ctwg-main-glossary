@@ -394,6 +394,7 @@
         "terms-definitions/terms-wiki.md",
         "terms-definitions/thing.md",
         "terms-definitions/third-party.md",
+        "terms-definitions/this-is-an-xref-test.md",
         "terms-definitions/three-party-model.md",
         "terms-definitions/timestamp.md",
         "terms-definitions/tls.md",
@@ -523,7 +524,35 @@
         "account": "trustoverip",
         "repo": "ctwg-main-glossary"
       },
-      "spec_terms_directory": "terms-definitions"
+      "spec_terms_directory": "terms-definitions",
+      "external_specs": [
+        {
+          "PE": "https://identity.foundation/presentation-exchange"
+        },
+        {
+          "test-1": "https://kordwarshuis.github.io/spec-up-xref-test-1/"
+        },
+        {
+          "test-2": "https://kordwarshuis.github.io/spec-up-xref-test-2/"
+        }
+      ],
+      "external_specs_repos": [
+        {
+          "external_spec": "PE",
+          "url": "https://github.com/decentralized-identity/presentation-exchange",
+          "terms_dir": "spec"
+        },
+        {
+          "external_spec": "test-1",
+          "url": "https://github.com/kordwarshuis/spec-up-xref-test-1",
+          "terms_dir": "spec/term-definitions"
+        },
+        {
+          "external_spec": "test-2",
+          "url": "https://github.com/kordwarshuis/spec-up-xref-test-2",
+          "terms_dir": "spec/term-definitions"
+        }
+      ]
     }
   ]
 }
