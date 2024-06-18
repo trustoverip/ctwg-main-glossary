@@ -18,7 +18,7 @@ const allXrefs = {
       "repo": "spec-up-xref-test-1",
       "site": "https://kordwarshuis.github.io/spec-up-xref-test-1/",
       "commitHash": [
-        "c71b3c5f041135544ab4c011cd3f845bbd5d85df"
+        "58f0665866cdc8d5232362c3c64eb541721e06f9"
       ]
     },
     {
