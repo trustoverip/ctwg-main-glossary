@@ -27,6 +27,6 @@
     "xrefs": "node -e \"require('spec-up-t/src/get-xrefs-data.js').getXrefsData()\""
   },
   "dependencies": {
-    "spec-up-t": "^0.11.19"
+    "spec-up-t": "^0.11.20"
   }
 }
