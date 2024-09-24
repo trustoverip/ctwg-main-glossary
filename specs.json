@@ -3,6 +3,7 @@
     {
       "title": "ToIP Main Glossary v0.0",
       "spec_directory": "./spec",
+      "spec_terms_directory": "terms-definitions",
       "output_path": "./docs",
       "markdown_paths": [
         "title.md",
@@ -20,11 +21,7 @@
         "account": "trustoverip",
         "repo": "ctwg-main-glossary"
       },
-      "spec_terms_directory": "terms-definitions",
       "external_specs": [
-        {
-          "PE": "https://identity.foundation/presentation-exchange"
-        },
         {
           "test-1": "https://kordwarshuis.github.io/spec-up-xref-test-1/"
         },
@@ -33,11 +30,6 @@
         }
       ],
       "external_specs_repos": [
-        {
-          "external_spec": "PE",
-          "url": "https://github.com/decentralized-identity/presentation-exchange",
-          "terms_dir": "spec"
-        },
         {
           "external_spec": "test-1",
           "url": "https://github.com/kordwarshuis/spec-up-xref-test-1",
@@ -48,7 +40,23 @@
           "url": "https://github.com/kordwarshuis/spec-up-xref-test-2",
           "terms_dir": "spec/term-definitions"
         }
-      ]
+      ],
+      "assets": [
+        {
+          "path": "/custom-assets/custom.css"
+        },
+        {
+          "path": "/custom-assets/custom-head.js",
+          "inject": "head"
+        },
+        {
+          "path": "/custom-assets/custom-body.js",
+          "inject": "body",
+          "module": true
+        }
+      ],
+      "katex": false,
+      "searchHighlightStyle": "ssi"
     }
   ]
 }
