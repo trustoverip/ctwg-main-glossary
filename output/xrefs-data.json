@@ -3,11 +3,11 @@
     {
       "externalSpec": "PE",
       "term": "Holder",
-      "repoUrl": "https://github.com/decentralized-identity/presentation-exchange",
-      "terms_dir": "spec",
-      "owner": "decentralized-identity",
-      "repo": "presentation-exchange",
-      "site": "https://identity.foundation/presentation-exchange",
+      "repoUrl": null,
+      "terms_dir": null,
+      "owner": null,
+      "repo": null,
+      "site": null,
       "commitHash": null,
       "content": null
     },

@@ -4566,16 +4566,6 @@
       ]
     },
     {
-      "term": "this-is-an-xref-test",
-      "synonyms": [
-        "This is an xref test"
-      ],
-      "xrefs": [
-        "PE, Holder",
-        "test-1, Aal"
-      ]
-    },
-    {
       "term": "three party model",
       "synonyms": [],
       "refs": [
