@@ -1,3 +1,3 @@
 [[def: risk decision, risk decisions]]
-~ See: [[ref: trust decision]].
 
+~ See: [[ref: trust decision]].

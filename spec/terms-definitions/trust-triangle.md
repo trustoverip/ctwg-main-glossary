@@ -1,3 +1,3 @@
 [[def: trust triangle, trust triangles]]
-~ See: [[ref: three-party model]].
 
+~ See: [[ref: three-party model]].

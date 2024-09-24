@@ -1,3 +1,3 @@
 [[def: wallet, wallets]]
-~ See: [[ref: digital wallet]].
 
+~ See: [[ref: digital wallet]].

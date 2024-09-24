@@ -1,3 +1,3 @@
 [[def: ToIP intermediary, ToIP intermediaries]]
-~ See: [[ref: intermediary system]].
 
+~ See: [[ref: intermediary system]].

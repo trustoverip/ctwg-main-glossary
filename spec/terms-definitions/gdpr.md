@@ -1,3 +1,3 @@
 [[def: GDPR]]
-~ See: [[ref: General Data Protection Regulation]].
 
+~ See: [[ref: General Data Protection Regulation]].

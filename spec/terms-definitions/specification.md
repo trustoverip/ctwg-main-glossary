@@ -1,3 +1,3 @@
 [[def: specification, specifications]]
-~ See: [[ref: technical specification]].
 
+~ See: [[ref: technical specification]].

@@ -1,3 +1,3 @@
 [[def: certificate, certificates]]
-~ See: [[ref: public key certificate]].
 
+~ See: [[ref: public key certificate]].

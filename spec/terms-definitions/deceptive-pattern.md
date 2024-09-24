@@ -1,3 +1,3 @@
 [[def: deceptive pattern, deceptive patterns]]
-~ See: [[ref: dark pattern]].
 
+~ See: [[ref: dark pattern]].

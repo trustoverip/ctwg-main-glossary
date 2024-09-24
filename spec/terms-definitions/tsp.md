@@ -1,3 +1,3 @@
 [[def: TSP]]
-~ See: [[ref: ToIP Trust Spanning Protocol]].
 
+~ See: [[ref: ToIP Trust Spanning Protocol]].

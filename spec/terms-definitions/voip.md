@@ -1,3 +1,3 @@
 [[def: VoIP]]
-~ See: [[ref: Voice over IP]].
 
+~ See: [[ref: Voice over IP]].

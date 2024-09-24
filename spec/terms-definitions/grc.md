@@ -1,3 +1,3 @@
 [[def: GRC]]
-~ See: [[ref: Governance - Risk Management - Compliance]].
 
+~ See: [[ref: Governance - Risk Management - Compliance]].

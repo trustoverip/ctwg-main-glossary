@@ -1,3 +1,3 @@
 [[def: TTA]]
-~ See: [[ref: trusted timestamp authority]].
 
+~ See: [[ref: trusted timestamp authority]].

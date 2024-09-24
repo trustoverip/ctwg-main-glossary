@@ -1,3 +1,3 @@
 [[def: channel, channels]]
-~ See: [[ref: communication channel]].
 
+~ See: [[ref: communication channel]].

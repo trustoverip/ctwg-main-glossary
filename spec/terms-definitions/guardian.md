@@ -1,4 +1,5 @@
 [[def: guardian, guardians]]
+
 ~ A [[ref: party]] that has been assigned rights and duties in a [[ref: guardianship arrangement]] for the purpose of caring for, protecting, guarding, and defending the [[ref: entity]] that is the [[ref: dependent]] in that [[ref: guardianship arrangement]]. In the context of decentralized digital trust infrastructure, a guardian is issued [[ref: guardianship credentials]] into their own [[ref: digital wallet]] in order to perform such [[ref: actions]] on behalf of the [[ref: dependent]] as are required by this [[ref: role]].
 
 ~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#guardian)
@@ -14,4 +15,3 @@
 ~ For more information, see: [On Guardianship in Self-Sovereign Identity V2.0](https://sovrin.org/wp-content/uploads/Guardianship-Whitepaper-V2.0.pdf) (April, 2023).
 
 ~ Note: A guardian is a very different role than a [[ref: custodian]], who does not take any [[ref: actions]] on behalf of a [[ref: principal]] unless explicitly [[ref: authorized]].
-

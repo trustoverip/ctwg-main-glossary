@@ -1,3 +1,3 @@
 [[def: IAL]]
-~ See: [[ref: identity assurance level]].
 
+~ See: [[ref: identity assurance level]].

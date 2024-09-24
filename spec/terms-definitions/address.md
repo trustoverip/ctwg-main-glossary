@@ -1,3 +1,3 @@
 [[def: address, addresses, addressing]]
-~ See: [[ref: network address]].
 
+~ See: [[ref: network address]].

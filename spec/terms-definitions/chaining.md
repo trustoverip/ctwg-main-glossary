@@ -1,3 +1,3 @@
 [[def: chaining]]
-~ See: [[ref: trust chain]].
 
+~ See: [[ref: trust chain]].

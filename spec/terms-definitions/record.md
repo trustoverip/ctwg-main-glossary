@@ -1,3 +1,3 @@
 [[def: record, records]]
-~ A uniquely identifiable entry or listing in a database or [[ref: registry]].
 
+~ A uniquely identifiable entry or listing in a database or [[ref: registry]].

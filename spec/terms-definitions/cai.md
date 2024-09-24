@@ -1,3 +1,3 @@
 [[def: CAI]]
-~ See: [[ref: Content Authenticity Initiative]].
 
+~ See: [[ref: Content Authenticity Initiative]].

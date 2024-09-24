@@ -1,3 +1,3 @@
 [[def: LEI]]
-~ See: [[ref: Legal Entity Identifier]].
 
+~ See: [[ref: Legal Entity Identifier]].

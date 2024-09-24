@@ -1,3 +1,3 @@
 [[def: administering authority, administering authorities]]
-~ See: [[ref: administering body]].
 
+~ See: [[ref: administering body]].

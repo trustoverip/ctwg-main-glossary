@@ -1,3 +1,3 @@
 [[def: PoP]]
-~ See: [[ref: proof of personhood]].
 
+~ See: [[ref: proof of personhood]].

@@ -1,3 +1,3 @@
 [[def: registrant, registrants]]
-~ The [[ref: party]] submitting a [[ref: registration]] [[ref: record]] to a [[ref: registry]].
 
+~ The [[ref: party]] submitting a [[ref: registration]] [[ref: record]] to a [[ref: registry]].

@@ -1,3 +1,3 @@
 [[def: AID]]
-~ See [[ref: autonomic identifier]].
 
+~ See [[ref: autonomic identifier]].

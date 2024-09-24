@@ -1,3 +1,3 @@
 [[def: TCP]]
-~ See: [[ref: Transmission Control Protocol]].
 
+~ See: [[ref: Transmission Control Protocol]].

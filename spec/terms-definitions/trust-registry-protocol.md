@@ -1,3 +1,3 @@
 [[def: trust registry protocol]]
-~ See: [[ref: ToIP Trust Registry Protocol]].
 
+~ See: [[ref: ToIP Trust Registry Protocol]].

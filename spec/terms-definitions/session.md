@@ -1,3 +1,3 @@
 [[def: session, sessions]]
-~ See: [[ref: communication session]].
 
+~ See: [[ref: communication session]].

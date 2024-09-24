@@ -1,3 +1,3 @@
 [[def: IDP]]
-~ See: [[ref: identity provider]].
 
+~ See: [[ref: identity provider]].

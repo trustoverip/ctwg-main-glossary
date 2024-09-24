@@ -1,3 +1,3 @@
 [[def: HSM]]
-~ See: [[ref: hardware security module]].
 
+~ See: [[ref: hardware security module]].

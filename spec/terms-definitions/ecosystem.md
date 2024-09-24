@@ -1,3 +1,3 @@
 [[def: ecosystem, ecosystems]]
-~ See: [[ref: digital ecosystem]].
 
+~ See: [[ref: digital ecosystem]].
