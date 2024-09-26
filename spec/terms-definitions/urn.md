@@ -1,3 +1,3 @@
 [[def: URN]]
-~ See: [[ref: Uniform Resource Name]].
 
+~ See: [[ref: Uniform Resource Name]].

@@ -1,3 +1,3 @@
 [[def: DRM]]
-~ See: [[ref: digital rights management]].
 
+~ See: [[ref: digital rights management]].

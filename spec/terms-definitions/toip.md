@@ -1,3 +1,3 @@
 [[def: ToIP]]
-~ See: [[ref: Trust Over IP]]
 
+~ See: [[ref: Trust Over IP]]

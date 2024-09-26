@@ -1,3 +1,3 @@
 [[def: TTP]]
-~ See: [[ref: trusted third party]].
 
+~ See: [[ref: trusted third party]].

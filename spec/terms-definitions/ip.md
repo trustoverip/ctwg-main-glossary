@@ -1,3 +1,3 @@
 [[def: IP]]
-~ See: [[ref: Internet Protocol]].
 
+~ See: [[ref: Internet Protocol]].

@@ -1,3 +1,3 @@
 [[def: ACDC, ACDCs]]
-~ See: [[ref: Authentic Chained Data Container]].
 
+~ See: [[ref: Authentic Chained Data Container]].

@@ -1,3 +1,3 @@
 [[def: TEE]]
-~ See: [[ref: trusted execution environment]].
 
+~ See: [[ref: trusted execution environment]].

@@ -1,3 +1,3 @@
 [[def: TLS]]
-~ See: [[ref: Transport Layer Security]].
 
+~ See: [[ref: Transport Layer Security]].

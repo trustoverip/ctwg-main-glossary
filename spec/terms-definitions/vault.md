@@ -1,3 +1,3 @@
 [[def: vault, vaults]]
-~ See: [[ref: digital vault]].
 
+~ See: [[ref: digital vault]].

@@ -1,3 +1,3 @@
 [[def: SSL]]
-~ See: [[ref: Secure Sockets Layer]].
 
+~ See: [[ref: Secure Sockets Layer]].

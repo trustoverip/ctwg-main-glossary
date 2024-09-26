@@ -1,3 +1,3 @@
 [[def: AAL]]
-~ See: [[ref: authenticator assurance level]].
 
+~ See: [[ref: authenticator assurance level]].

@@ -1,3 +1,3 @@
 [[def: TCP/IP]]
-~ See: [[ref: Internet Protocol Suite]].
 
+~ See: [[ref: Internet Protocol Suite]].

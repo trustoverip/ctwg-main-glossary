@@ -1,3 +1,3 @@
 [[def: person, persons]]
-~ See [[ref: natural person]].
 
+~ See [[ref: natural person]].

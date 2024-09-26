@@ -1,3 +1,3 @@
 [[def: URL]]
-~ See: [[ref: Uniform Resource Locator]].
 
+~ See: [[ref: Uniform Resource Locator]].

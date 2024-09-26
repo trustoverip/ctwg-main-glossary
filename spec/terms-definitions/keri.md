@@ -1,3 +1,3 @@
 [[def: KERI]]
-~ See: [[ref: Key Event Receipt Infrastructure]].
 
+~ See: [[ref: Key Event Receipt Infrastructure]].

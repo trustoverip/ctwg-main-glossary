@@ -1,3 +1,3 @@
 [[def: PKI]]
-~ See: [[ref: public key infrastructure]].
 
+~ See: [[ref: public key infrastructure]].

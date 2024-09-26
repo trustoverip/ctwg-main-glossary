@@ -12,7 +12,7 @@ ToIP Glossary
 **Editors:**
 
 - [Drummond Reed](https://github.com/talltree), [Gen](https://www.gendigital.com)
-- [Henk van Caan](https://github.com/henkvancann)
+- [Henk van Cann](https://github.com/henkvancann)
 
 **Contributors:**
 
@@ -26,8 +26,8 @@ ToIP Glossary
 
 **Participate:**
 
-~ [GitHub repo](https://github.com/trustoverip/ctwg-main-glossary)
-~ [Commit history](https://github.com/trustoverip/ctwg-main-glossary/commits/main)
+- [GitHub repo](https://github.com/trustoverip/ctwg-main-glossary)
+- [Commit history](https://github.com/trustoverip/ctwg-main-glossary/commits/main)
 
 ------------------------------------
 

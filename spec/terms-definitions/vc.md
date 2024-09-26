@@ -1,3 +1,3 @@
 [[def: VC]]
-~ See: [[ref: verifiable credential]].
 
+~ See: [[ref: verifiable credential]].

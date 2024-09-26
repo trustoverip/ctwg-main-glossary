@@ -1,3 +1,3 @@
 [[def: DID]]
-~ See: [[ref: decentralized identifier]]
 
+~ See: [[ref: decentralized identifier]]

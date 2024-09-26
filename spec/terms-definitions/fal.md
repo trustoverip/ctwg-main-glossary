@@ -1,3 +1,3 @@
 [[def: FAL]]
-~ See: [[ref: federation assurance level]].
 
+~ See: [[ref: federation assurance level]].

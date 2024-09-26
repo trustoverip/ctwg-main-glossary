@@ -1,3 +1,3 @@
 [[def: VID]]
-~ See [[ref: ​​verifiable identifier]].
 
+~ See [[ref: ​​verifiable identifier]].

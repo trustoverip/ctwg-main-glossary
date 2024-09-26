@@ -1,3 +1,3 @@
 [[def: DWN]]
-~ See: [[ref: Decentralized Web Node]].
 
+~ See: [[ref: Decentralized Web Node]].

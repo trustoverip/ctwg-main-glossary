@@ -1,3 +1,3 @@
 [[def: PII]]
-~ See: [[ref: personally identifiable information]].
 
+~ See: [[ref: personally identifiable information]].
