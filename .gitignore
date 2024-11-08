@@ -109,7 +109,7 @@ nbproject/
 # VSCode
 .vscode/
 
-docs/index.html
+# docs/index.html
 
 .DS_Store
 *.pdf
