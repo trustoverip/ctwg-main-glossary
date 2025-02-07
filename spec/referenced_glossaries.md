@@ -14,7 +14,7 @@ The following glossaries were used as sources for some of the definitions in the
 
 | Short Name | Source Glossary | URL |
 |------------|-----------------|-----|
-| Wikipedia | Wikipedia | https://www.wikipedia.org/ |
+| Wikipedia | Wikipedia | [https://www.wikipedia.org/](https://en.wikipedia.org/wiki/Main_Page) |
 | eSSIF-Lab | eSSIF-Lab Glossary | https://essif-lab.github.io/framework/docs/essifLab-glossary |
 | NIST-CSRC | NIST Computer Security Resource Center Glossary | https://csrc.nist.gov/glossary/ |
 | PEMC IGR | Kantara Privacy Enhancing Mobile Credentials Implementors Guidance Report | https://kantarainitiative.org/download/pemc-implementors-guidance-report/ |
