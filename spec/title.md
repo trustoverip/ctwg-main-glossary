@@ -26,8 +26,8 @@ ToIP Glossary
 
 **Participate:**
 
-~ [GitHub repo](https://github.com/trustoverip/ctwg-main-glossary)
-~ [Commit history](https://github.com/trustoverip/ctwg-main-glossary/commits/main)
+- [GitHub repo](https://github.com/trustoverip/ctwg-main-glossary)
+- [Commit history](https://github.com/trustoverip/ctwg-main-glossary/commits/main)
 
 ------------------------------------
 
