@@ -2,6 +2,8 @@
   "specs": [
     {
       "title": "ToIP Main Glossary v0.0",
+      "author": "ToIP CTWG",
+      "description": "The ToIP Glossary is a deliverable of the ToIP Concepts and Terminology Working Group. Its purpose is to promote shared understanding of terms and concepts across the many different working groups, communities, enterprises, and ecosystems who are collaborating to develop and deploy decentralized digital trust infrastructure.",
       "spec_directory": "./spec",
       "spec_terms_directory": "terms-definitions",
       "output_path": "./docs",
