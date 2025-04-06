@@ -5,5 +5,3 @@
 ~ See also: [[ref: decentralized identifier]], [[ref: autonomic identifier]].
 
 ~ - Also known as: [[ref: VID]]
-
-~ - Also known as: [[ref:VID]]
