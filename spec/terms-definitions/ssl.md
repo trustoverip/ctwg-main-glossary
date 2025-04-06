@@ -1,3 +1,1 @@
-[[def: SSL]]
-
-~ See: [[ref: Secure Sockets Layer]].
+[[tref: toip2, SSL]]
