@@ -4,4 +4,6 @@
 
 ~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/security_policy)
 
+~ Also see: KERI's vision on [[xref: keri1, security]]
+
 ~ See also: [[ref: privacy policy]].

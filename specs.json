@@ -1,7 +1,7 @@
 {
   "specs": [
     {
-      "title": "ToIP Main Glossary v0.0",
+      "title": "ToIP Main Glossary v1.0",
       "spec_directory": "./spec",
       "spec_terms_directory": "terms-definitions",
       "output_path": "./docs",
@@ -19,7 +19,8 @@
       "source": {
         "host": "github",
         "account": "trustoverip",
-        "repo": "ctwg-main-glossary"
+        "repo": "ctwg-main-glossary",
+        "branch": "integrate"
       },
       "external_specs": [
         {

@@ -2,47 +2,15 @@
   "xtrefs": [
     {
       "externalSpec": "toip2",
-      "term": "agency",
-      "repoUrl": "https://github.com/henkvancann/ctwg-general-glossary",
-      "terms_dir": "spec/terms-definitions",
-      "owner": "henkvancann",
-      "repo": "ctwg-general-glossary",
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
-    },
-    {
-      "externalSpec": "keri1",
-      "term": "autonomic-identifier",
-      "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
-      "terms_dir": "spec/terms-definitions",
-      "owner": "henkvancann",
-      "repo": "kerisuite-glossary",
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
-    },
-    {
-      "externalSpec": "toip1",
-      "term": "attribute",
-      "repoUrl": null,
-      "terms_dir": null,
-      "owner": null,
-      "repo": null,
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
-    },
-    {
-      "externalSpec": "toip2",
       "term": "provenance",
       "repoUrl": "https://github.com/henkvancann/ctwg-general-glossary",
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-general-glossary",
       "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
+      "commitHash": "e3fd9853fb4421eb2aed6289f83c82f1789dcb59",
+      "content": "[[def: provenance, provenance]]\n\n~ From Wikipedia ([Source](https://en.wikipedia.org/wiki/Provenance)):\n\n~ Provenance (from the [French](https://en.wikipedia.org/wiki/French_language) provenir, 'to come from/forth') is the chronology of the ownership, custody or location of a historical object. The term was originally mostly used in relation to [works of art](https://en.wikipedia.org/wiki/Works_of_art) but is now used in similar senses in a wide range of fields, including [archaeology](https://en.wikipedia.org/wiki/Archaeology), [paleontology](https://en.wikipedia.org/wiki/Paleontology), [archives](https://en.wikipedia.org/wiki/Archive), [manuscripts](https://en.wikipedia.org/wiki/Manuscript), printed books, the [circular economy](https://en.wikipedia.org/wiki/Circular_economy), and science and computing.\n\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/provenance\">extended KERI glossary</a>\n",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4"
     },
     {
       "externalSpec": "keri1",
@@ -62,6 +30,85 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "kerisuite-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "keri1",
+      "term": "GLEIF",
+      "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "kerisuite-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "toip2",
+      "term": "integrity",
+      "repoUrl": "https://github.com/henkvancann/ctwg-general-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "ctwg-general-glossary",
+      "site": null,
+      "commitHash": "bf40f473f5db5403b9541bfba177b6974789cb6b",
+      "content": "[[def: integrity, integrity]]\n\n~ Integrity (of a message or data) means that the information is whole, sound, and unimpaired (not necessarily correct). It means nothing is missing from the information; it is complete and in intended good order.  \n~ Source: Neil Thomson\n\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/integrity\">extended KERI glossary</a>\n",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4"
+    },
+    {
+      "externalSpec": "keri1",
+      "term": "integrity",
+      "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "kerisuite-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "keri1",
+      "term": "reputation",
+      "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "kerisuite-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "toip2",
+      "term": "agency",
+      "repoUrl": "https://github.com/henkvancann/ctwg-general-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "ctwg-general-glossary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "site": null,
+      "commitHash": "8f2ed8c275d05925cc97efc4f747244fe7b2fc13",
+      "content": "[[def: agency, agency]]\n\n~ Agents can be people, edge computers and the functionality within [wallets](https://github.com/trustoverip/acdc/wiki/_new#digital-identity-wallet). The service an agent offers is [[ref: agency]].\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/agency\">extended KERI glossary</a>\n"
+    },
+    {
+      "externalSpec": "keri1",
+      "term": "autonomic-identifier",
+      "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "kerisuite-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "attribute",
+      "repoUrl": null,
+      "terms_dir": null,
+      "owner": null,
+      "repo": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -95,46 +142,14 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-general-glossary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
       "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
+      "commitHash": "9509d29a288baf687b2aa0979b712901069cac16",
+      "content": "[[def: decentralized-key-management-infrastructure, decentralized key-management infrastructure]]\n\n~ a key management infrastructure that does not rely on a single entity for the integrity and security of the system as a whole. Trust in a DKMI is decentralized through the use of technologies that make it possible for geographically and politically disparate entities to reach an agreement on the key state of an identifier [DPKI](https://trustoverip.github.io/tswg-keri-specification/#term:dpki).  \n~ Source: Dr. S.Smith, 2024\n\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/decentralized-key-management-infrastructure\">extended KERI glossary</a>\n"
     },
     {
       "externalSpec": "keri1",
       "term": "delegated-identifier",
-      "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
-      "terms_dir": "spec/terms-definitions",
-      "owner": "henkvancann",
-      "repo": "kerisuite-glossary",
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
-    },
-    {
-      "externalSpec": "keri1",
-      "term": "GLEIF",
-      "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
-      "terms_dir": "spec/terms-definitions",
-      "owner": "henkvancann",
-      "repo": "kerisuite-glossary",
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
-    },
-    {
-      "externalSpec": "toip2",
-      "term": "integrity",
-      "repoUrl": "https://github.com/henkvancann/ctwg-general-glossary",
-      "terms_dir": "spec/terms-definitions",
-      "owner": "henkvancann",
-      "repo": "ctwg-general-glossary",
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
-    },
-    {
-      "externalSpec": "keri1",
-      "term": "integrity",
       "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
@@ -166,8 +181,19 @@
       "content": "This term was not found in the external repository."
     },
     {
+      "externalSpec": "toip2",
+      "term": "Secure Sockets Layer",
+      "repoUrl": "https://github.com/henkvancann/ctwg-general-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "ctwg-general-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
       "externalSpec": "keri1",
-      "term": "reputation",
+      "term": "security-cost-performance-architecture-trade-off",
       "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
@@ -177,12 +203,12 @@
       "content": "This term was not found in the external repository."
     },
     {
-      "externalSpec": "toip2",
-      "term": "Secure Sockets Layer",
-      "repoUrl": "https://github.com/henkvancann/ctwg-general-glossary",
+      "externalSpec": "keri1",
+      "term": "security",
+      "repoUrl": "https://github.com/henkvancann/kerisuite-glossary",
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
-      "repo": "ctwg-general-glossary",
+      "repo": "kerisuite-glossary",
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -260,9 +286,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-general-glossary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
       "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
+      "commitHash": "6f00c1ad3f1e196ee9e9dcaa4881f1a161f1dffa",
+      "content": "[[def: TCP, TCP]]\n\n~ [[ref: transmission-control-protocol]]\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/TCP\">extended KERI glossary</a>\n"
     },
     {
       "externalSpec": "keri1",

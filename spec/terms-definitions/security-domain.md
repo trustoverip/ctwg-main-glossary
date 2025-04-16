@@ -4,4 +4,6 @@
 
 ~ Source: [NIST-CSRC](https://csrc.nist.gov/glossary/term/domain)
 
+~ See also KERI's [[xref: keri1, security-cost-performance-architecture-trade-off]]
+
 ~ See also: [[ref: trust domain]].
