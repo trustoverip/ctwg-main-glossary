@@ -87,3 +87,4 @@ node_modules
 *.tmp
 build
 .history
+/.cache/
