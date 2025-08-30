@@ -14,7 +14,14 @@
         "introduction.md",
         "referenced_glossaries.md",
         "glossary-intro-created-by-split-tool.md",
-        "terms-and-definitions-intro.md"
+        "terms-and-definitions-intro.md",
+        "annex.md",
+        "biblio.md",
+        "clauses.md",
+        "foreword.md",
+        "glossaryIntro.md",
+        "revision_history.md",
+        "scope.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/logo-assets/master/logos/ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg",
       "logo_link": "https://github.com/trustoverip/specification-template",
@@ -43,9 +50,11 @@
             "url": "https://github.com/henkvancann/kerisuite-glossary",
             "terms_dir": "spec/terms-definitions"
         }
-    ],
+      ],
       "katex": false,
-      "searchHighlightStyle": "ssi"
+      "searchHighlightStyle": "ssi",
+      "author": "Trust over IP Foundation",
+      "description": "Create technical specifications in markdown. Based on the original Spec-Up, extended with Terminology tooling"
     }
   ]
 }
