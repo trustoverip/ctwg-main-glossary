@@ -1,10 +1,10 @@
 
-name: spec-up-t-render
+name: spec-up-t render
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
 
 jobs:
@@ -28,14 +28,14 @@ jobs:
           echo "start install"
           npm install
           echo "end install"
-          echo "start fetching xrefs"
-          node -e "require('spec-up-t/src/get-xrefs-data.js').getXrefsData()"
-          echo "end fetching xrefs"
+          echo "Spec-Up-T version:"
+          npm list spec-up-t
           echo "start render"
           node -e "require('spec-up-t')({ nowatch: true })"
           echo "end render"
           rm -rf node_modules
 
+      # This is a GitHub Action to deploy your static files to GitHub Pages
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
