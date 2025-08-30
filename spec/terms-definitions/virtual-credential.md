@@ -1,1 +1,3 @@
-[[tref: keri1, virtual-credential]]
+[[def: virtual credential]]
+
+~ Digital representations of claims or identity attributes, often used in online environments.
