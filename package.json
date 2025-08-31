@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "spec-up-t": "file:spec-up-t-1.3.2-beta-7.tgz"
+    "spec-up-t": "file:../spec-up-t-1.3.2-beta-8.tgz"
   }
 }
