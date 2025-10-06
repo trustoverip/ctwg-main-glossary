@@ -1,4 +1,4 @@
-[[def: trusted timestamp authority, trusted timestamp authorities, TTA, TTAs]]
+[[def: trusted-timestamp-authority, trusted timestamp authority, trusted timestamp authorities, TTA, TTAs]]
 
 ~ An [[ref: authority]] that is trusted to provide accurate time information in the form of a [[ref: timestamp]].
 

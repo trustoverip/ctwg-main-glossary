@@ -1,4 +1,4 @@
-[[def: verifiable data]]
+[[def: verifiable-data, verifiable data]]
 
 ~ Any digital [[ref: data]] or object that is [[ref: digitally signed]] in such a manner that it can be [[ref: cryptographically verified]]. 
 

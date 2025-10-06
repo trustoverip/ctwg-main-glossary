@@ -1,4 +1,4 @@
-[[def: ToIP Foundation]]
+[[def: toip-foundation, ToIP Foundation]]
 
 ~ A non-profit project of the [Linux Foundation](https://www.linuxfoundation.org/) chartered to define an overall architecture for decentralized digital trust infrastructure known as the [[ref: ToIP stack]]. 
 

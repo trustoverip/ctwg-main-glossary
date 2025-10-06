@@ -1,4 +1,4 @@
-[[def: definition, definitions]]
+[[def: definition, definition, definitions]]
 
 ~ A textual statement defining the meaning of a [[ref: term]] by specifying [[ref: criterion]] that enable the [[ref: concept]] identified by the [[ref: term]] to be distinguished from all other [[ref: concepts]] within the intended [[ref: scope]].
 

@@ -1,3 +1,3 @@
-[[def: KMS]]
+[[def: kms, KMS]]
 
 ~ See: [[ref: key management system]].

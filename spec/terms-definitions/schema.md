@@ -1,4 +1,4 @@
-[[def: schema, schemas]]
+[[def: schema, schema, schemas]]
 
 ~ A framework, pattern, or set of [[ref: rules]] for enforcing a specific structure on a digital object or a set of digital [[ref: data]]. There are many types of schemas, e.g., data schema, credential verification schema, database schema.
 

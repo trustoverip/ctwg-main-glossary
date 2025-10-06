@@ -1,4 +1,4 @@
-[[def: digital credential, digital credentials]]
+[[def: digital-credential, digital credential, digital credentials]]
 
 ~ A [[ref: credential]] in digital form that is signed with a [[ref: digital signature]] and held in a [[ref: digital wallet]]. A digital credential is issued to a [[ref: holder]] by an [[ref: issuer]]; a [[ref: proof]] of the credential is [[ref: presented]] by the [[ref: holder]] to a [[ref: verifier]].
 

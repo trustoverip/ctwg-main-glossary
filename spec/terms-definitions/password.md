@@ -1,4 +1,4 @@
-[[def: password, passwords]]
+[[def: password, password, passwords]]
 
 ~ A string of characters (letters, numbers and other symbols) that are used to authenticate an identity, verify access authorization or derive cryptographic keys.
 

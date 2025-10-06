@@ -1,4 +1,4 @@
-[[def: verifiable data registry, verifiable data registries, VDR, VDRs]]
+[[def: verifiable-data-registry, verifiable data registry, verifiable data registries, VDR, VDRs]]
 
 ~ A [[ref: registry]] that facilitates the creation, [[ref: verification]], updating, and/or deactivation of [[ref: decentralized identifiers]] and [[ref: DID documents]]. A verifiable data registry may also be used for other [[ref: cryptographically-verifiable]] data structures such as [[ref: verifiable credentials]]. 
 

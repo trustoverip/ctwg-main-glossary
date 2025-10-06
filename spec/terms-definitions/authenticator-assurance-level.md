@@ -1,4 +1,4 @@
-[[def: authenticator assurance level, authenticator assurance levels, AAL, AALs]]
+[[def: authenticator-assurance-level, authenticator assurance level, authenticator assurance levels, AAL, AALs]]
 
 ~ A measure of the strength of an [[ref: authentication]] mechanism and, therefore, the confidence in it. 
 

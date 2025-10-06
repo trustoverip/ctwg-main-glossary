@@ -1,4 +1,4 @@
-[[def: trust relationship, trust relationships]]
+[[def: trust-relationship, trust relationship, trust relationships]]
 
 ~ A relationship between a [[ref: party]] and an [[ref: entity]] in which the [[ref: party]] has decided to [[ref: trust]] the [[ref: entity]] in one or more [[ref: trust contexts]] up to a [[ref: trust limit]].
 

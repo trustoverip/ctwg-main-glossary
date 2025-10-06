@@ -1,4 +1,4 @@
-[[def: verifier, verifiers]]
+[[def: verifier, verifier, verifiers]]
 
 ~ A [[ref: role]] an [[ref: agent]] performs to perform [[ref: verification]] of one or more [[ref: proofs]] of the [[ref: claims]] in a [[ref: digital credential]] or other [[ref: verifiable data]].
 

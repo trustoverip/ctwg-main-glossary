@@ -1,4 +1,4 @@
-[[def: DID controller, DID controllers]]
+[[def: did-controller, DID controller, DID controllers]]
 
 ~ An [[ref: entity]] that has the capability to make changes to a [[ref: DID document]]. A [[ref: DID]] might have more than one DID controller. The DID controller(s) can be denoted by the optional `controller` property at the top level of the [[ref: DID document]]. Note that a DID controller might be the [[ref: DID subject]].
 

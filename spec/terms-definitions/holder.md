@@ -1,4 +1,4 @@
-[[def: holder, holders]]
+[[def: holder, holder, holders]]
 
 ~ A [[ref: role]] an [[ref: agent]] performs by serving as the [[ref: controller]] of the [[ref: cryptographic keys]] and [[ref: digital credentials]] in a [[ref: digital wallet]]. The holder makes [[ref: issuance requests]] for [[ref: credentials]] and responds to [[ref: presentation requests]] for [[ref: credentials]]. A holder is usually, but not always, a [[ref: subject]] of the [[ref: credentials]] they are holding.
 

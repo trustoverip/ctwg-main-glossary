@@ -1,4 +1,4 @@
-[[def: compliance, comply, complies, complied, complying, compliant]]
+[[def: compliance, compliance, comply, complies, complied, complying, compliant]]
 
 ~ In the context of decentralized digital trust infrastructure, compliance is the extent to which a system, [[ref: actor]], or [[ref: party]] conforms to the requirements of a regulation, [[ref: governance framework]], or [[ref: trust framework]] that pertains to that particular [[ref: entity]].
 

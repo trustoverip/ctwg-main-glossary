@@ -1,4 +1,4 @@
-[[def: zero-trust architecture, zero-trust architectures, ZTA, ZTAs]]
+[[def: zero-trust-architecture, zero-trust architecture, zero-trust architectures, ZTA, ZTAs]]
 
 ~ A network security architecture based on the core design principle “never trust, always verify”, so that all [[ref: actors]] are denied access to resources pending [[ref: verification]].
 

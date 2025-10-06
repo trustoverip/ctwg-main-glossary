@@ -1,4 +1,4 @@
-[[def: DID method, DID methods]]
+[[def: did-method, DID method, DID methods]]
 
 ~ A definition of how a specific DID method scheme is implemented. A DID method is defined by a DID method specification, which specifies the precise operations by which [[ref: DIDs]] and [[ref: DID documents]] are created, resolved, updated, and deactivated.
 

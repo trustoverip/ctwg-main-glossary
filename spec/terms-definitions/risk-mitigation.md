@@ -1,4 +1,4 @@
-[[def: risk mitigation, risk mitigations]]
+[[def: risk-mitigation, risk mitigation, risk mitigations]]
 
 ~ Prioritizing, evaluating, and implementing the appropriate [[ref: risk]]-reducing controls/countermeasures recommended from the [[ref: risk management]] process.
 

@@ -1,4 +1,4 @@
-[[def: ToIP identifier, ToIP identifiers]]
+[[def: toip-identifier, ToIP identifier, ToIP identifiers]]
 
 ~ A [[ref: verifiable identifier]] (VID) for an [[ref: entity]] that is addressable using the [[ref: ToIP stack]].
 

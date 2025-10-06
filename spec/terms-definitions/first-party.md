@@ -1,4 +1,4 @@
-[[def: first party, first parties]]
+[[def: first-party, first party, first parties]]
 
 ~ The [[ref: party]] who initiates a [[ref: trust relationship]], [[ref: connection]], or [[ref: transaction]] with a [[ref: second party]].
 

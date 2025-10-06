@@ -1,4 +1,4 @@
-[[def: party, parties]]
+[[def: party, party, parties]]
 
 ~ An [[ref: entity]] that sets its [[ref: objectives]], maintains its [[ref: knowledge]], and uses that [[ref: knowledge]] to pursue its [[ref: objectives]] in an autonomous (sovereign) manner. [[ref: Natural persons]] and [[ref: organizations]] are the typical examples.
 

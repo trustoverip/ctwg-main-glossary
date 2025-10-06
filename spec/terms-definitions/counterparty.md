@@ -1,4 +1,4 @@
-[[def: counterparty, counterparties]]
+[[def: counterparty, counterparty, counterparties]]
 
 ~ From the perspective of one [[ref: party]], the other [[ref: party]] in a [[ref: transaction]], such as a financial transaction.
 

@@ -1,3 +1,3 @@
-[[def: person, persons]]
+[[def: person, person, persons]]
 
 ~ See [[ref: natural person]].

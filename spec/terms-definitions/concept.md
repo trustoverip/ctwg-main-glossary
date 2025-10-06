@@ -1,4 +1,4 @@
-[[def: concept, concepts]]
+[[def: concept, concept, concepts]]
 
 ~ An abstract idea that enables the classification of [[ref: entities]], i.e., a mental construct that enables an instance of a class of [[ref: entities]] to be distinguished from [[ref: entities]] that are not an instance of that class. A concept can be [[ref: identified]] with a [[ref: term]].
 

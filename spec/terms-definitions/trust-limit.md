@@ -1,4 +1,4 @@
-[[def: trust limit, trust limits]]
+[[def: trust-limit, trust limit, trust limits]]
 
 ~ A limit to the degree a [[ref: party]] is willing to trust an [[ref: entity]] in a specific [[ref: trust relationship]] within a specific [[ref: trust context]].
 

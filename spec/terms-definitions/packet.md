@@ -1,4 +1,4 @@
-[[def: packet, packets]]
+[[def: packet, packet, packets]]
 
 ~ The logical unit of network [[ref: communications]] produced by the [[ref: transport layer]].
 

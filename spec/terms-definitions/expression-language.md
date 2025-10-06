@@ -1,4 +1,4 @@
-[[def: expression language, expression languages]]
+[[def: expression-language, expression language, expression languages]]
 
 ~ A language for creating a computer-interpretable ([[ref: machine-readable]]) representation of specific [[ref: knowledge]].
 

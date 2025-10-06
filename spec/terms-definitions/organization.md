@@ -1,4 +1,4 @@
-[[def: organization, organizations, organisation, organisations]]
+[[def: organization, organization, organizations, organisation, organisations]]
 
 ~ A [[ref: party]] that consists of a group of [[ref: parties]] who agree to be organized into a specific form in order to better achieve a common set of [[ref: objectives]]. Examples include corporations, partnerships, sole proprietorships, non-profit organizations, associations, and governments.
 

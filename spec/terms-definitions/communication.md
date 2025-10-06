@@ -1,4 +1,4 @@
-[[def: communication, communications]]
+[[def: communication, communication, communications]]
 
 ~ The transmission of information.
 

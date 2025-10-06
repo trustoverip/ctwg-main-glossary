@@ -1,4 +1,4 @@
-[[def: role-based access control, role-based access controls]]
+[[def: role-based-access-control, role-based access control, role-based access controls]]
 
 ~ [[ref: Access control]] based on user [[ref: roles]] (i.e., a collection of access [[ref: authorizations]] a user receives based on an explicit or implicit assumption of a given [[ref: role]]). [[ref: Role]] [[ref: permissions]] may be inherited through a [[ref: role]] hierarchy and typically reflect the [[ref: permissions]] needed to perform defined functions within an [[ref: organization]]. A given [[ref: role]] may apply to a single individual or to several individuals.
 

@@ -1,4 +1,4 @@
-[[def: legal system, legal systems]]
+[[def: legal-system, legal system, legal systems]]
 
 ~ A system in which [[ref: policies]] and [[ref: rules]] are defined, and mechanisms for their enforcement and conflict resolution are (implicitly or explicitly) specified. Legal systems are not just defined by governments; they can also be defined by a [[ref: governance framework]].
 

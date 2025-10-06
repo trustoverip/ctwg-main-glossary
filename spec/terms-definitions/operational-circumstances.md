@@ -1,4 +1,4 @@
-[[def: operational circumstances]]
+[[def: operational-circumstances, operational circumstances]]
 
 ~ In the context of privacy protection, this term denotes the context in which privacy trade-off decisions are made. It includes the regulatory environment and other non-technical factors that bear on what reasonable privacy expectations might be.
 

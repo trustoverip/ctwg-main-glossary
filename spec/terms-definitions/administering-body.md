@@ -1,4 +1,4 @@
-[[def: administering body, administering bodies]]
+[[def: administering-body, administering body, administering bodies]]
 
 ~ A [[ref: legal entity]] [[ref: delegated]] by a [[ref: governing body]] to administer the operation of a [[ref: governance framework]] and governed infrastructure for a [[ref: digital trust ecosystem]], such as one or more [[ref: trust registries]].
 

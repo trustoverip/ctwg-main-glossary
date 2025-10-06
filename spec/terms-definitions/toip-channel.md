@@ -1,3 +1,3 @@
-[[def: ToIP channel, ToIP channels]]
+[[def: toip-channel, ToIP channel, ToIP channels]]
 
 ~ See: [[ref: ToiP relationship]].

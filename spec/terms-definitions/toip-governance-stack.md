@@ -1,4 +1,4 @@
-[[def: ToIP Governance Stack]]
+[[def: toip-governance-stack, ToIP Governance Stack]]
 
 ~ The governance half of the four layer [[ref: ToIP stack]] as defined by the [[ref: ToIP Governance Architecture Specification]].
 

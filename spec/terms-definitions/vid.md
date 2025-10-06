@@ -1,3 +1,3 @@
-[[def: VID]]
+[[def: vid, VID]]
 
 ~ See [[ref: ​​verifiable identifier]].

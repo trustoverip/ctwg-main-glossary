@@ -1,4 +1,4 @@
-[[def: private key, private keys]]
+[[def: private-key, private key, private keys]]
 
 ~ In [[ref: public key cryptography]], the [[ref: cryptographic key]] which must be kept secret by the [[ref: controller]] in order to maintain security.
 

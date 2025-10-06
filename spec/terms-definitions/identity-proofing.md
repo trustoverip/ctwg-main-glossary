@@ -1,4 +1,4 @@
-[[def: identity proofing, identity proof, identity proofs]]
+[[def: identity-proofing, identity proofing, identity proof, identity proofs]]
 
 ~ The process of a [[ref: party]] gathering sufficient [[ref: identity data]] to establish an [[ref: identity]] for a particular [[ref: subject]] at a particular [[ref: identity assurance level]].
 

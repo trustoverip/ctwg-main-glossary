@@ -1,4 +1,4 @@
-[[def: SSI]]
+[[def: ssi, SSI]]
 
 ~ See: [[ref: self-sovereign identity]].
 

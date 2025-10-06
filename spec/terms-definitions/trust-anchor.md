@@ -1,4 +1,4 @@
-[[def: trust anchor, trust anchors]]
+[[def: trust-anchor, trust anchor, trust anchors]]
 
 ~ The [[ref: authoritative source]] that serves as the origin of a [[ref: trust chain]].
 

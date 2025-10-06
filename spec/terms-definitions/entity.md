@@ -1,4 +1,4 @@
-[[def: entity, entities]]
+[[def: entity, entity, entities]]
 
 ~ Someone or something that is known to exist.
 

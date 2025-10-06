@@ -1,4 +1,4 @@
-[[def: cryptographic binding, cryptographic bindings]]
+[[def: cryptographic-binding, cryptographic binding, cryptographic bindings]]
 
 ~ Associating two or more related elements of information using cryptographic techniques.
 

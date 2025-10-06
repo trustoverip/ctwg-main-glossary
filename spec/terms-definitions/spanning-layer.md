@@ -1,4 +1,4 @@
-[[def: spanning layer]]
+[[def: spanning-layer, spanning layer]]
 
 ~ A specific layer within a [[ref: protocol stack]] that consists of a single protocol explicitly designed to provide interoperability between the [[ref: protocol layers]] above it and below it.
 

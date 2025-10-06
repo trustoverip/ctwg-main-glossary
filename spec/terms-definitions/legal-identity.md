@@ -1,4 +1,4 @@
-[[def: legal identity, legal identities]]
+[[def: legal-identity, legal identity, legal identities]]
 
 ~ A set of [[ref: identity data]] considered [[ref: authoritative]] to identify a [[ref: party]] for purposes of legal accountability under one or more [[ref: jurisdictions]].
 

@@ -1,4 +1,4 @@
-[[def: attribute-based access control, attribute-based access controls]]
+[[def: attribute-based-access-control, attribute-based access control, attribute-based access controls]]
 
 ~ An [[ref: access control]] approach in which access is mediated based on [[ref: attributes]] associated with [[ref: subjects]] (requesters) and the objects to be accessed. Each object and [[ref: subject]] has a set of associated [[ref: attributes]], such as location, time of creation, access rights, etc. Access to an object is [[ref: authorized]] or denied depending upon whether the required (e.g., policy-defined) correlation can be made between the [[ref: attributes]] of that object and of the requesting [[ref: subject]].
 

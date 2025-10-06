@@ -1,4 +1,4 @@
-[[def: ToIP Governance Architecture Specification]]
+[[def: toip-governance-architecture-specification, ToIP Governance Architecture Specification]]
 
 ~ The specification defining the [[ref: requirements]] for the [[ref: ToIP Governance Stack]] published by the [[ref: ToIP Foundation]].
 

@@ -1,4 +1,4 @@
-[[def: end-to-end encryption, end-to-end encrypt]]
+[[def: end-to-end-encryption, end-to-end encryption, end-to-end encrypt]]
 
 ~ [[ref: Encryption]] that is applied to a [[ref: communication]] before it is transmitted from the sender’s [[ref: communication endpoint]] and cannot be [[ref: decrypted]] until after it is received at the receiver’s [[ref: communication endpoint]]. When end-to-end encryption is used, the [[ref: communication]] cannot be [[ref: decrypted]] in transit no matter how many [[ref: intermediaries]] are involved in the [[ref: routing]] process.
 

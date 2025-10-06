@@ -1,4 +1,4 @@
-[[def: zero-knowledge proof, zero-knowledge proofs, ZKP, ZKPs]]
+[[def: zero-knowledge-proof, zero-knowledge proof, zero-knowledge proofs, ZKP, ZKPs]]
 
 ~ A specific kind of cryptographic [[ref: proof]] that proves facts about [[ref: data]] to a [[ref: verifier]] without revealing the underlying [[ref: data]] itself. A common example is proving that a person is over or under a specific age without revealing the person’s exact birthdate.
 

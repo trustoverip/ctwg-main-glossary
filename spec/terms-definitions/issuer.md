@@ -1,4 +1,4 @@
-[[def: issuer, issuers]]
+[[def: issuer, issuer, issuers]]
 
 ~ A [[ref: role]] an [[ref: agent]] performs to package and [[ref: digitally sign]] a set of [[ref: claims]], typically in the form of a [[ref: digital credential]], and transmit them to a [[ref: holder]].
 

@@ -1,4 +1,4 @@
-[[def: public key, public keys]]
+[[def: public-key, public key, public keys]]
 
 ~ In [[ref: public key cryptography]], the [[ref: cryptographic key]] that can be freely shared with anyone by the [[ref: controller]] without compromising security. A [[ref: party]]'s public key must be verified as [[ref: authoritative]] in order to verify their [[ref: digital signature]].
 

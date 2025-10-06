@@ -1,4 +1,4 @@
-[[def: public key certificate, public key certificates, PKC, PKCs]]
+[[def: public-key-certificate, public key certificate, public key certificates, PKC, PKCs]]
 
 ~ A set of [[ref: data]] that uniquely identifies a [[ref: public key]] (which has a corresponding [[ref: private key]]) and an [[ref: owner]] that is authorized to use the [[ref: key pair]]. The certificate contains the owner’s [[ref: public key]] and possibly other information and is [[ref: digitally signed]] by a [[ref: certification authority]] (i.e., a trusted [[ref: party]]), thereby binding the [[ref: public key]] to the [[ref: owner]].
 

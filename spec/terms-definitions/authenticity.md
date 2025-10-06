@@ -1,4 +1,4 @@
-[[def: authenticity, authentic]]
+[[def: authenticity, authenticity, authentic]]
 
 ~ The [[ref: property]] of being genuine and being able to be [[ref: verified]] and trusted; confidence in the [[ref: validity]] of a transmission, a [[ref: message]], or message originator.
 

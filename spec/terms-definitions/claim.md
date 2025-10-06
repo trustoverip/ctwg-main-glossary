@@ -1,4 +1,4 @@
-[[def: claim, claims, claimed, claiming]]
+[[def: claim, claim, claims, claimed, claiming]]
 
 ~ An assertion about a [[ref: subject]], typically expressed as an [[ref: attribute]] or [[ref: property]] of the [[ref: subject]]. It is called a “claim” because the assertion is always made by some [[ref: party]], called the [[ref: issuer]] of the claim, and the [[ref: validity]] of the claim must be judged by the [[ref: verifier]]. 
 

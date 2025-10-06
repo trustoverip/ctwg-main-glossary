@@ -1,3 +1,3 @@
-[[def: governing authority, governing authorities]]
+[[def: governing-authority, governing authority, governing authorities]]
 
 ~ See: [[ref: governing body]].

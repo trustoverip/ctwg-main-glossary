@@ -1,4 +1,4 @@
-[[def: authorization, authorizations, authorize, authorized, unauthorized, authorizing, unauthorizing, authorisation, authorisations, authorise, authorised, unauthorised, authorising, unauthorising]]
+[[def: authorization, authorization, authorizations, authorize, authorized, unauthorized, authorizing, unauthorizing, authorisation, authorisations, authorise, authorised, unauthorised, authorising, unauthorising]]
 
 ~ The process of [[ref: verifying]] that a requested [[ref: action]] or service is approved for a specific [[ref: entity]].
 

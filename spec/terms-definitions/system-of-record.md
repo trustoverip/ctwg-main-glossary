@@ -1,4 +1,4 @@
-[[def: system of record, systems of record]]
+[[def: system-of-record, system of record, systems of record]]
 
 ~ A system of record (SOR) or source system of record (SSoR) is a data management term for an information storage system (commonly implemented on a computer system running a database management system) that is the [[ref: authoritative source]] for a given data element or piece of information. 
 

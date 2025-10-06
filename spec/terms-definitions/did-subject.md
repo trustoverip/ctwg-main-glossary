@@ -1,4 +1,4 @@
-[[def: DID subject, DID subjects]]
+[[def: did-subject, DID subject, DID subjects]]
 
 ~ The [[ref: entity]] identified by a [[ref: DID]] and described by a [[ref: DID document]]. Anything can be a DID subject: person, group, organization, physical thing, digital thing, logical thing, etc.
 

@@ -1,3 +1,3 @@
-[[def: TCP]]
+[[tref: toip2, TCP]]
 
-~ See: [[ref: Transmission Control Protocol]].
+~ - - -

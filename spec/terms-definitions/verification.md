@@ -1,10 +1,12 @@
-[[def: verification, verify, verifies, verified, verifying]]
+[[def: verification, verification, verify, verifies, verified, verifying]]
 
 ~ An [[ref: action]] an [[ref: agent]] (of a [[ref: principal]]) performs to determine the [[ref: authenticity]] of a [[ref: claim]] or other data object. [[ref: Cryptographic verification]] uses [[ref: cryptographic keys]].
 
 ~ See also: [[ref: validation]].
 
 ~ Mental model: [W3C Verifiable Credentials Data Model Roles & Information Flows](https://www.w3.org/TR/vc-data-model/#roles)
+
+~ See also: KERI scope definition of [[xref: keri1, verification]]
 
 ~ Supporting definitions:
 

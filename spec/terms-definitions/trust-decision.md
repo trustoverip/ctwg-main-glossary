@@ -1,4 +1,4 @@
-[[def: trust decision, trust decisions]]
+[[def: trust-decision, trust decision, trust decisions]]
 
 ~ A decision that a [[ref: party]] needs to make about whether to engage in a specific interaction or [[ref: transaction]] with another [[ref: entity]] that involves real or perceived [[ref: risks]].
 

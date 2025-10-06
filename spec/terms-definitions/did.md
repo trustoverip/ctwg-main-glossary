@@ -1,3 +1,3 @@
-[[def: DID]]
+[[def: did, DID]]
 
 ~ See: [[ref: decentralized identifier]]

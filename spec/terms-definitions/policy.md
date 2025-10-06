@@ -1,4 +1,4 @@
-[[def: policy, policies]]
+[[def: policy, policy, policies]]
 
 ~ Statements,[[ref: rules]], or assertions that specify the correct or expected behavior of an [[ref: entity]]. For example, an [[ref: authorization]] policy might specify the correct [[ref: access control]] rules for a software component. Policies may be [[ref: human-readable]] or [[ref: machine-readable]] or both.
 

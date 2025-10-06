@@ -1,4 +1,4 @@
-[[def: identifier, identifiers]]
+[[def: identifier, identifier, identifiers]]
 
 ~ A single [[ref: attribute]]—typically a character string—that uniquely identifies an [[ref: entity]] within a specific context (which may be a global context). Examples include the name of a [[ref: party]], the URL of an [[ref: organization]], or a serial number for a [[ref: man-made thing]].
 

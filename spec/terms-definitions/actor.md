@@ -1,4 +1,4 @@
-[[def: actor, actors]]
+[[def: actor, actor, actors]]
 
 ~ An [[ref: entity]] that can act (do things/execute [[ref: actions]]), e.g. people, machines, but not [[ref: organizations]]. A [[ref: digital agent]] can serve as an actor acting on behalf of its [[ref: principal]].
 

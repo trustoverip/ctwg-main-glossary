@@ -1,3 +1,3 @@
-[[def: zero-knowledge service provider, zero-knowledge service providers]]
+[[def: zero-knowledge-service-provider, zero-knowledge service provider, zero-knowledge service providers]]
 
 ~ The provider of a [[ref: zero-knowledge service]] that hosts [[ref: encrypted]] [[ref: data]] on behalf of the [[ref: principal]] but does not have access to the [[ref: private keys]] in order to be able to [[ref: decrypt]] it.

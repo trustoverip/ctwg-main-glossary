@@ -1,4 +1,4 @@
-[[def: relationship]]
+[[def: relationship, relationship]]
 
 ~ See [[ref: ToIP relationship]].
 

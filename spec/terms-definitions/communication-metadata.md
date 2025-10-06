@@ -1,4 +1,4 @@
-[[def: communication metadata, communications metadata]]
+[[def: communication-metadata, communication metadata, communications metadata]]
 
 ~ [[ref: Metadata]] that describes the sender, receiver, [[ref: routing]], handling, or contents of a [[ref: communication]]. Communication metadata is often observable even if the contents of the [[ref: communication]] are encrypted.
 

@@ -1,4 +1,4 @@
-[[def: custodian, custodians]]
+[[def: custodian, custodian, custodians]]
 
 ~ A [[ref: third party]] that has been assigned rights and duties in a [[ref: custodianship arrangement]] for the purpose of hosting and safeguarding a [[ref: principal]]'s [[ref: private keys]], [[ref: digital wallet]] and [[ref: digital assets]] on the [[ref: principal]]’s behalf. Depending on the [[ref: custodianship arrangement]], the custodian may act as an exchange and provide additional services, such as staking, lending, account recovery, or security features.
 

@@ -1,4 +1,4 @@
-[[def: presentation attack, presentation attacks]]
+[[def: presentation-attack, presentation attack, presentation attacks]]
 
 ~ A type of cybersecurity attack in which the attacker attempts to defeat a [[ref: biometric]] [[ref: liveness detection]] system by providing false inputs.
 

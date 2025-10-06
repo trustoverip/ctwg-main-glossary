@@ -1,4 +1,4 @@
-[[def: authentication, authenticate, authenticates, authenticated, authenticating]]
+[[def: authentication, authentication, authenticate, authenticates, authenticated, authenticating]]
 
 ~ Verifying the [[ref: identity]] of a user, process, or device, often as a prerequisite to allowing access to resources in an information system.
 

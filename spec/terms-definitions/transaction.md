@@ -1,4 +1,4 @@
-[[def: transaction, transactions]]
+[[def: transaction, transaction, transactions]]
 
 ~ A discrete event between a user and a system that supports a business or programmatic purpose. A digital system may have multiple categories or types of transactions, which may require separate analysis within the overall digital identity [[ref: risk assessment]].
 

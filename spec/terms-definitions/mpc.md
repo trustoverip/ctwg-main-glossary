@@ -1,3 +1,3 @@
-[[def: MPC]]
+[[def: mpc, MPC]]
 
 ~ See: [[ref: multi-party computation]].

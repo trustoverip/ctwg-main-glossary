@@ -1,4 +1,4 @@
-[[def: self-sovereign identity, SSI]]
+[[def: self-sovereign-identity, self-sovereign identity, SSI]]
 
 ~ Self-sovereign identity is a [[ref: decentralized identity]] architecture that implements the [[ref: Principles of SSI]] — principally that it puts the [[ref: identity controller]] (e.g., a [[ref: natural person]] or [[ref: organization]]) directly in control of the [[ref: identifiers]] and [[ref: credentials]] they use to assert their [[ref: digital identity]].
 

@@ -1,4 +1,4 @@
-[[def: confidential computing]]
+[[def: confidential-computing, confidential computing]]
 
 ~ Hardware-enabled features that isolate and process [[ref: encrypted]] [[ref: data]] in memory so that the [[ref: data]] is at less risk of exposure and compromise from concurrent workloads or the underlying system and platform.
 

@@ -1,4 +1,4 @@
-[[def: metadata]]
+[[def: metadata, metadata]]
 
 ~ Information describing the characteristics of [[ref: data]] including, for example, structural metadata describing data structures (e.g., data format, syntax, and semantics) and descriptive metadata describing data contents (e.g., information security labels).
 

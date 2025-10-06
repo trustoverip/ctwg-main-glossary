@@ -1,4 +1,4 @@
-[[def: identity, identities]]
+[[def: identity, identity, identities]]
 
 ~ A collection of [[ref: attributes]] or other [[ref: identity data]] that describe an [[ref: entity]] and enable it to be distinguished from all other [[ref: entities]] within a specific [[ref: scope]] of [[ref: identification]]. Identity attributes may include one or more [[ref: identifiers]] for an [[ref: entity]], however it is possible to establish an identity without using [[ref: identifiers]].
 

@@ -1,4 +1,4 @@
-[[def: dark pattern, dark patterns]]
+[[def: dark-pattern, dark pattern, dark patterns]]
 
 ~ A design pattern, mainly in user interfaces, that has the effect of deceiving individuals into making choices that are advantageous to the designer.
 

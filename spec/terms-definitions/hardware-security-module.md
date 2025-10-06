@@ -1,4 +1,4 @@
-[[def: hardware security module, hardware security modules, HSM, HSMs]]
+[[def: hardware-security-module, hardware security module, hardware security modules, HSM, HSMs]]
 
 ~ A physical computing device that provides tamper-evident and intrusion-resistant safeguarding and management of digital [[ref: keys]] and other secrets, as well as crypto-processing.
 
