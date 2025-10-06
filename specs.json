@@ -29,7 +29,7 @@
         "host": "github",
         "account": "trustoverip",
         "repo": "ctwg-main-glossary",
-        "branch": "transformDefs"
+        "branch": "main"
       },
       "external_specs": [
         {
