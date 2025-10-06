@@ -1,4 +1,4 @@
-[[def: user agent, user agents]]
+[[def: user-agent, user agent, user agents]]
 
 ~ A [[ref: software agent]] that is used directly by the end-user as the [[ref: principal]]. Browsers, email clients, and [[ref: digital wallets]] are all examples of user agents.
 

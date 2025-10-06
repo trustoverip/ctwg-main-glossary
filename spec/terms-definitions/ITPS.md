@@ -1,3 +1,3 @@
-[[def: ITPS, ITPS]]
+[[def: itps, ITPS, ITPS]]
 
 ~ [[ref: information-theoretic-security]]

@@ -1,4 +1,4 @@
-[[def: plaintext, plaintexts]]
+[[def: plaintext, plaintext, plaintexts]]
 
 ~ Unencrypted information that may be input to an [[ref: encryption]] operation. Once encrypted, it becomes [[ref: ciphertext]].
 

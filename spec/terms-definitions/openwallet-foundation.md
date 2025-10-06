@@ -1,4 +1,4 @@
-[[def: OpenWallet Foundation]]
+[[def: openwallet-foundation, OpenWallet Foundation]]
 
 ~ A non-profit project of the [Linux Foundation](https://www.linuxfoundation.org/) chartered to build a world-class open source [[ref: wallet engine]].
 

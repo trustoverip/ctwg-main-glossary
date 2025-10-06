@@ -1,4 +1,4 @@
-[[def: presentation, presentations, present, presents, presenting, presented]]
+[[def: presentation, presentation, presentations, present, presents, presenting, presented]]
 
 ~ A [[ref: verifiable]] [[ref: message]] that a [[ref: holder]] may send to a [[ref: verifier]] containing [[ref: proofs]] of one or more [[ref: claims]] derived from one or more [[ref: digital credentials]] from one or more [[ref: issuers]] as a response to a specific [[ref: presentation request]] from a  [[ref: verifier]].
 

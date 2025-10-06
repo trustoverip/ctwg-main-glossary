@@ -1,4 +1,4 @@
-[[def: data schema, data schemas]]
+[[def: data-schema, data schema, data schemas]]
 
 ~ A description of the structure of a digital document or object, typically expressed in a [[ref: machine-readable]] language in terms of constraints on the structure and content of documents or objects of that type. A credential schema is a particular type of data schema.
 

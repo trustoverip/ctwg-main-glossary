@@ -1,4 +1,4 @@
-[[def: privacy policy, privacy policies]]
+[[def: privacy-policy, privacy policy, privacy policies]]
 
 ~ A statement or legal document (in privacy law) that discloses some or all of the ways a [[ref: party]] gathers, uses, discloses, and manages a customer or client's [[ref: data]].
 

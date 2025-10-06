@@ -1,4 +1,4 @@
-[[def: agent, agents]]
+[[def: agent, agent, agents]]
 
 ~ An [[ref: actor]] that is executing an [[ref: action]] on behalf of a [[ref: party]] (called the [[ref: principal]] of that [[ref: actor]]). In the context of decentralized digital trust infrastructure, the term “agent” is most frequently used to mean a [[ref: digital agent]].
 

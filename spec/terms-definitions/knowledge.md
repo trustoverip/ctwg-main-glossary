@@ -1,4 +1,4 @@
-[[def: knowledge]]
+[[def: knowledge, knowledge]]
 
 ~ The (intangible) sum of what is known by a specific [[ref: party]], as well as the familiarity, awareness or understanding of someone or something by that [[ref: party]].
 

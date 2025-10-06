@@ -1,4 +1,4 @@
-[[def: risk management]]
+[[def: risk-management, risk management]]
 
 ~ The process of managing [[ref: risks]] to organizational operations (including mission, functions, image, or reputation), organizational assets, or individuals resulting from the operation of an information system, and includes: (i) the conduct of a [[ref: risk assessment]]; (ii) the implementation of a [[ref: risk mitigation]] strategy; and (iii) employment of techniques and procedures for the continuous monitoring of the security state of the information system.
 

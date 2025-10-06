@@ -1,4 +1,4 @@
-[[def: certificate authority, certificate authorities]]
+[[def: certificate-authority, certificate authority, certificate authorities]]
 
 ~ The entity in a [[ref: public key infrastructure]] (PKI) that is responsible for issuing [[ref: public key certificates]] and exacting compliance to a PKI policy.
 

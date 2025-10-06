@@ -1,4 +1,4 @@
-[[def: audit, audits]]
+[[def: audit, audit, audits]]
 
 ~ Independent review and examination of records and activities to assess the adequacy of system controls, to ensure compliance with established [[ref: policies]] and operational procedures.
 

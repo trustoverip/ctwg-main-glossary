@@ -1,4 +1,4 @@
-[[def: Content Authenticity Initiative]]
+[[def: content-authenticity-initiative, Content Authenticity Initiative]]
 
 ~ The Content Authenticity Initiative (CAI) is an association founded in November 2019 by Adobe, the New York Times and Twitter. The CAI promotes an industry standard for provenance [[ref: metadata]] defined by the [[ref: C2PA]]. The CAI cites curbing disinformation as one motivation for its activities.
 

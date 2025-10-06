@@ -1,4 +1,4 @@
-[[def: federated identity, federated identities]]
+[[def: federated-identity, federated identity, federated identities]]
 
 ~ A [[ref: digital identity]] architecture in which a [[ref: digital identity]] established on one computer system, network, or [[ref: trust domain]] is linked to other computer systems, networks, or [[ref: trust domains]] for the purpose of identifying the same [[ref: entity]] across those domains.
 

@@ -1,4 +1,4 @@
-[[def: personally identifiable information, PII]]
+[[def: personally-identifiable-information, personally identifiable information, PII]]
 
 ~ Information (any form of [[ref: data]]) that can be used to directly or indirectly [[ref: identify]] or re-identify an individual person either singly or in combination within a single [[ref: record]] or in correlation with other [[ref: records]]. This information can be one or more [[ref: attributes]]/fields/[[ref: properties]] in a [[ref: record]] (e.g., date-of-birth) or one or more [[ref: records]] (e.g., medical records).
 

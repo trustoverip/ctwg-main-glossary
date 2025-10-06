@@ -1,3 +1,3 @@
-[[def: role credential, role credentials]]
+[[def: role-credential, role credential, role credentials]]
 
 ~ A [[ref: credential]] [[ref: claiming]] that the [[ref: subject]] has a specific [[ref: role]].

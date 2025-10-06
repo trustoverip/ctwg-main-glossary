@@ -1,4 +1,4 @@
-[[def: guardian, guardians]]
+[[def: guardian, guardian, guardians]]
 
 ~ A [[ref: party]] that has been assigned rights and duties in a [[ref: guardianship arrangement]] for the purpose of caring for, protecting, guarding, and defending the [[ref: entity]] that is the [[ref: dependent]] in that [[ref: guardianship arrangement]]. In the context of decentralized digital trust infrastructure, a guardian is issued [[ref: guardianship credentials]] into their own [[ref: digital wallet]] in order to perform such [[ref: actions]] on behalf of the [[ref: dependent]] as are required by this [[ref: role]].
 

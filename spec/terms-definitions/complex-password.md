@@ -1,4 +1,4 @@
-[[def: complex password, complex passwords]]
+[[def: complex-password, complex password, complex passwords]]
 
 ~ A [[ref: password]] that meets certain security requirements, such as minimum length, inclusion of different character types, non-repetition of characters, and so on.
 

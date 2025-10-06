@@ -1,4 +1,4 @@
-[[def: guardianship arrangement, guardianship arrangements, guardianship, guardianships]]
+[[def: guardianship-arrangement, guardianship arrangement, guardianship arrangements, guardianship, guardianships]]
 
 ~ A guardianship arrangement (in a [[ref: jurisdiction]]) is the specification of a set of rights and duties between [[ref: legal entities]] of the [[ref: jurisdiction] that enforces these rights and duties, for the purpose of caring for, protecting, guarding, and defending one or more of these [[erf: entities]]. At a minimum, the entities participating in a guardianship arrangement are the [[ref: guardian]] and the [[ref: dependent]].
 

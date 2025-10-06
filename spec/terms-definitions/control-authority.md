@@ -1,4 +1,4 @@
-[[def: control-authority, control authority]]
+[[def: control-authority, control-authority, control authority]]
 
 ~ In identity systems Control Authority is who controls what and that is the primary factor in determining the basis for trust in them. The entity with *control authority* takes action through operations that affect the
 ~ - creation (inception)

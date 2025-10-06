@@ -1,4 +1,4 @@
-[[def: verification, verify, verifies, verified, verifying]]
+[[def: verification, verification, verify, verifies, verified, verifying]]
 
 ~ An [[ref: action]] an [[ref: agent]] (of a [[ref: principal]]) performs to determine the [[ref: authenticity]] of a [[ref: claim]] or other data object. [[ref: Cryptographic verification]] uses [[ref: cryptographic keys]].
 

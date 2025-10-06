@@ -1,4 +1,4 @@
-[[def: attribute, attributes]]
+[[def: attribute, attribute, attributes]]
 
 ~ An identifiable set of data that describes an [[ref: entity]], which is the [[ref: subject]] of the attribute. 
 

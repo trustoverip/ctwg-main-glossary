@@ -1,4 +1,4 @@
-[[def: personal data store, personal data stores, PDS, PDSs]]
+[[def: personal-data-store, personal data store, personal data stores, PDS, PDSs]]
 
 ~ See: [[ref: personal data vault]].
 

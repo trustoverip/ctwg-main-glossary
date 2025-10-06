@@ -1,4 +1,4 @@
-[[def: governance framework, governance frameworks]]
+[[def: governance-framework, governance framework, governance frameworks]]
 
 ~ A collection of one or more [[ref: governance documents]] published by the [[ref: governing body]] of a [[ref: trust community]]. 
 

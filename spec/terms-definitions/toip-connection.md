@@ -1,3 +1,3 @@
-[[def: ToIP connection, ToIP connections]]
+[[def: toip-connection, ToIP connection, ToIP connections]]
 
 ~ See: [[ref: ToIP relationship]].

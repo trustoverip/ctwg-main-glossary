@@ -1,4 +1,4 @@
-[[def: key event log, key event logs]]
+[[def: key-event-log, key event log, key event logs]]
 
 ~ An ordered sequence of [[ref: records]] of [[ref: key events]].
 

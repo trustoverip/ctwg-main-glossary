@@ -1,4 +1,4 @@
-[[def: verifiable credential, verifiable credentials, VC, VCs]]
+[[def: verifiable-credential, verifiable credential, verifiable credentials, VC, VCs]]
 
 ~ A standard data model and representation format for [[ref: cryptographically-verifiable]] [[ref: digital credentials]] as defined by the [[ref: W3C Verifiable Credentials Data Model Specification]].
 

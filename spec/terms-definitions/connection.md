@@ -1,4 +1,4 @@
-[[def: connection, connections]]
+[[def: connection, connection, connections]]
 
 ~ A [[ref: communication channel]] established between two [[ref: communication endpoints]]. A connection may be ephemeral or persistent.
 

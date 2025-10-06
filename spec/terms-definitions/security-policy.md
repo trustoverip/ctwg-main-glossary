@@ -1,4 +1,4 @@
-[[def: security policy, security policies]]
+[[def: security-policy, security policy, security policies]]
 
 ~ A set of [[ref: policies]] and [[ref: rules]] that governs all aspects of security-relevant system and system element behavior.
 

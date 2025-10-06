@@ -1,4 +1,4 @@
-[[def: federation, federate, federates, federated]]
+[[def: federation, federation, federate, federates, federated]]
 
 ~ A group of [[ref: organizations]] that collaborate to establish a common [[ref: trust framework]] or [[ref: governance framework]] for the exchange of [[ref: identity data]] in a [[ref: federated identity]] system.
 

@@ -1,4 +1,4 @@
-[[def: message, messages]]
+[[def: message, message, messages]]
 
 ~ A discrete unit of [[ref: communication]] intended by the source for consumption by some recipient or group of recipients.
 

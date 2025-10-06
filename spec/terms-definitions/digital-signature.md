@@ -1,4 +1,4 @@
-[[def: digital signature, digital signatures, digitally sign, digitally signed, digital signing, cryptographic signature, cryptographic signatures]]
+[[def: digital-signature, digital signature, digital signatures, digitally sign, digitally signed, digital signing, cryptographic signature, cryptographic signatures]]
 
 ~ A digital signature is a mathematical scheme that uses cryptography for verifying the authenticity of digital [[ref: messages]] or documents. A valid digital signature, where the prerequisites are satisfied, gives a recipient very high confidence that the [[ref: message]] was created by a known sender ([[ref: authenticity]]), and that the message was not altered in transit ([[ref: integrity]]).
 

@@ -1,4 +1,4 @@
-[[def: governance document, governance documents]]
+[[def: governance-document, governance document, governance documents]]
 
 ~ A document with at least one [[ref: identifier]] that specifies [[ref: governance requirements]] for a [[ref: trust community]]. 
 

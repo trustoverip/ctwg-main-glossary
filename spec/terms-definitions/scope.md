@@ -1,4 +1,4 @@
-[[def: scope, scopes]]
+[[def: scope, scope, scopes]]
 
 ~ In the context of [[ref: terminology]], scope refers to the set of possible [[ref: concepts]] within which: a) a specific [[ref: term]] is intended to uniquely identify a [[ref: concept]], or b) a specific [[ref: glossary]] is intended to identify a set of [[ref: concepts]]. In the context of [[ref: identification]], scope refers to the set of possible entities within which a specific entity must be uniquely identified. In the context of [[ref: specifications]], scope refers to the set of problems (the problem space) within which the specification is intended to specify solutions.
 

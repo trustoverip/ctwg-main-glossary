@@ -1,4 +1,4 @@
-[[def: ToIP Technology Architecture Specification]]
+[[def: toip-technology-architecture-specification, ToIP Technology Architecture Specification]]
 
 ~ The [[ref: technical specification]] defining the [[ref: requirements]] for the [[ref: ToIP Technology Stack]] published by the [[ref: ToIP Foundation]]. 
 

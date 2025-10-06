@@ -1,4 +1,4 @@
-[[def: digital agent, digital agents]]
+[[def: digital-agent, digital agent, digital agents]]
 
 ~ In the context of ​​decentralized digital trust infrastructure, a [[ref: software agent]] that operates in conjunction with a [[ref: digital wallet]] to take [[ref: actions]] on behalf of its [[ref: controller]].
 

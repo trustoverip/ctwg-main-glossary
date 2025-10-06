@@ -1,4 +1,4 @@
-[[def: endpoint, endpoints]]
+[[def: endpoint, endpoint, endpoints]]
 
 ~ See: [[ref: communication endpoint]].
 

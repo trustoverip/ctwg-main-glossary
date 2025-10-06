@@ -1,3 +1,3 @@
-[[def: TTP]]
+[[def: ttp, TTP]]
 
 ~ See: [[ref: trusted third party]].

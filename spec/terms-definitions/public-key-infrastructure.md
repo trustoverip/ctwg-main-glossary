@@ -1,4 +1,4 @@
-[[def: public key infrastructure, public key infrastructures, PKI, PKIs]]
+[[def: public-key-infrastructure, public key infrastructure, public key infrastructures, PKI, PKIs]]
 
 ~ A set of policies, processes, server platforms, software and workstations used for the purpose of administering [[ref: certificates]] and public-private [[ref: key pairs]], including the ability to [[ref: issue]], maintain, and [[ref: revoke]] [[ref: public key certificates]]. The PKI includes the hierarchy of [[ref: certificate authorities]] that allow for the deployment of [[ref: digital certificates]] that support [[ref: encryption]], [[ref: digital signature]] and [[ref: authentication]] to meet business and security requirements.
 

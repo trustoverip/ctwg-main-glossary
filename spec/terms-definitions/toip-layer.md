@@ -1,4 +1,4 @@
-[[def: ToIP layer, ToIP layers]]
+[[def: toip-layer, ToIP layer, ToIP layers]]
 
 ~ One of four [[ref: protocol layers]] in the [[ref: ToIP stack]]. The four layers are [[ref: ToIP Layer 1]], [[ref: ToIP Layer 2]], [[ref: ToIP Layer 3]], and [[ref: ToIP Layer 4]].
 

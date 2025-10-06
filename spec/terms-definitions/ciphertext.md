@@ -1,4 +1,4 @@
-[[def: ciphertext, ciphertexts]]
+[[def: ciphertext, ciphertext, ciphertexts]]
 
 ~ [[ref: Encrypted]] (enciphered) [[ref: data]]. The [[ref: confidential]] form of the [[ref: plaintext]] that is the output of the [[ref: encryption]] function.
 

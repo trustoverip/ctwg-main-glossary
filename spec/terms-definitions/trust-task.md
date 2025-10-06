@@ -1,4 +1,4 @@
-[[def: trust task, trust tasks]]
+[[def: trust-task, trust task, trust tasks]]
 
 ~ A specific task that involves establishing, verifying, or maintaining [[ref: trust relationships]] or exchanging [[ref: verifiable messages]] or [[ref: verifiable data]] that can be performed on behalf of a [[ref: trust application]] by a [[ref: trust task protocol]] at [[ref: Layer 3]] of the [[ref: ToIP stack]].
 

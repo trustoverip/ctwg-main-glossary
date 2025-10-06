@@ -1,4 +1,4 @@
-[[def: consent management]]
+[[def: consent-management, consent management]]
 
 ~ A system, process or set of policies under which a [[ref: person]] agrees to share [[ref: personal data]] for specific usages. A consent management system will typically create a [[ref: record]] of such consent.
 

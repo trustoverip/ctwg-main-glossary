@@ -1,4 +1,4 @@
-[[def: communication channel, communication channels]]
+[[def: communication-channel, communication channel, communication channels]]
 
 ~ A communication channel refers either to a physical transmission medium such as a wire, or to a logical [[ref: connection]] over a multiplexed medium such as a radio channel in telecommunications and computer networking. A channel is used for information transfer of, for example, a digital bit stream, from one or several senders to one or several receivers.
 

@@ -1,4 +1,4 @@
-[[def: confidentiality, confidential]]
+[[def: confidentiality, confidentiality, confidential]]
 
 ~ In a [[ref: communications]] context, a type of privacy protection in which [[ref: messages]] use [[ref: encryption]] or other privacy-preserving technologies so that only [[ref: authorized]] [[ref: parties]] have access.
 

@@ -1,4 +1,4 @@
-[[def: host, hosts]]
+[[def: host, host, hosts]]
 
 ~ A host is any hardware device that has the capability of permitting access to a network via a user interface, specialized software, [[ref: network address]], [[ref: protocol stack]], or any other means. Some examples include, but are not limited to, computers, personal electronic devices, thin clients, and multi-functional devices.
 

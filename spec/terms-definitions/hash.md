@@ -1,4 +1,4 @@
-[[def: hash, hashes, hash value, hash output, hash result]]
+[[def: hash, hash, hashes, hash value, hash output, hash result]]
 
 ~ The result of applying a [[ref: hash function]] to a [[ref: message]].
 

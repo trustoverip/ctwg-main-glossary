@@ -1,3 +1,3 @@
-[[def: governed use case, governed use cases]]
+[[def: governed-use-case, governed use case, governed use cases]]
 
 ~ A use case specified in a [[ref: governance document]] that results in specific [[ref: governance requirements]] within that [[ref: governance framework]]. Governed use cases may optionally be discovered via a [[ref: trust registry]] authorized by the relevant [[ref: governance framework]].

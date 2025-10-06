@@ -1,4 +1,4 @@
-[[def: sensitive data]]
+[[def: sensitive-data, sensitive data]]
 
 ~ [[ref: Personal data]] that a reasonable [[ref: person]] would view from a privacy protection standpoint as requiring special care above and beyond other [[ref: personal data]].
 

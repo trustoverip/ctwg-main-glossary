@@ -1,4 +1,4 @@
-[[def: digital identity, digital identities, digital ID, digital IDs]]
+[[def: digital-identity, digital identity, digital identities, digital ID, digital IDs]]
 
 ~ An [[ref: identity]] expressed in a digital form for the purpose representing the identified [[ref: entity]] within a computer system or digital network.
 

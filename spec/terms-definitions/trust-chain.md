@@ -1,4 +1,4 @@
-[[def: trust chain, trust chains]]
+[[def: trust-chain, trust chain, trust chains]]
 
 ~ A set of [[ref: cryptographically verifiable]] links between [[ref: digital credentials]] or other [[ref: data]] containers that enable [[ref: transitive trust decisions]].
 

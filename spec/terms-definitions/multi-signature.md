@@ -1,4 +1,4 @@
-[[def: multi-signature, multi-sig]]
+[[def: multi-signature, multi-signature, multi-sig]]
 
 ~ A [[ref: cryptographic signature]] scheme where the process of signing information (e.g., a transaction) is distributed among multiple [[ref: private keys]].
 

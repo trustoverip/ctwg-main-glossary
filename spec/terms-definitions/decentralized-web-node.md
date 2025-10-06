@@ -1,4 +1,4 @@
-[[def: Decentralized Web Node, Decentralized Web Nodes]]
+[[def: decentralized-web-node, Decentralized Web Node, Decentralized Web Nodes]]
 
 ~ A decentralized personal and application data storage and message relay node, as defined in the DIF Decentralized Web Node specification. Users may have multiple nodes that replicate their data between them.
 

@@ -1,4 +1,4 @@
-[[def: integrity]]
+[[def: integrity, integrity]]
 
 ~ - General IT: [[xref:toip2, integrity]] and KERI specific: [[xref:keri1, integrity]]
 

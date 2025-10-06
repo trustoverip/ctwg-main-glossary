@@ -1,4 +1,4 @@
-[[def: natural thing, natural things]]
+[[def: natural-thing, natural thing, natural things]]
 
 ~ A [[ref: thing]] that exists in the natural world independently of humans. Although natural things may form part of a [[ref: man-made thing]], natural things are mutually exclusive with [[ref: man-made things]]. 
 

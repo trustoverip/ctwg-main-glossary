@@ -1,4 +1,4 @@
-[[def: cryptographic verifiability, cryptographic verification]]
+[[def: cryptographic-verifiability, cryptographic verifiability, cryptographic verification]]
 
 ~ The [[ref: property]] of being [[ref: cryptographically verifiable]].
 

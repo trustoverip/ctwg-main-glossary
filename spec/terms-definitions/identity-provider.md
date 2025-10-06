@@ -1,4 +1,4 @@
-[[def: identity provider, identity providers, IdP, IdPs]]
+[[def: identity-provider, identity provider, identity providers, IdP, IdPs]]
 
 ~ An identity provider (abbreviated IdP or IDP) is a system [[ref: entity]] that creates, maintains, and manages [[ref: identity]] information for [[ref: principals]] and also provides [[ref: authentication]] services to relying applications within a [[ref: federation]] or distributed network.
 

@@ -1,4 +1,4 @@
-[[def: multicast address, multicast addresses]]
+[[def: multicast-address, multicast address, multicast addresses]]
 
 ~ A multicast address is a logical [[ref: identifier]] for a group of [[ref: hosts]] in a computer network that are available to process [[ref: datagrams]] or frames intended to be [[ref: multicast]] for a designated network service.
 

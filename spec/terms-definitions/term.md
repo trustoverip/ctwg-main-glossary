@@ -1,4 +1,4 @@
-[[def: term, terms]]
+[[def: term, term, terms]]
 
 ~ A unit of text (i.e., a word or phrase) that is used in a particular context or scope to refer to a [[ref: concept]] (or a relation between [[ref: concepts]], or a [[ref: property]] of a [[ref: concept]]).
 

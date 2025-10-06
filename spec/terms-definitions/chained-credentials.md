@@ -1,4 +1,4 @@
-[[def: chained credentials]]
+[[def: chained-credentials, chained credentials]]
 
 ~ Two or more [[ref: credentials]] linked together to create a [[ref: trust chain]] between the credentials that is [[ref: cryptographically verifiable]]. 
 

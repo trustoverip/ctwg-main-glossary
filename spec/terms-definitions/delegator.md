@@ -1,4 +1,4 @@
-[[def: delegator, delegators]]
+[[def: delegator, delegator, delegators]]
 
 ~ The [[ref: first party]] making a [[ref: delegation]] to a [[ref: second party]] (the [[ref: delegatee]]).
 

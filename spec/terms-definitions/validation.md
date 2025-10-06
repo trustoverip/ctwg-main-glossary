@@ -1,4 +1,4 @@
-[[def: validation, validity]]
+[[def: validation, validation, validity]]
 
 ~ An [[ref: action]] an [[ref: agent]] (of a [[ref: principal]]) performs to determine whether a digital object or set of [[ref: data]] meets the [[ref: requirements]] of a specific [[ref: party]].
 

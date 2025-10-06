@@ -1,4 +1,4 @@
-[[def: trust service provider, trust service providers]]
+[[def: trust-service-provider, trust service provider, trust service providers]]
 
 ~ In the context of specific [[ref: digital trust ecosystems]], such as the European Union’s eIDAS regulations, a trust service provider is a [[ref: legal entity]] that provides specific [[ref: trust support]] services as required by legal regulations, [[ref: trust frameworks]], or [[ref: governance frameworks]]. In the larger context of [[ref: ToIP]] infrastructure, a trust service provider is a provider of services based on the [[ref: ToIP stack]]. Most generally, a trust service provider is to the trust layer for the Internet what an Internet service provider (ISP) is to the Internet layer.
 

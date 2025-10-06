@@ -1,4 +1,4 @@
-[[def: certification body, certification bodies]]
+[[def: certification-body, certification body, certification bodies]]
 
 ~ A [[ref: legal entity]] that performs [[ref: certification]].
 

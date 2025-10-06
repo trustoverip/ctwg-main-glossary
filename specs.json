@@ -29,13 +29,13 @@
         "host": "github",
         "account": "trustoverip",
         "repo": "ctwg-main-glossary",
-        "branch": "integrate"
+        "branch": "transformDefs"
       },
       "external_specs": [
         {
             "external_spec": "toip2",
-            "gh_page": "https://henkvancann.github.io/ctwg-general-glossary/",
-            "url": "https://github.com/henkvancann/ctwg-general-glossary",
+            "gh_page": "https://trustoverip.github.io/ctwg-general-glossary/",
+            "url": "https://github.com/trustoverip/ctwg-general-glossary",
             "terms_dir": "spec/terms-definitions"
         },
         {
@@ -46,8 +46,8 @@
         },
         {
             "external_spec": "keri1",
-            "gh_page": "https://henkvancann.github.io/kerisuite-glossary/",
-            "url": "https://github.com/henkvancann/kerisuite-glossary",
+            "gh_page": "https://trustoverip.github.io/kerisuite-glossary/",
+            "url": "https://github.com/trustoverip/kerisuite-glossary",
             "terms_dir": "spec/terms-definitions"
         }
       ],

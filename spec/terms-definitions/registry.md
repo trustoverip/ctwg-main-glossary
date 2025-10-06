@@ -1,4 +1,4 @@
-[[def: registry, registries]]
+[[def: registry, registry, registries]]
 
 ~ A specialized database of [[ref: records]] that serves as an [[ref: authoritative source]] of information about [[ref: entities]].
 

@@ -1,3 +1,3 @@
-[[def: trust root, trust roots]]
+[[def: trust-root, trust root, trust roots]]
 
 ~ See: [[ref: trust anchor]]

@@ -1,4 +1,4 @@
-[[def: ToIP system, ToIP systems]]
+[[def: toip-system, ToIP system, ToIP systems]]
 
 ~ A computing system that participates in the [[ref: ToIP Technology Stack]]. There are three types of ToIP systems: [[ref: endpoint systems]], [[ref: intermediary systems]], and [[ref: supporting systems]].
 

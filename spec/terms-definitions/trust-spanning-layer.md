@@ -1,4 +1,4 @@
-[[def: trust spanning layer]]
+[[def: trust-spanning-layer, trust spanning layer]]
 
 ~ A [[ref: spanning layer]] designed to span between different digital [[ref: trust domains]]. In the [[ref: ToIP stack]], the trust spanning layer is [[ref: ToIP Layer 2]].
 

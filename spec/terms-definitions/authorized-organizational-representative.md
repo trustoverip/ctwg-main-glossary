@@ -1,4 +1,4 @@
-[[def: authorized organizational representative]]
+[[def: authorized-organizational-representative, authorized organizational representative]]
 
 ~ A [[ref: person]] who has the authority to make [[ref: claims]], sign documents or otherwise commit resources on behalf of an [[ref: organization]].
 

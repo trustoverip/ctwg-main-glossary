@@ -1,4 +1,4 @@
-[[def: peer, peers]]
+[[def: peer, peer, peers]]
 
 ~ In the context of digital networks, an [[ref: actor]] on the network that has the same status, privileges, and communications options as the other actors on the network.
 

@@ -1,4 +1,4 @@
-[[def: domain, domains]]
+[[def: domain, domain, domains]]
 
 ~ See: [[ref: security domain]].
 

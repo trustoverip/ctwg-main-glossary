@@ -1,4 +1,4 @@
-[[def: personal data]]
+[[def: personal-data, personal data]]
 
 ~ Any information relating to an identified or identifiable [[ref: natural person]] (called a [[ref: data subject]] under [[ref: GDPR]]).
 

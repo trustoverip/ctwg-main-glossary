@@ -1,3 +1,3 @@
-[[def: delegation credential, delegation credentials]]
+[[def: delegation-credential, delegation credential, delegation credentials]]
 
 ~ A [[ref: credential]] used to perform [[ref: delegation]].

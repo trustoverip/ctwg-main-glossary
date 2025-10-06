@@ -1,4 +1,4 @@
-[[def: objective, objectives]]
+[[def: objective, objective, objectives]]
 
 ~ Something toward which a [[ref: party]] (its [[ref: owner]]) directs effort (an aim, goal, or end of [[ref: action]]).
 

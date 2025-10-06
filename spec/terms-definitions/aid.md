@@ -1,4 +1,4 @@
-[[def: AID]]
+[[def: aid, AID]]
 
 ~ See [[ref: autonomic-identifier]].
 

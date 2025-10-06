@@ -1,4 +1,4 @@
-[[def: access control, access controls]]
+[[def: access-control, access control, access controls]]
 
 ~ The process of granting or denying specific requests for obtaining and using information and related information processing services.
 

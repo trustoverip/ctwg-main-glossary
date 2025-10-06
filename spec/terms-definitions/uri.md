@@ -1,3 +1,3 @@
-[[def: URI]]
+[[def: uri, URI]]
 
 ~ See: [[ref: Uniform Resource Identifier]].

@@ -1,4 +1,4 @@
-[[def: owner, owners]]
+[[def: owner, owner, owners]]
 
 ~ The [[ref: role]] that a [[ref: party]] performs when it is exercising its legal, rightful or natural title to control a specific [[ref: entity]].
 

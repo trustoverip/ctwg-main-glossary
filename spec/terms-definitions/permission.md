@@ -1,4 +1,4 @@
-[[def: permission, permissions]]
+[[def: permission, permission, permissions]]
 
 ~ [[ref: Authorization]] to perform some [[ref: action]] on a system.
 

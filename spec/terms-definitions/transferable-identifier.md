@@ -1,4 +1,4 @@
-[[def: transferable-identifier, transferable identifier]]
+[[def: transferable-identifier, transferable-identifier, transferable identifier]]
 
 ~ Control over the identifier [[ref: transferable]] by [[xref: keri1, rotation]].
 

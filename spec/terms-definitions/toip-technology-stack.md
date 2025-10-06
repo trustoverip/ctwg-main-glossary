@@ -1,4 +1,4 @@
-[[def: ToIP Technology Stack]]
+[[def: toip-technology-stack, ToIP Technology Stack]]
 
 ~ The technology half of the four layer [[ref: ToIP stack]] as defined by the [[ref: ToIP Technology Architecture Specification]].
 

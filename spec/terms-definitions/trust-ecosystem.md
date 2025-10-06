@@ -1,3 +1,3 @@
-[[def: trust ecosystem, trust ecosystems]]
+[[def: trust-ecosystem, trust ecosystem, trust ecosystems]]
 
 ~ See [[ref: digital trust ecosystem]].

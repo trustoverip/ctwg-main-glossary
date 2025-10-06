@@ -1,4 +1,4 @@
-[[def: delegation, delegate, delegated, delegates]]
+[[def: delegation, delegation, delegate, delegated, delegates]]
 
 ~ A person or group of persons officially elected or appointed to represent another or others.
 

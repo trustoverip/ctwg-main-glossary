@@ -1,4 +1,4 @@
-[[def: Principles of SSI]]
+[[def: principles-of-ssi, Principles of SSI]]
 
 ~ A set of principles for [[ref: self-sovereign identity]] systems originally defined by the Sovrin Foundation and republished by the [[ref: ToIP Foundation]].
 

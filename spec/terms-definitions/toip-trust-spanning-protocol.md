@@ -1,4 +1,4 @@
-[[def: ToIP Trust Spanning Protocol, TSP]]
+[[def: toip-trust-spanning-protocol, ToIP Trust Spanning Protocol, TSP]]
 
 ~ The ToIP Trust Spanning Protocol (TSP) is the ToIP Layer 2 protocol for [[ref: verifiable messaging]] that implements the [[ref: trust spanning layer]] of the [[ref: ToIP stack]].  The TSP enables [[ref: actors]] in different digital [[ref: trust domains]] to interact in a similar way to how the Internet Protocol (IP) enables devices on different local area networks to exchange data.
 

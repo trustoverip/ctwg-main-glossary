@@ -1,4 +1,4 @@
-[[def: impersonation, impersonate, impersonates, impersonated]]
+[[def: impersonation, impersonation, impersonate, impersonates, impersonated]]
 
 ~ In the context of cybersecurity, impersonation is when an attacker pretends to be another person in order to commit fraud or some other digital crime.
 

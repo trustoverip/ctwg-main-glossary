@@ -1,4 +1,4 @@
-[[def: Key Event Receipt Infrastructure]]
+[[def: key-event-receipt-infrastructure, Key Event Receipt Infrastructure]]
 
 ~ A decentralized permissionless [[ref: key management]] architecture.
 

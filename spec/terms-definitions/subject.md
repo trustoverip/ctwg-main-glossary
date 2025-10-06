@@ -1,4 +1,4 @@
-[[def: subject, subjects]]
+[[def: subject, subject, subjects]]
 
 ~ The [[ref: entity]] described by one or more [[ref: claims]], particularly in the context of [[ref: credentials]].
 

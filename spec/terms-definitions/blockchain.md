@@ -1,4 +1,4 @@
-[[def: blockchain, blockchains]]
+[[def: blockchain, blockchain, blockchains]]
 
 ~ A [[ref: distributed ledger]] of cryptographically-signed transactions that are grouped into blocks. Each block is cryptographically linked to the previous one (making it tamper evident) after [[ref: validation]] and undergoing a consensus decision. As new blocks are added, older blocks become more difficult to modify (creating [[ref: tamper resistance]]). New blocks are replicated across copies of the ledger within the network, and any conflicts are resolved automatically using established rules.
 
