@@ -1,4 +1,4 @@
-[[def: authentic-data, authentic-data, authentic data]]
+[[def: authentic-data, Authentic data, authentic data]]
 
 ~ [[ref: integrity]] and [[xref:toip2, provenance]]'d data.  
 ~ Source: Timothy Ruff, #IIW37
