@@ -10,18 +10,15 @@
       "markdown_paths": [
         "title.md",
         "header.md",
+        "foreword.md",
         "toc.md",
+        "revision_history.md",
+        "scope.md",
         "introduction.md",
         "referenced_glossaries.md",
-        "glossary-intro-created-by-split-tool.md",
         "terms-and-definitions-intro.md",
-        "annex.md",
         "biblio.md",
-        "clauses.md",
-        "foreword.md",
-        "glossaryIntro.md",
-        "revision_history.md",
-        "scope.md"
+        "annex.md"
       ],
       "logo": "https://raw.githubusercontent.com/trustoverip/logo-assets/master/logos/ToIP-Logo-Color-SolidDimensional-Horizontal-LightOnDark.svg",
       "logo_link": "https://github.com/trustoverip/specification-template",

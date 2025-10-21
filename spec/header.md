@@ -1,6 +1,10 @@
 ## Status
 
-This is the first public review draft of the ToIP Glossary. It is also the first version published using the [Spec-Up specification editing utility](https://identity.foundation/spec-up/) developed by the [Decentralized Identity Foundation](http://identity.foundation/).
+This is the first public review draft of the ToIP Glossary. It is also the first version published using the [Spec-Up-T specification editing utility](https://github.com/trustoverip/spec-up-t) developed by the [TrustoverIP](https://trustoverip.org).
+
+### Acknowledgement
+
+The first version was published using the [Spec-Up specification editing utility](https://identity.foundation/spec-up/). Thanks to the [Decentralized Identity Foundation](http://identity.foundation/) for this development. 
 
 ## Copyright Notice
 

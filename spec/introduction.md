@@ -1,12 +1,3 @@
-
-[//]: # (Pandoc Formatting Macros)
-
-[//]: # (::: introtitle)
-
-[//]: # (Introduction)
-
-[//]: # (:::)
-
 ## Introduction
 
 The ToIP Glossary is a deliverable of the ToIP Concepts and Terminology Working Group. Its purpose is to promote shared understanding of terms and concepts across the many different working groups, communities, enterprises, and ecosystems who are collaborating to develop and deploy decentralized digital trust infrastructure.
@@ -23,10 +14,12 @@ Where `xxxxx` is the term as it appears in the glossary, with any spaces are rep
 
   `https://trustoverip.github.io/ctwg-main-glossary#self-certifiying-identifier`
 
-A specification document written using the [Decentralized Identity Foundation](http://identity.foundation/)'s open source [Spec-Up editor](https://identity.foundation/spec-up/) may create special external references to terms in this glossary using the Spec-Up `xref` tag following this syntax:
 
-  `[[xref: glossary, xxxxx]]`
 
-  Where `glossary` is the text label the document author assigns to the URL of a Web-accessible glossary, and `xxxxx` is the term as it appears in that glossary, with any spaces are replaced by en-dashes (hyphens). For example, a Spec-Up external reference to the term `self-certifying identifer` using the label `toip` for this glossary would look like this:
+A specification document written using the [TrustoverIP](http://identity.foundation/)'s open source [Spec-Up-T editor](https://github.com/trustoverip/spec-up-t/) may create special external references to terms in this glossary using the Spec-Up `xref` tag following this syntax:
 
-  `[[xref: toip, self-certifying-identifier]]`
+  `[[xref: title, term, spelling]]`
+
+  Where `title` is the text label the document author assigns to the URL of a Web-accessible glossary, and `term` is the term as it appears in that glossary, with any spaces are replaced by en-dashes (hyphens). For example, a Spec-Up external reference to the term `self-certifying identifer` using the label `toip` for this glossary would look like this:
+
+  `[[xref: toip, self-certifying-identifier, Self-certifying identifier]]`
