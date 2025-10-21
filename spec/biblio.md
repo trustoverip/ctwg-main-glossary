@@ -1,6 +1,4 @@
+### Normative references
 
-[//]: # (Pandoc Formatting Macros)
+### Informative references
 
-[//]: # (\newpage)
-
-[//]: # (\makebibliography)
