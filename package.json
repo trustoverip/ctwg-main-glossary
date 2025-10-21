@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "dotenv": "^16.4.7",
-    "spec-up-t": "^1.4.1-beta.2"
+    "spec-up-t": "^1.4.1-beta.3"
   }
 }
